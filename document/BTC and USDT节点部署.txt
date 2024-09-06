@@ -1,0 +1,33 @@
+# cd /home
+# mkdir usdt
+# cd usdt
+# wget https://github.com/OmniLayer/omnicore/releases/download/v0.8.2/omnicore-0.8.2-x86_64-linux-gnu.tar.gz
+# tar xvf omnicore-0.8.2-x86_64-linux-gnu.tar.gz
+# mkdir data
+# vi bitcoin.conf
+---------------------------------------------------------------------------------------------
+# 数据存储目录（此路径为上面建立的数据储存路径的完整路径）
+datadir=/home/usdt/data
+# 使用测试网络（0：正式网，1：测试网）
+testnet=0
+# 告知 Bitcoin-Qt 和 bitcoind 接受JSON-RPC命令（是否启用命令和接受RPC服务）
+server=1
+# 设置 gen=1 以尝试比特币挖矿
+gen=0
+# 启用交易索引
+txindex=1
+# 后台执行（是否后台执行）
+daemon=0
+# 监听 RPC 链接,正式默认端口8333 测试默认18333（最好设置好，免得不清楚）
+rpcport=28332
+#RPC服务账号和密码，不设置的话是有默认密码的，本文没去深究默认，直接用自己设置的
+rpcuser=bizzan
+rpcpassword=Fr20729327
+#允许那些IP访问RPC接口，以下写法为默认所有ip都可访问，请自己修改成你自己的IP地址
+rpcallowip=0.0.0.0/0
+rpcconnect=127.0.0.1
+--------------------------------------------------------------------------------------------------
+# cd /home/usdt/omnicore-0.8.2/bin/
+# nohup ./omnicored -conf=/home/usdt/bitcoin.conf -reindex  >/dev/null 2>&1 &
+
+# ./omnicore-cli -rpcconnect=127.0.0.1 -rpcuser=bizzan -rpcpassword=Fr20729327 -rpcport=28332 getblockchaininfo

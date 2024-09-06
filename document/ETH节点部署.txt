@@ -1,0 +1,27 @@
+
+# cd /home
+# wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.9.15-0f77f34b.tar.gz
+# tar zxvfm geth-linux-amd64-1.9.15-0f77f34b.tar.gz
+# mv geth-linux-amd64-1.9.15-0f77f34b geth
+# cd /home/geth
+
+# nohup ./geth --datadir /home/eth/data --cache 1024 --rpc --rpcport 8545 --rpcaddr 127.0.0.1 --syncmode "light"  >/dev/null 2>&1 &
+
+#-打开控制台
+# ./geth attach rpc:"/home/eth/data/geth.ipc"
+
+#-创建账户，参数是密码
+# personal.newAccount(“Fr20729327”)
+
+#-查看用户
+# eth.accounts
+
+#-解锁账户
+# personal.unlockAccount(“0xf9ab190a9c56fd0d945eac9659c0c9519b13c64e”)
+
+#-给第一个账户解锁
+# user1=eth.accounts[0]
+# personal.unlockAccount(user1)
+
+#-查看账号余额
+# eth.getBalance(eth.accounts[0])
