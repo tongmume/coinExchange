@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackNormal"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:id="@+id/tvChildType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="@string/text_buy"
+            android:textColor="@color/typeGreen"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/ivChildGo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/icon_into"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/tvChildState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/ivChildGo"
+            android:text="@string/ent_status2"
+            android:textColor="@color/colorTextNormal"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="@string/time"
+            android:textColor="@color/colorTextNormal"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_enter_price_constract"
+                android:textSize="12sp" />
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:id="@+id/tvChildBase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(USDT)"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="right">
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/jiaoyi_weituoliang"
+                android:textSize="12sp" />
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:id="@+id/tvChildCoin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(BTC)"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tvChildTime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="15:28 04/08"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvChildPrice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1122.33"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvChildAmount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="1122.33"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="left">
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_total_deal"
+                android:textSize="12sp" />
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:id="@+id/tvChildTurnoverText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(USDT)"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_average_price"
+                android:textSize="12sp" />
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:id="@+id/tvChildAverageText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(USDT)"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="right">
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_volume"
+                android:textSize="12sp" />
+
+            <TextView
+                android:textColor="@color/colorTextNormal"
+                android:id="@+id/tvChildTradedAmountText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(BTC)"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/tvChildTurnover"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="15:28 04/08"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvChildAverage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1122.33"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvChildTradeAmount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="1122.33"
+            android:textColor="@color/primaryText"
+            android:textSize="12sp" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+</LinearLayout>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Indonesian">印尼語</string>
+    <string name="Portuguese">葡萄牙文</string>
+    <string name="Turkish">土耳其文</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"顯示全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="acceptcoin">接受幣種</string>
+    <string name="activitycoin">活動幣種</string>
+    <string name="activitytype">認購類型</string>
+    <string name="activitytype0">未知</string>
+    <string name="activitytype1">首次上線（搶購）</string>
+    <string name="activitytype2">首次上線（評分）</string>
+    <string name="activitytype3">持倉瓜分</string>
+    <string name="activitytype4">自由認購</string>
+    <string name="activitytype5">雲礦機認購</string>
+    <string name="activitytype6">鎖倉釋放</string>
+    <string name="alreadyamount">已購數量</string>
+    <string name="alreadyholdamount">活動參與總持倉</string>
+    <string name="attend">立即參與</string>
+    <string name="attention">注意</string>
+    <string name="attention1">1、提交參與【持倉瓜分】、【自由認購】、【雲礦機認購】、【鎖倉】類型活動後將凍結資產，活動結束後解凍或解鎖釋放</string>
+    <string name="attention2">2、參與【持倉瓜分】、【自由認購】、【雲礦機認購】、【鎖倉】類型活動後，用戶不得撤銷參與申請</string>
+    <string name="attention3">3、如因項目方及其他不可抗力因素取消活動，將原路退回凍結資產</string>
+    <string name="attention4">*本活動最終解釋權歸幣嚴（ WWW.BIZZAN.VIP ）官方所有</string>
+    <string name="balancenotenough">餘額不足</string>
+    <string name="column2">類型</string>
+    <string name="column3">認購數量</string>
+    <string name="column4">參與幣種</string>
+    <string name="column5">認購單位</string>
+    <string name="column6">當前狀態</string>
+    <string name="column7">創建時間</string>
+    <string name="column8">成交額</string>
+    <string name="commitfailed">提交參與失敗！</string>
+    <string name="currentdivided">當前我嘅持倉可瓜分約</string>
+    <string name="endtime">結束時間：</string>
+    <string name="gt3_geetest_analyzing">智能分析中...</string>
+    <string name="gt3_geetest_checking">智能驗證檢測中</string>
+    <string name="gt3_geetest_click">點擊按鈕進行驗證</string>
+    <string name="gt3_geetest_closed"> 驗證碼已關閉</string>
+    <string name="gt3_geetest_http_error">網絡連接失敗</string>
+    <string name="gt3_geetest_http_timeout">網絡超時</string>
+    <string name="gt3_geetest_pass">驗證通過</string>
+    <string name="gt3_geetest_please_verify">請完成上方驗證</string>
+    <string name="gt3_geetest_success">驗證成功</string>
+    <string name="gt3_geetest_support">極驗提供技術支持</string>
+    <string name="gt3_geetest_try_again"> 請點擊重試</string>
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="holdcoin">持倉要求幣種</string>
+    <string name="holdtips">參與【持倉瓜分】類型活動需鎖倉至活動結束</string>
+    <string name="innovation_lab_mine">創新管理</string>
+    <string name="inputamount">輸入兌換數量</string>
+    <string name="inputholdamount">輸入鎖倉數量</string>
+    <string name="inputminingamount">輸入購買礦機數</string>
+    <string name="invite">邀請</string>
+    <string name="invitetip1">本礦機產能可透過邀請好友獲得提升，每邀請一人兌換礦機，產能提升</string>
+    <string name="invitetip2">%，產能提升上限</string>
+    <string name="kefu">客服</string>
+    <string name="leftamount">剩餘數量</string>
+    <string name="leveloneCount">需要一級好友數</string>
+    <string name="limitamount">個人限購數量</string>
+    <string name="limittimes">個人限購次數</string>
+    <string name="limittimesfailed">你參與嘅次數超過個人最高限購次數！</string>
+    <string name="lock">釋放期</string>
+    <string name="lockFee">鎖倉門檻</string>
+    <string name="lockday">日</string>
+    <string name="lockmonth">月</string>
+    <string name="lockstatus0">待釋放</string>
+    <string name="lockstatus1">釋放中</string>
+    <string name="lockstatus2">已結束</string>
+    <string name="lockweek">周</string>
+    <string name="lockyear">年</string>
+    <string name="maxlimitamountfailed">兌換數量不能大於最高限購量！</string>
+    <string name="miner_status0">待部署</string>
+    <string name="miner_status1">已部署</string>
+    <string name="miner_status2">已結束</string>
+    <string name="mining">挖礦</string>
+    <string name="minlimitamountfailed">兌換數量不能小於最低起兌量！</string>
+    <string name="my_lab">我參與嘅</string>
+    <string name="my_lock">我嘅鎖倉</string>
+    <string name="my_miner">我嘅礦機</string>
+    <string name="myalreadyholdamount">我嘅參與持倉</string>
+    <string name="mybalance">我嘅可用餘額</string>
+    <string name="permission_cancel">取消</string>
+    <string name="permission_message_permission_failed">我們需要的壹些權限被您拒絕或者系統發生錯誤申請失敗，請您到設置頁面手動授權，否則功能無法正常使用！</string>
+    <string name="permission_message_permission_rationale">您已經拒絕過我們申請授權，請您同意授權，否則功能無法正常使用！</string>
+    <string name="permission_resume">繼續</string>
+    <string name="permission_setting">去設置</string>
+    <string name="permission_title_permission_failed">權限申請失敗</string>
+    <string name="permission_title_permission_rationale">權限已被拒絕</string>
+    <string name="pleaseinputamount">請輸入兌換數量</string>
+    <string name="pleaseinputholdamount">請輸入鎖倉數量</string>
+    <string name="progress">進度</string>
+    <string name="publishprice">認購價格</string>
+    <string name="recycler_swipe_click_load_more">點擊加載更多</string>
+    <string name="recycler_swipe_data_empty">暫時沒有數據</string>
+    <string name="recycler_swipe_load_error">加載出錯啦，請稍後重試</string>
+    <string name="recycler_swipe_load_more_message">正在加載更多數據，請稍後</string>
+    <string name="recycler_swipe_more_not">沒有更多數據啦</string>
+    <string name="releaseDetail">釋放詳情</string>
+    <string name="releasePercent">釋放比例</string>
+    <string name="releaseTimes">釋放倍數</string>
+    <string name="releaseType">釋放類型</string>
+    <string name="releaseType0">等額釋放</string>
+    <string name="releaseType1">等比釋放</string>
+    <string name="search">搜尋</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="starttime">開始時間：</string>
+    <string name="status">狀態</string>
+    <string name="status1">未部署</string>
+    <string name="status2">已部署</string>
+    <string name="status3">已撤銷</string>
+    <string name="status4">待成交</string>
+    <string name="status5">已撤銷</string>
+    <string name="status6">已撤銷</string>
+    <string name="status7">臨時</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_all">全部</string>
+    <string name="step_completed">已完成</string>
+    <string name="step_distributing">派發中</string>
+    <string name="step_ongoing">進行中</string>
+    <string name="step_prepare">即將開始</string>
+    <string name="times">倍</string>
+    <string name="totalsupply">活動總量</string>
+    <string name="type1">首發搶購</string>
+    <string name="type2">首發分攤</string>
+    <string name="type3">持倉瓜分</string>
+    <string name="type4">自由認購</string>
+    <string name="type5">雲礦機認購</string>
+    <string name="type6">鎖倉</string>
+    <string name="unlimited">不限</string>
+</resources>

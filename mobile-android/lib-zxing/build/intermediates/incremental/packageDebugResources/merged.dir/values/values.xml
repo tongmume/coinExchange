@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#EDEDED</color>
+    <color name="cc">#59A9FF</color>
+    <color name="grgray">#686868</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <string name="app_name">Lib-zxing</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <declare-styleable name="ViewfinderView">
+        <attr format="dimension" name="inner_width"/>
+        <attr format="dimension" name="inner_height"/>
+        <attr format="dimension" name="inner_margintop"/>
+        <attr format="color" name="inner_corner_color"/>
+        <attr format="dimension" name="inner_corner_length"/>
+        <attr format="dimension" name="inner_corner_width"/>
+        <attr format="reference" name="inner_scan_bitmap"/>
+        <attr format="integer" name="inner_scan_speed"/>
+        <attr format="boolean" name="inner_scan_iscircle"/>
+    </declare-styleable>
+</resources>

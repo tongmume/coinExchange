@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :captchasdk-release-1.0.2:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49e7796730dbe014129399071824db27/captchasdk-release-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49e7796730dbe014129399071824db27/captchasdk-release-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

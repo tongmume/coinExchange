@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="cc">#59A9FF</color>
+
+    <color name="bg_color">#EDEDED</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="grgray">#686868</color>
+
+</resources>

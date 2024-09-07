@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.uuzuche.lib_zxing"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="14" />
+7-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+8
+9    <application android:allowBackup="true" >
+9-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:4:5-15:19
+9-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:5:9-35
+10        <activity
+10-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:8:9-14:25
+11            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+11-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:10:13-74
+12            android:configChanges="orientation|keyboardHidden"
+12-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:9:13-63
+13            android:screenOrientation="portrait"
+13-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:11:13-49
+14            android:theme="@style/Theme.AppCompat.NoActionBar"
+14-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:13:13-63
+15            android:windowSoftInputMode="stateAlwaysHidden" />
+15-->D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:12:13-60
+16    </application>
+17
+18</manifest>

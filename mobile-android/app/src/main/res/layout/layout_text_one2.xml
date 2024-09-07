@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mOneLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackNormal"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/mOnetrigger"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/shape_text_deep"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/mOnetriggerPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:digits="1234567890."
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="@string/text_trigger_price_constract"
+            android:inputType="number"
+            android:maxLines="1"
+            android:paddingStart="10dp"
+            android:paddingEnd="0dp"
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="12sp" />
+
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+
+        <LinearLayout
+            android:id="@+id/mOneXian"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/shape_text_deep">
+
+            <EditText
+                android:id="@+id/mOnePrice"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:digits="1234567890."
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:hint="@string/text_enter_price_constract"
+                android:inputType="number"
+                android:maxLines="1"
+                android:paddingStart="10dp"
+                android:paddingEnd="0dp"
+                android:textColor="@color/primaryText"
+                android:textColorHint="@color/primaryTextGray"
+                android:textSize="12sp" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#565656" />
+
+
+            <TextView
+                android:id="@+id/mOneAdd"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="+"
+                android:textAlignment="center"
+                android:textColor="#565656"
+                android:textSize="24sp" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#565656" />
+
+            <TextView
+                android:id="@+id/mOneSum"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="—"
+                android:textAlignment="center"
+                android:textColor="#565656"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/mOneShi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/shape_text"
+            android:gravity="center"
+            android:text="@string/text_best_price"
+            android:textColor="@color/primaryText"
+            android:textSize="14sp"
+            android:visibility="gone" />
+    </FrameLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_text_deep"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <EditText
+            android:id="@+id/mOneTCP"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:digits="1234567890."
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="@string/text_number"
+            android:inputType="number"
+            android:maxLines="1"
+            android:paddingStart="10dp"
+            android:paddingEnd="56dp"
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/mOneTextType"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:text="@string/zhang"
+            android:textColor="#7a7c85"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/one_zhang"
+            android:textColor="#525D63"
+            android:textSize="12sp"
+            android:layout_gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/mOneYuE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 USDT"
+            android:textColor="#525D63"
+            android:textSize="12sp"
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mOneSeekBarLin"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <com.xw.repo.BubbleSeekBar
+            android:id="@+id/mOneSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            app:bsb_auto_adjust_section_mark="true"
+            app:bsb_hide_bubble="true"
+            app:bsb_progress="0"
+            app:bsb_second_track_color="@color/typeGreen"
+            app:bsb_second_track_size="5dp"
+            app:bsb_section_count="4"
+            app:bsb_section_text_position="below_section_mark"
+            app:bsb_section_text_size="10sp"
+            app:bsb_show_section_mark="true"
+            app:bsb_show_section_text="true"
+            app:bsb_track_color="@color/color_gray"
+            app:bsb_track_size="4dp" />
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/mOneJiaoYi"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/text_used"
+            android:textColor="#797b84"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/mOneDeal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="4dp"
+            android:layout_toRightOf="@id/tv_1"
+            android:gravity="center_vertical"
+            android:text="--"
+            android:textColor="#797b84"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tv_zhang_color"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_toLeftOf="@id/Zhang"
+            android:gravity="center_vertical"
+            android:text="@string/Openmore"
+            android:textColor="@color/typeGreen"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/Zhang"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:layout_marginStart="4dp"
+            android:gravity="center_vertical"
+            android:text="@string/zhang"
+            android:textColor="#797b84"
+            android:textSize="10sp" />
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btnOneBuy"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/typeGreen"
+        android:gravity="center"
+        android:text="@string/buyOpenmore"
+        android:textColor="#FFF"
+        android:textSize="13sp" />
+</LinearLayout>

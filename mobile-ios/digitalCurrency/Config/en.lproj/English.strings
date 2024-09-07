@@ -1,0 +1,918 @@
+/*
+ English.strings
+ digitalCurrency
+ 
+ Created by sunliang on 2019/1/26.
+ Copyright © 2019年 BIZZAN. All rights reserved.
+ */
+
+//可能通用
+"notice" = "Notice";
+"projectName" = "BIZZAN";
+"projectNameTip" = "Prompt you to BIZZAN";
+"addHeadImageMessage" = "Please select head to add";
+"takingPictures" = "takingPictures";
+"photoAlbumSelect" = "Choose from the album";
+"cancel" = "cancel";
+"cameraPermissionsTips" = "Please go to Settings -> privacy -> camera authorizing application photo permissions";
+"unSupportTakePhoto" = "Your mobile phone does not support photo-taking";
+"tips" = "tips";
+"ok" = "OK";
+"noNetworkStatus" = "Network exception, please check the network!";
+"loading" = "loading...";
+"hardLoading" = "Trying to get...";
+"hardUpLoading" = "Trying to upload...";
+"upLoadingHeadPhoto" = "Uploading images...";
+"upLoadingMedia" = "Uploading media...";
+"settingHeadImage" = "Setting headImage...";
+"upLoadPictureFailure" = "Failed to upload image";
+"upLoadPictureSuccess" = "Upload photos successfully";
+"upLoadMediaFailure" = "Failed to upload media";
+"upLoadMediaSuccess" = "Upload media successfully";
+
+"savePhotoSuccess" = "Save the image successfully";
+"savePhotoFailure" = "Save the image failed";
+"noteligible" = "You do not meet the opening conditions at present";
+
+"Certificationagreement" = "Business agreement";
+
+"getMessageCodeTip" = "Please check the phone verification code";
+"getEmailCodeTip" = "Please check the email verification code";
+"inputMessageCode" = "Please enter SMS verification code";
+"inputNewPhoneNum" = "Please enter your new phone number";
+"inputLoginPassword" = "Please enter your login password";
+"inputCode" = "Please enter the verification code";
+"inputEmailAccount" = "Please enter your email account";
+"checkPassword" = "The new password is inconsistent with the confirmation password";
+"warmPrompt" = "warmPrompt";
+"inputMobileEmail" = "Please enter your phone number or email";
+"emailOrMobile" = "email/phone number";
+"Applyforbusiness" = "Apply for business";
+"Applynow" = "Apply now";
+"button" = "Change Language";
+//登录
+"login" = "Login";
+//注册
+"register" = "register";
+"nowregister" = "Now Register";
+"moblieRegister" = "Mobile Register";
+"emailRegister" = "Email Register";
+"moblieValidate" = "Mobile Validate";
+"emailValidate" = "Email Validate";
+"inputAgainPwd" = "Please enter your password again";
+"inputPwdNoSame" = "The two passwords are inconsistent";
+"inputEmailValidate" = "Please enter email verification code";
+"inputEmailValidateRight" = "Please enter your email account correctly";
+"phoneNum" = "Phone Number";
+"sendValidate" = "Send Verification code";
+"phoneValidate" = "Phone Validate";
+"ok" = "OK";
+"pwd" = "password";
+"invite" = "Promotion code";
+"china" = "中国";
+"selectCountry" = "Choose the country";
+"Status" = "Status";
+"Inthelock" = "In the lock";
+"failure" = "Failure";
+
+"Locktime" = "Lock time";
+"OddNumbers" = "Odd Numbers";
+"Rateofreturn" = "Rate of return";
+"Locktimelimit" = "Lock time limit";
+"Locknumber" = "Lock number";
+"Expectedearnings" = "Expected earnings";
+"Realincome" = "Real income";
+"Unlockingtime" = "Unlocking time";
+//我的
+
+"collectionSettings" = "Payment Set";
+"fundPwd" = "Fund Pwd";
+"myInvitation" = "My invitation";
+"myInvitationLink" = "My invitation link";
+"first" = "First";
+"second" = "Second";
+"commission" = "Commission";
+"level2" = "Level";
+"assets" = "Assets";
+"management" = "OTC Management";
+
+//首页
+"RemindingMessage" = "For your financial security, please go to the security center to open the gesture password function.";
+"noLongerReminding" = "No Longer Reminding";
+"userName" = "Login";
+"accounting" = "Welcome to BIZZAN";
+"totalAssets" = "TotalAssets（USDT）";
+"myBill" = "MyBill";
+"myAdvertising" = "MyAdvertising";
+"myEntrust" = "MyEntrust";
+"safeCenter" = "SafeCenter";
+"settingCenter" = "Setting";
+"Totalamount" = "Total amount 6 billion BHB";
+"turnover" = "BHB Safe development of circulation";
+"todaytotalamount" = "Aggregate income to be allocated today";
+"yesterdaytotalamount" = "Distribution of income yesterday";
+"Miningoutput" = "Mining output yesterday";
+"Totalflux" = "BHB Total flux";
+"parallelmarketflux" = "BHB Two level market circulation";
+//设置中心
+"languageSetting" = "Language";
+"feedback" = "Feedback";
+"aboutUs" = "AboutUs";
+"alertLogOut" = "Do you want to log out?";//确认退出登录?
+"loggingout" = "Logging out";
+"networkAbnormal" = "Please check if the network is abnormal";//网络异常请检查网络
+"versionUpdate" = "versionUpdate";
+"versionUpdateTip" = "No latest version, no update required";
+
+"aboutBIZZAN" = "About BIZZAN";
+"aboutBUHUO" = "BIZZAN  International Digital Encrypted Asset Trading Platform is a comprehensive digital asset trading platform, we have the leading technical strength, quality customer service and good user experience, for the vast number of digital money lovers to provide a free online exchange platform。\n\nBIZZAN International Digital Encrypted Asset Trading Platform also provides digital currency white paper planning, encryption algorithm adjustment, digital currency research and development, trading platform on the block chain services。\n\nBIZZAN International Digital Encrypted Asset Trading Platform Overseas Operating Center is set up in Singapore, Cambodia, Marshall, Beijing, Zhengzhou, Shenzhen, China headquarters in Hainan Lingshui Qingshuiwan International Information Industry Park。";
+
+"BIZZANIdea" = "BIZZAN Idea";
+"Idea" = "At present, the development of digital assets is in full swing. BIZZAN will screen high-quality digital assets, attach importance to the transparency and governance structure of the project, on the basis of the screening criteria of the formation of a self-rating system, and refer to the decision of market investors to jointly explore the value of high-quality digital assets。\nOur philosophy is to work with every member who comes together freely to create a high-quality ecological soil for value circulation and co-cultivation。";
+
+"BIZZANTarget" = "BIZZAN Target";
+"target" = "The goal of BIZZAN is to create a relatively decentralized trading platform. The operating environment of the platform is safe, fair and benign development, innovative and iterative, in line with the trend of social progress and development。";
+
+//账号设置
+"accountSettings" = "AccountSettings";
+"HeadPortrait" = "HeadPortrait";
+"bindPhoneNumber" = "BindPhoneNumber";
+"bindingEmail" = "BindingEmail";
+"loginPassword" = "LoginPassword";
+"moneyPassword" = "MoneyPassword";
+"identityAuthentication" = "identityAuthentication";
+"unbounded" = "unbounded";
+"bounded" = "Bounded";
+"authenticated" = "Authenticated";
+"uncertified" = "uncertified";
+"auditing" = "Auditing";
+"auditFailure" = "AuditFailure";
+"unBindPhoneTip" = "Please bind the phone number first";
+"unSetting" = "unset";
+"yetSetting" = "set";
+//绑定手机号
+"inputPhoneCode" = "Please enter mobile verification code";
+"judgePhoneNum" = "Please enter your mobile phone account correctly";
+//解绑手机号
+"changePhoneNum" = "ModifyPhoneNumber";
+"phoneNum" = "PhoneNumber";
+//修改绑定手机号
+"changeBindPhoneNum" = "ModifyBoundPhoneNumber";
+"changeBindPhoneNumTip" = "You are modifying the mobile phone number of the BIZZAN net account. Please authenticate";
+"receivePhoneCode" = "The original phone can accept verification code";
+"unReceivePhoneCode" = "The original phone cannot accept verification code";
+"unReceivePhoneCodeTip" = "The original phone number cannot receive the verification code, please contact customer service for modification binding";
+"handsetTailNumber" = "handsetTailNumber";
+"receiveMessageCode" = "received SMS verification code";
+"messageCode" = "SMSVerifyCode";
+"newPhoneNum" = "newPhoneNumber";
+"getVerifyCode" = "getVerifyCode";
+"day" = "day";
+"Start" = "Start";
+"Lockamount" = "Lock amount";
+"Rushtobuy" = "Rush to buy";
+"Orderimmediately" = "Order immediately";
+
+//绑定邮箱
+"email" = "email";
+"emailCode" = "emailCode";
+"unBundlingEmail" = "unBundlingEmail";
+
+"emailAccount" = "emailAccount";
+//更改登录密码
+"changeLoginPassword" = "changeLoginPassword";
+"changeLoginPasswordTip" = "You are modifying the login password of the website";
+"oldLoginPassword" = "oldLoginPassword";
+"newLoginPassword" = "newLoginPassword";
+"certainPassword" = "confirmPassword";
+"verifyCode" = "verifyCode";
+"changeLoginPasswordTip1" = "You have bound the phone number";
+"inputOldLoginPassword" = "Please enter the old login password";
+"inputNewLoginPassword" = "Please enter a new login password";
+"inputCertainLoginPassword" = "Please confirm the new login password";
+"inputMobile" = "Please enter phoneNumber";
+"inputEmail" = "Please enter email";
+"inputUsername" = "Please enter username";
+"inputPwd" = "Please enter password";
+//修改/设置资金密码
+"changeMoneyPassword" = "changeFundPassword";
+"changeMoneyPasswordTip" = "You are modifying the transaction password of the BIZZAN net";
+"oldMoneyPassword" = "oldFundPassword";
+"newMoneyPassword" = "newFundPassword";
+"certainMoneyPassword" = "confirmFundPassword";
+"forgetPassword" = "forgetPassword";
+"certainChange" = "confirmTheChange";
+"setMoneyPassword" = "setFundPassword";
+"setMoneyPasswordTip" = "You are setting the transaction password for the BIZZAN net";
+"setting" = "set";
+"inputNewMoneyPassword" = "Please enter your new fund password";
+"inputOldMoneyPassword" = "Please enter your old fund password";
+"inputCertainMoneyPassword" = "Please enter the confirmation fund password";
+//身份认证
+"name" = "name";
+"IdCardNumber" = "IdCardNumber";
+"IdCardImage" = "IdCardImage";
+"faceIDImage" = "Positive picture of identity card";
+"backIDImage" = "Photo on the back of the id card";
+"takeIDImage" = "Hand in hand with your id card";
+"startCertification" = "startCertification";
+"certifySuccessful" = "Congratulations, you have passed the audit and you can settle your trade";
+"certifyAuditing" = "The background will be reviewed in 1-3 working days. Please be patient";
+"certifyFailure" = "Authentication failed, please resubmit";
+"certifyTakePhotoTip" = "Please select the id card to add";
+"inputcertifyName" = "Please enter your name";
+"inputcertifyIDNum" = "Please enter your id number";
+"Uncertifiedbusinesses" = "Uncertified businesses cannot publish advertisements
+";
+"Assetstoreleased" = "Assets to be released";
+"Success" = "Success";
+"LockPosition" = "Lock Position";
+
+//钱包管理
+"walletManagement" = "walletManagement";
+"detail" = "detail";
+"searchAssets" = "search Assets";
+"hidden0Currency" = "Hidden to 0 currency";
+"availableCoin" = "Available";
+"freezeCoin" = "freeze";
+"done" = "done";
+
+"periods" = "periods";
+"Detailsaward" = "Details of award";
+"Period" = "Period";
+
+
+"notRaiseMoneyTip" = "Do not raise money";
+"mentionMoney" = "Withdraw";
+"chargeMoney" = "Deposit";
+//明细
+"Transactiondetails" = "Transaction details";
+"TradeMining" = "Trade Mining";
+"InvitingminingAwards" = "Inviting mining Awards";
+"Paydividends" = "Pay dividends";
+"detailTableViewTip" = "No transaction history";
+"top-up" = "top-up";
+"withdrawal" = "withdrawal";
+"transfer" = "transfer";
+"coinCurrencyTrading" = "CCTrading";
+"Currencyexchange" = "Currency exchange";
+"buyingandsellingmoney" = "The safe, convenient and fast buying and selling of digital money";
+"Moneymanagement" = "Money management";
+"balancecoinworld" = "The balance treasure in the coin world";
+"Helpcenter" = "Help center";
+"Findmeproblem" = "Find me a problem";
+"Coinguessing" = "Coin guessing";
+"FiatMoneyBuy" = "fiatBuy";
+"FiatMoneySell" = "fiatSell";
+"activityReward" = "activitiesReward";
+"promotionRewards" = "promoteRewards";
+"shareOutBonus" = "shareOutBonus";
+"vote" = "vote";
+"ArtificialTop-up" = "ArtificialTop-up";
+"pairing" = "pairing";
+"other" = "other";
+"tradTime" = "tradTime";
+"type" = "type";
+"amount" = "Amount";
+"poundage" = "poundage";
+"Totlepoundage" = "Total platform fee";
+"distributionmoney" = "Income to be allocated";
+"poundagereturn" = "Transaction fees have been returned";
+"poundagereturn" = "Transaction fees have to be repaid";
+"startTime" = "Start Time";
+"endTime" = "End Time";
+"startstoptime" = "Start and stop time is formalities generation time";
+"Costtime" = "Cost generation time";
+"Returnminingfees" = "Return of mining fees";
+"Paymenttime" = "Payment date";
+"search" = "Search";
+"Paydividendsreturn" = "Cash dividends have been returned";
+"Paydividendsunreturn" = "A cumulative return of currency dividends to be returned";
+"Timeformoney" = "Time of holding money";
+"refereePhone" = "name of the referee or the number of phone";
+"Nameofreferee" = "Name of referee";
+"Phoneofreferee" = "Phone of referee";
+//挖矿交易详情
+"tradeTime" = "Trade Time";
+"tradePair" = "Transaction Pair";
+"tradeDirection" = "Direction";
+"tradePrice" = "Price";
+"tradeOrderVolume" = "Order Volume";
+"tradeDeal" = "Have Done a Deal";
+"tradeServiceCharge" = "Service Charge";
+"DugmoneyNum" = "Amount of money dug";
+"Entrustmentamount" = "Entrustment Amount";
+
+//充币
+"chargeMoneyTip1" = "Risk tip: do not recharge any of the above addresses to";
+"chargeMoneyTip2" = "of assets";
+"savePhoto" = "savePhoto";
+"copyAddress" = "copyAddress";
+"unChargeMoneyTip1" = "No monetary address";
+"unChargeMoneyTip2" = "Temporary no address cannot generate a 2d image, cannot save the image";
+"unChargeMoneyTip3" = "Temporary no address, unable to copy the address";
+"copyAdressTip" = "Duplicate address successful";
+//提币
+"mentionMoneyAddress" = "mentionMoneyAddress";
+"mentionMoneyAmount" = "mentionMoneyAmount";
+"total" = "total";
+"addAddress" = "addAddress";
+"accountNum" = "accountNum";
+"inputAddAdress" = "Please enter or paste the address";
+"mentionMoneyTip1" = "Please enter to";
+"inputMentionAddress" = "Please enter the currency address";
+"inputMentionAmount" = "Please enter the number of COINS";
+"mentionMoneyTip3" = "The number of COINS may not be greater than the number of COINS available";
+"inputFee" = "Please input fee";
+"inputMoneyPassword" = "Please enter the fund password";
+"inputMentionMonneyAmount" = "automatic calculation";
+"noAddAddressTip" = "No address for COINS, please add to the platform";
+"addAddressNoRemark" = "No remark";
+"copyscuuses" = "copy scuuses";
+
+//我的订单
+"unPaying" = "unPaying";
+"paid" = "paid";
+"completed" = "completed";
+"cancelled" = "cancelled";
+"complaint" = "complaint";
+"buy" = "Buy";
+"sell" = "Sell";
+"unPayingTip" = "There is no outstanding order for payment";
+"paidTip" = "An order without payment";
+"completedTip" = "Orders that have not been completed";
+"cancelledTip" = "No cancellations";
+"complaintTip" = "There is no order in the complaint";
+//订单详情
+"orderID" = "orderID";
+"orderDetail" = "orderDetail";
+"orderStatus" = "orderStatus";
+"orderInformation" = "orderInformation";
+"tradingObject" = "tradingObject";
+"orderNo" = "orderNo";
+"tradingPrice" = "tradingPrice";
+"tradingNumber" = "tradingNumber";
+"tradingCash" = "tradingCash";
+"createTime" = "createTime";
+"payInfo" = "payInfo";
+"alipayAccount" = "alipayAccount";
+"WeChatAccount" = "WeChatAccount";
+"bankCardAccount" = "bankCardAccount";
+"alipayAccountTip" = "Users have not added alipay account";
+"WeChatAccountTip" = "User has not added WeChat account";
+"bankCardAccountTip" = "User has not added bank card account";
+"payment" = "payment";
+"cancelOrder" = "cancelOrder";
+"orderComplaint" = "orderComplaint";
+"putCoin" = "putCoin";
+"contactMe" = "contact me";
+"Contactus" = "Contact us";
+"orderDetailTip1" = "and";
+"orderDetailTip2" = "of the deal";
+"cancelOrderTip" = "Confirm cancellation of order";
+"noAlipayQRImage" = "There is no alipay qr code picture";
+"noWeChatQRImage" = "No WeChat 2d image";
+"alipayQR" = "Alipay qr code";
+"weChatQR" = "WeChat qr code";
+"orderComplaintReason" = "Click to enter the complaint···";
+"noOrderComplaintTip" = "The reason for the complaint cannot be empty";
+"certainPayTip" = "Confirm payment";
+"complaints" = "complaints";
+"schemeallot" = "Allocation scheme";
+"Nocurrency" = "No currency dividends";
+"Companyprofile" = "Company profile";
+
+//聊天
+"send" = "send";
+"inputSendContent" = "Please enter send content";
+//我的广告
+"shelved" = "shelved";
+"grounding" = "grounding";
+"limit" = "limit";
+"numberRemaining" = "remainNum";
+"modify" = "modify";
+"shelves" = "shelves";
+"Added" = "Added";
+"noAdvertisingTip" = "No advertising information";
+"shelvesTip" = "The advertisement of the next frame can be modified";
+"AddingAdvertiseTip" = "On the shelf...";
+"addAdvertiseSuccessTip" = "Hit the shelves";
+"shelvesAdvertiseTip" = "The advertisement is under way...";
+"shelvesAdvertiseSuccessTip" = "The next AD was successful";
+"deleteShelvesAdvertiseTip" = "The next AD can be deleted";
+"delete" = "delete";
+//安全中心
+"gesturesPassword" = "gesturesPassword";
+"opened" = "opened";
+"unOpened" = "unOpened";"gesturesPassThirdPartTip1" = "Please draw the sign code";
+"gesturesPassThirdPartTip2" = "Please enter your password";
+"gesturesPassThirdPartTip3" = "Forget gesture code";
+"gesturesPassThirdPartTip4" = "redraw";
+"gesturesPassThirdPartTip5" = "Forget gesture code";
+"gesturesPassThirdPartTip6" = "Connect at least four points. Please re-enter";
+"gesturesPassThirdPartTip7" = "Please draw the password again";
+"gesturesPassThirdPartTip8" = "Redraw if not consistent with the previous drawing";
+"gesturesPassThirdPartTip9" = "The number of input errors has exceeded the limit, please try again later!";
+"gesturesPassThirdPartTip10" = "The gesture password has expired. Please log in again";
+"gesturesPassThirdPartTip11" = "Password error, can be entered again";
+"gesturesPassThirdPartTip12" = "time";
+"gesturesPassThirdPartTip13" = "Forget the gesture, you can login with the account password, and then re-draw the gesture after login";
+//设置中心
+"languageSettings" = "Language";
+"feedback" = "Feedback";
+"loginOut" = "loginOut";
+"certainLogOutTip" = "Confirm log out?";
+"logOutTip" = "Logging out...";
+"simplifiedChinese" = "Chinese";
+"English" = "English";
+"Noticecenter" = "Notice Center";
+"NoticecenterBulletin" = "Bulletin Board";
+//意见反馈
+"feedbackTip1" = "Your opinion is of special importance to us!";
+"feedbackTip2" = "Leave your valuable advice to help us do better!";
+"feedbackTip3" = "Mobile phone number/mailbox (non-mandatory)";
+"submit" = "submit";
+"feedbackJudgeAlphanumeric" = "Input feedback should not exceed 100";
+"inputFeedbackTip" = "Please input feedback";
+
+//关于我们
+"webSite" = "webSite";
+"serviceTel" = "serviceTel";
+//平台消息
+"platformMessage" = "platformMessage";
+"noPlatformMessageData" = "No platform message";
+//我的委托/委托详情
+"Buy" = "Buy";
+"Sell" = "Sell";
+"time" = "time";
+"entrustPrice" = "entrustPrice";
+"delegateTotal" = "delegateTotal";
+"dealTotal" = "dealTotal";
+"dealPerPrice" = "dealPerPrice";
+"dealNum" = "DealNum";
+"dealDetail" = "dealDetail";
+"dealPrice" = "dealPrice";
+"marketPrice" = "marketPrice";
+"entrustNum" = "entrustNum";
+"trading" = "trading";
+"noTrustData" = "There is no trust data";
+"tradSlideTip1" = "Insufficient quantity";
+//收款账户
+"toModify" = "modify";
+"paymentAccount" = "paymentAccount";
+//设置、修改银行卡号
+"bankName" = "bank";
+"branchName" = "branchBank";
+"bankNum" = "bankNum";
+"certainBankNum" = "confirmBankNum";
+"modifyBankNum" = "modifyBankNum";
+"setBankNum" = "setBankNum";
+"inputBranchInfo" = "Please enter the account branch information";
+"inputBankNum" = "Please enter the bank card number";
+"save" = "save";
+"inputBankName" = "Please select development bank";
+"inputCertainBankNum" = "Please confirm the bank card number";
+"judgeBankNumAndCertainBankNum" = "Confirm that the bank card number is inconsistent with the bank card number";
+"validateYourID" = "Please go to new certification";
+"bindingPwd" = "Please for binding password first";
+//修改，设置支付宝账号
+"collectionQR" = "Collect the qr code";
+"inputAliPayNum" = "Please enter the alipay account";
+"setAliPayNum" = "Set up alipay account";
+"modifyAliPayNum" = "Modify the alipay account";
+"inputAliPayAddImage" = "Please choose to add the image of alipay qr code";
+"inputCollectionQR" = "Please upload the image of the collection qr code";
+//修改，设置微信账号
+"inputWeChatNum" = "Please input WeChat account";
+"setWeChatNum" = "Set WeChat account";
+"modifyWeChatNum" = "Modify WeChat account";
+"inputWeChatAddImage" = "Please select WeChat qr code image to add";
+
+//我的推广
+"myPromotion" = "myPromotion";
+"promoteFriends" = "promoteFriends";
+"registTime" = "registTime";
+"username" = "userName";
+"referralLevel" = "referralLevel";
+"level" = "level";
+"oneLevel" = "level 1";
+"twoLevel" = "level 2";
+"threeLevel" = "level 3";
+"fourLevel" = "level 4";
+"myCommission" = "myCommission";
+"releaseTime" = "releaseTime";
+"currency" = "currency";
+"remark" = "remark";
+"noPromoteFriends" = "No promotion of buddy data";
+"noMyCommission" = "There is no commission data for me";
+"promoteShareTip1" = "Invite friends and earn commission";
+"promoteShareTip2" = "Make money with friends";
+"promoteShareTopTip" = "Invite your friends to make money!";
+"promoteSaveImage" = "save to album";
+"pastePromoteLink" = "Copy promotion link success";
+"inviteYouJoin" = "invite you to join";
+"captivePromoteLink" = "exclusive promotion link";
+"copy" = "copy";
+
+//c2c
+"BuyCoin" = "Buy";
+"SellCoin" = "Sell";
+"trading" = "trading";
+"noBuyCoinTip" = "There is no monetary data";
+"noSellCoinTip" = "There is no currency data";
+//订单详情
+"payOutTime" = "pay outTime";
+"payCountdown" = "payCountdown";
+"tradingNum" = "tradingNum";
+"advertisingMessage" = "advertisingMessage";
+"tradingRemind" = "tradingRemind";
+"buyNumTip" = "How much do you buy now";
+"sellNumTip" = "How much do you sell now";
+"tradingRemindTip" = "1. Please detailed understanding of the seller's trading information before trading \n 2. please inform platform for communication agreement, and save the record related chat \n 3. if trade disputes, please through the platform the page top right corner to help solve the problem";
+"inputSellNum" = "Please enter total sales";
+"inputBuyNum" = "Please enter the total amount of purchase";
+"sellPrice" = "salePrice";
+"sellNum" = "saleNum";
+"sellTotalPrice" = "totalSale";
+"buyPrice" = "buyPrice";
+"buyNum" = "buyNum";
+"buyTotalPrice" = "totalBuy";
+"placeOrderTip1" = "Reminder: please confirm the price and then place the order";
+"placeOrderTip2" = "Please feel free to place the managed lock";
+"orderConfirmation" = "orderConfirmation";
+//发布广告
+"postPurchaseAdvertising" = "postPurchaseAdvertising";
+"sellAdvertising" = "sellAdvertising";
+"selectCoinType" = "selectCoinType";
+"home" = "home";
+"currencyType" = "currencyType";
+"Real-timePrice" = "Real-timePrice";
+"fixedPrice" = "fixedPrice";
+"premium" = "premium";
+"minimum" = "minimum";
+"maximum" = "maximum";
+"minimum100" = "The minimum quantity can't be less than 100";
+"buyNumber" = "buyNum";
+"payMethods" = "payMethods";
+"payWays" = "payWays";
+"payTerm" = "payTerm";
+"collectionTerm" = "collectionTerm";
+"isAutoReply" = "autoReply";
+"yes" = "Yes";
+"no" = "No";
+"replyContent" = "replyContent";
+"messageContent" = "messageContent";
+"select" = "select";
+"release" = "release";
+"modifiedRelease" = "modifiedRelease";
+"inputFixedPriceNoPremium" = "Fixed prices do not require an input premium";
+"inputMarketPricePremium" = "Please enter the market price premium ratio";
+"inputTradPrice" = "Please enter the transaction price";
+"inputAutomaticCalculation" = "Transaction prices are automatically calculated";
+"inputModifyAdsNoCoinType" = "Modification of advertising cannot change the currency type";
+"inputReal-timePrice" = "Please enter the real-time price";
+"inputTradMin" = "The minimum amount of each transaction";
+"inputTradMax" = "The maximum limit for each transaction";
+"inputBuyAmount" = "Please input purchase quantity";
+"inputPayTerm" = "Please enter payment term (0-30)";
+"minutes" = "min";
+"inputSelectCoinType" = "Please select currency";
+"inputSelectHome" = "Please select the location";
+"inputSelectCurrencyType" = "Please select currency type";
+"inputAutoReply" = "Please enter a reply";
+
+//首页
+"tabbarcontact" = "Contract";
+"tabbarexchange" = "Exchange";
+"tabbar1" = "Home";
+"tabbar2" = "Markets";
+"tabbar3" = "Exchange";
+"tabbar4" = "C2C";
+"tabbar5" = "My";
+"Top" = " TopGainers";
+"down" = " Declines";
+"Collection" = "Collection";
+
+"noDada" = "No data";
+"noMoredata" = "No more data";
+"noChatGroupInfo" = "No chat group information available";
+"message" = "message";
+
+"alipay" = "alipay";
+"WeChat" = "WeChat";
+"bankCard" = "bankCard";
+"advertisingCell1Tip1" = "The input number is an illegal decimal";
+"advertisingCell1Tip2" = "The maximum input number is eight decimal places";
+"advertisingCell1Tip3" = "Enter the number with a maximum of two decimal places";
+"livePriceTip" = "The input price must be greater than 0";
+"IsShelvesTip" = "The advertisement creation is successful, need to put on the shelf manually, whether to put on the shelf?";
+"goShelves" = "Go Shelves";
+"BuYongLe" = "That's OK";
+"WeChatcustomer" = "WeChat customer service";
+"BiYong" = "BiYong Customer service";
+"Community" = "BIZZAN money fire official Community";
+//行情
+"collect" = "Favorites";
+"priceType" = "priceType";
+"inputPayWays" = "Please enter payment method";
+"sellNum" = "sellNum";
+"inputSellAmount" = "Please enter and sell quantity";
+"inputPayMethods" = "Please enter the collection mode";
+"Invitationcode" = "Invitation code";
+"Copylink"= "Copy link";
+"QRCode" = "QR Code";
+
+//交易
+"plate" = "Plate";
+"price" = "Price";
+"amonut" = "Amonut";
+"Current" = "Current";
+"HistoricalCurrent" = "Historical";
+"all" = "All";
+"buyplate" = "Buy";
+"sellplate" = "Sell";
+"limitPrice" = "Limit";
+"marketPrice" = "Market";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"enterprice" = "price";
+"pleaseenterPrice" = "Please enter the price";
+"Optimal" = "Optimal market price";
+"entrustment" = "A turnover";
+"Cancelorder" = "Cancel the order";
+"Confirmation" = "Confirmation of an entrustment withdrawal";
+"commissionPricezero" = "The entrustment price is more than 0";
+"commissionamount" = "number";
+"commissionamountzero" = "The number of entrustment should be more than 0";
+"commissionmoneyzero" = "The amount of entrustment should be more than 0";
+"commissionmoney" = "Please enter the entrustment";
+"commissionbuy" = "Entrustment buying";
+"commissionsell" = "Entrust and sell";
+"pleasecommissionamount" = "Please enter the number of delegate";
+"enterPrice" = "Please enter the entrustment price";
+"commissiontype" = "type";
+"sellDirection" = "Sell";
+"buyDirection" = "Buy";
+"usabel" = "available";
+"usabelSell" = "Sell";
+"tradedAmount" = "TradedAmount";
+"Revoke" = "Revoke";
+"nocurrentData" = "No current delegate data";
+"nohistoryData" = "No historical delegate data";
+"history" = " historical";
+"nomoreData" = "No more entrustment";
+"hourvol" = "24HVol";
+"tradSlideTip1" = "The quantity you enter must not exceed the quantity available.";
+//K线图
+"highest" = "H";
+"minimumest" = "L";
+"nowopen" = "Open";
+"closingprice" = "Close";
+"24H" = "24H";
+"index" = "Index";
+"line" = "Line";
+"min" = "1min";
+"fivemin" = "5min";
+"thirtymin" = "30min";
+"hours" = "1hour";
+"days" = "1day";
+"weeks" = "1week";
+"closemunu" = "close";
+"addFavo" = "Favorites";
+"deleteFavo" = "Added";
+"increase" = "";
+"traded" = "Traded";
+"openplate" = "Open：";
+"closeplate" = "Close：";
+"hightplate" = "Highest：";
+"lowplate" = "Minimum：";
+"confirmoperation" = "Do you confirm the above operation？";
+//补充增加K线
+"morekline" = "More";
+"mainKline" = "Main";
+"subKline" = "Sub";
+"hideKline" = "Hide";
+"fivethmin" = "15min";
+"monthkline" = "1mon";
+//增加深度图
+"depth" = "Depth";
+"marketTrades" = "Market Trades";
+"buyplate" = "Buy";
+"sellplate" = "Sell";
+"depthtime" = "Date";
+"depthDirection" = "Type";
+
+//后期添加功能增加的国际化
+"justTime" = "just";
+"GestureMessage" = "System upgrade maintenance, specific maintenance progress, please pay attention to computer version of BIZZAN.";
+"Noviceguide" = "Novice Guide";
+"helpMore" = "More";
+"Commonproblem" = "Common Problem";
+"rescinded" = "Rescinded";
+"Startandstoptime" = "Start and stop time";
+"Reset" = "Reset";
+"PleaseEnterTheTransactionPair" = "Please enter the transaction pair";
+"PleaseEnterTheType" = "Please Enter The Type";
+"PleaseEnterTheDirection" = "Please Enter The Direction";
+"startAndEndTime" = "Start and stop time is the time of formalities";
+"LockTime" = "Lock Time";
+"EnterYouWantChooseTime" = "Please enter the time you have to choose";
+"project" = "Project";
+"UnitPrice" = "Unit Price";
+"securitySetting" = "Security Setting";
+"securityTiXing" = "To ensure the safety of your account, please complete the real name authentication transaction!";
+"Realnameauthentication" = "Real Name Authentication";
+"Uploaded" = "Uploaded";
+"Notuploaded" = "Not uploaded";
+"payTypeTips" = "Please set up your payment method and make sure you use my real account number.";
+
+//币竞猜
+"Period" = "Period";
+"Number" = "Number";
+"TotalNumber" = "TotalNumber";
+"OpeningTime" = "OpeningTime";
+"Detailsoftheaward" = "Detailsoftheaward";
+
+//合约
+"Professional_contract" = "Professional contract";
+"text_open" = "Open";
+"text_flat" = "Close";
+"constract" = "SWAP";
+"account" = "Account";
+"text_all_model" = "Cross";
+"text_chase_model" = "Fixed";
+"text_open_many" = "Long";
+"text_open_null" = "Short";
+"text_flatmore" = "Long";
+"text_flatnull" = "Short";
+"text_limit_entrust" = "Limit Price";
+"text_Market_entrust" = "Market Price";
+"text_plan_entrust" = "Trigger Price";
+"zhang" = "Cont";
+"Openmore" = "Max. L:";
+"Opennull" = "Max. S:";
+"buyOpenmore" = "Open Long";
+"sellOpennull" = "Open Short";
+"buyflatnull" = "Close Long";
+"sellflatmore" = "Close Short";
+"text_hold" = "Current Position";
+"text_current_entrust" = "Current Entrust";
+"flatnull" = "Max(L):";
+"flatmore" = "Max(S):";
+"input_number" = "请输入数量";
+"input_price" = "请输入价格";
+"more_head" = "Long";
+"null_head" = "Short";
+"text_entrust_details" = "Entrust Details";
+"text_open_flat" = "Open/Close";
+"text_entrust_type" = "Type";
+"text_trigger_price_constract" = "Trigger Price";
+"text_guarantee_money" = "Margin";
+"shouxufei" = "Fee";
+"text_compute" = "P/L";
+"text_earnings" = "PL";
+"text_leverage" = "Leverage";
+"text_inventory" = "Position";
+"text_Amount" = "Ava Position";
+"text_average_open" = "Open Price";
+"text_Current_margin" = "Cur Margin";
+"text_margin_rate" = "Margin Ratio";
+
+//我的资产
+"Wallet_Overturn" = "Asset transfer";
+"from" = "From";
+"to" = "To";
+"tv_coins" = "Currency Account";
+"tv_constract" = "Swap Account";
+"tv_overturn_number" = "Transfer amount";
+"tv_input_overturn_number" = "Please input the transfer amount";
+"tv_overturn" = "Transfer";
+"tv_balance" = "Blance";
+"tv_input_overturn_number" = "Please input the transfer amount";
+"transferMustBeGreaterThan" = "Transfer quantity must be greater than 0";
+"tv_select_account" = "Select account";
+"notChargeMoneyTip" = "The platform does not support charging COINS temporarily";
+"notMentionMoneyTip" = "The platform does not support currency withdrawal temporarily";
+"verification" = "Verified";
+"unverified" = "Unverified";
+
+//法币
+"yourApproved" = "Cancellation Application  Approved";
+"businessCancellation" = "Business cancellation";
+"commitApply" = "Commit apply";
+"reviewPassed" = "Review passed";
+"toApplyFor" = "To apply for";
+"certificationPassed" = "Certification Passed";
+"prepareMaterials" = "Prepare materials";
+"submitReview" = " Submit review";
+"alreadyCertified" = "Already certified";
+"advertising" = "Advertising";
+"applyForLoan" = "Apply for loan";
+"cancellationSubmitted" = "Cancellation submitted";
+"waitForTheResult" = "Wait result";
+"cancellationApproved" = "Cancellation not approved";
+"review" = "Review";
+"reason" = "Reason";
+"nothing" = "Nothing";
+"sureDone" = "You are in the business cancellation operation, after confirming the submission of the application operation, it will not be able to be revoked.Are you sure this is done?";
+"pleaseCancellation" = "Please fill in the reason for cancellation";
+"certificationFailed" = "Sorry, your business audit and certification failed";
+"submissionInformation" = "Submission of information";
+"submittedSuccessfully" = "Submitted successfully";
+"reviewSubmitted" = "Your merchant review has been submitted";
+"waitingResults" = "Waiting for audit results";
+"businessCertification" = "Business Certification";
+"wechatNumber" = "Please fill in your cell wechat number";
+"qqNumber" = "Please fill in your cell qq number";
+"uploadAsset" = "Please upload the asset certificate";
+"uploadTransacrion" = "Please upload the transacrion certificate";
+"phone" = "phone";
+"inputQQNum" = "Please input QQ account";
+"depositCurrency" = "Deposit currency";
+"marginAmount" = "Margin amount";
+"assetCertificate" = "Personal digital asset certificate";
+"tradingCertificate" = "Digital asset trading certificate";
+"Account_rights" = "Total";
+"may_money" = "Available";
+"use_money" = "Used Margin";
+"freeze_money" = "Frozen Margin";
+"text_used" = "Avail";
+"ent_statusblast" = "Blast";
+"ent_status1" = "Entrusting";
+"ent_status2" = "Canceled";
+"ent_status3" = "Failed";
+"ent_status4" = "Success";
+"cancelDelegation" = "Cancel delegation?";
+"undo" = "Undo";
+"Copied" = "Copied";
+"copyFailed" = "copy failed";
+"memo" = "Remark(Memo)";
+"pleaseConfirm" = "This currency needs to be entered into the address Memo, please confirm!";
+"rush1" = "Minimum recharge amount";
+"rush2" = "Recharges less than the minimum amount will not be recorded";
+"rush3" = "Do not recharge any non-currency assets to the above address, otherwise the assets will not be retrieved.";
+"rush4" = "After you recharge to the above address, you need the confirmation of the entire blockchain network node. Generally, the main blockchain network will receive the account after three times of network confirmation";
+"rush5" = "Your recharge address will not often change, you can repeat recharge; If there is any change, we will try to notify you through the website announcement or email.";
+"rush6" = "Make sure the operating environment is safe to prevent information from being tampered with or leaked.";
+"no_rush" = "No recharge address, please do not recharge!";
+"charge_money_attention" = "Please input remarks when recharge(Memo)";
+"savePhoto" = "Save the QR code to the album";
+
+"Option_contract" = "Option contract";
+"Option_history" = "Past results";
+"RealTime_Quotes" = "Real-time market";
+"current_elivery" = "Current delivery";
+"history_elivery" = "Historical settlement";
+"option_date" = "Forecast period of this period:";
+"option_avalib_amount" = "Available Balance:";
+"up_total" = "Total purchase price";
+"down_total" = "Total buy-down";
+"my_total" = "My open position";
+"option_up" = "Bullish";
+"option_down" = "Bearish";
+"current_price" = "Current price";
+"open_amount" = "Opening amount";
+"jiangjin_amount" = "Prize amount";
+"redictor_direction" = "Forecast direction";
+"open_free" = "Opening fee";
+"draw_water" = "Pumping";
+"edictor_result" = "forecast result";
+"di_qi" = "nth period";
+"success" = "success";
+"failed" = "failure";
+"please_amount" = "Please select the number of bets";
+"please_login" = "please log in first";
+
+
+"Japanese" =" Japanese";
+"Korean" =" Korean";
+"German" =" German";
+"French" =" French";
+"Italian" =" Italian";
+"Spanish" =" Spanish";
+"Traditional Chinese" =" Traditional Chinese";
+"openTime" = "openTime";
+"openPrice" = "opening price ";
+"closeTime" = "CloseTime ";
+"closePrice "=" Closing Price";
+"login_look" = "Login to view ";
+"login_regist" =" login/register ";
+"sell_ping" = "Sell Pindor ";
+"buy_ping" = "buy_ping";
+"you_pice" = "Sell at the best price ";
+"default_pice" =" Default commission price is market price ";
+"option" = "option";
+"openging" = "openging";
+"Currency management" = "Currency management";
+"Click to enter" = "  Click to enter    ";
+"realNamethreeConditions" = "Real name authentication needs to meet the above three conditions";
+"Take and upload photos"= "Take and upload photos of your second generation ID card";
+"Sample picture" = "Sample picture";
+"Article details"="Article details";
+"shareBoard" = "Share posters";
+"Save photo" = "Save photo";
+"exchange" = "exchange";
+"phone_lab" = "phone";
+"email_lab" = "email";
+"login_account"= "Account number";
+"phoneAndemail"= "Mobile phone number / email";

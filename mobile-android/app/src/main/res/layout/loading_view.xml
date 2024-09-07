@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+    <ProgressBar
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="5dp"
+        style="?android:progressBarStyle"
+        android:indeterminate="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/now_loading_center"
+        android:textColor="@color/colorPrimary" />
+</LinearLayout>
+<!-- From: file:/Users/nicolas/AndroidStudioProjects/PagingListView/PagingListViewProject/PagingListView/src/main/res/layout/loading_view.xml -->

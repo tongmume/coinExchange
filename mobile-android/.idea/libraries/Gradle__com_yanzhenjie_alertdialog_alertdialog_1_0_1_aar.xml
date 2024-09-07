@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie.alertdialog:alertdialog:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85c99b24880da45924fd5605c4c8a597/alertdialog-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85c99b24880da45924fd5605c4c8a597/alertdialog-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.alertdialog/alertdialog/1.0.1/b684cf065d94c40ad37ee71c6ebf558664b4d5ab/alertdialog-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.alertdialog/alertdialog/1.0.1/c61b9584c537b7b793845e95fbba3a2b1d48cb69/alertdialog-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

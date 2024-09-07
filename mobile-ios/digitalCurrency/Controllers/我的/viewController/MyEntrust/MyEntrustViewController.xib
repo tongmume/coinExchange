@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MyEntrustViewController">
+            <connections>
+                <outlet property="backView" destination="93d-ln-fAP" id="JbV-VA-ngX"/>
+                <outlet property="noDataLabel" destination="flU-y7-0sA" id="tM9-Xh-YdN"/>
+                <outlet property="pullimageV" destination="Q8Z-1W-fZ6" id="twU-vV-4uV"/>
+                <outlet property="titleBtn" destination="f6u-GD-3IC" id="x5L-7A-eLa"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="fSw-xh-9Nw"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="93d-ln-fAP">
+                    <rect key="frame" x="62.5" y="208.5" width="250" height="250"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="emptyData" translatesAutoresizingMaskIntoConstraints="NO" id="25R-3W-SEW">
+                            <rect key="frame" x="65" y="30" width="120" height="148"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="25R-3W-SEW" secondAttribute="height" multiplier="246:303" id="0hY-K3-wsF"/>
+                                <constraint firstAttribute="width" constant="120" id="3m9-za-qrW"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="暂无委托信息" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="flU-y7-0sA">
+                            <rect key="frame" x="79" y="178" width="92" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="25R-3W-SEW" firstAttribute="top" secondItem="93d-ln-fAP" secondAttribute="top" constant="30" id="0T1-OU-r5K"/>
+                        <constraint firstItem="flU-y7-0sA" firstAttribute="centerX" secondItem="93d-ln-fAP" secondAttribute="centerX" id="6VL-5I-N72"/>
+                        <constraint firstAttribute="width" constant="250" id="Wwv-5f-9ad"/>
+                        <constraint firstItem="25R-3W-SEW" firstAttribute="centerX" secondItem="93d-ln-fAP" secondAttribute="centerX" id="cHW-Ql-63J"/>
+                        <constraint firstItem="flU-y7-0sA" firstAttribute="top" secondItem="25R-3W-SEW" secondAttribute="bottom" id="jne-Zf-MFe"/>
+                        <constraint firstAttribute="height" constant="250" id="tHJ-3l-NMF"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="M3Z-HV-Yrb">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="60"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="boH-s3-BLb">
+                            <rect key="frame" x="0.0" y="59" width="375" height="1"/>
+                            <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="oM0-u0-i7Z"/>
+                            </constraints>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f6u-GD-3IC">
+                            <rect key="frame" x="0.0" y="10" width="100" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="5Jn-H7-3rE"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="18"/>
+                            <state key="normal" title="BTC/USDT">
+                                <color key="titleColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="touchEvent:" destination="-1" eventType="touchUpInside" id="tIh-CO-1B2"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pullBlackImage" translatesAutoresizingMaskIntoConstraints="NO" id="Q8Z-1W-fZ6">
+                            <rect key="frame" x="105" y="27" width="8" height="7"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="Q8Z-1W-fZ6" secondAttribute="height" multiplier="15:13" id="AMc-ti-8I0"/>
+                                <constraint firstAttribute="width" constant="8" id="avT-wJ-9XO"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="f6u-GD-3IC" secondAttribute="bottom" constant="10" id="1f3-hb-mHG"/>
+                        <constraint firstAttribute="height" constant="60" id="H3Z-6L-yke"/>
+                        <constraint firstItem="f6u-GD-3IC" firstAttribute="top" secondItem="M3Z-HV-Yrb" secondAttribute="top" constant="10" id="Lna-sl-8tL"/>
+                        <constraint firstItem="f6u-GD-3IC" firstAttribute="leading" secondItem="M3Z-HV-Yrb" secondAttribute="leading" id="ZFs-hf-tqg"/>
+                        <constraint firstItem="boH-s3-BLb" firstAttribute="leading" secondItem="M3Z-HV-Yrb" secondAttribute="leading" id="hB2-zc-GtS"/>
+                        <constraint firstAttribute="bottom" secondItem="boH-s3-BLb" secondAttribute="bottom" id="hbD-Tr-ZaZ"/>
+                        <constraint firstItem="Q8Z-1W-fZ6" firstAttribute="centerY" secondItem="f6u-GD-3IC" secondAttribute="centerY" id="pUr-a4-zLN"/>
+                        <constraint firstItem="Q8Z-1W-fZ6" firstAttribute="leading" secondItem="f6u-GD-3IC" secondAttribute="trailing" constant="5" id="v5e-QX-kAH"/>
+                        <constraint firstAttribute="trailing" secondItem="boH-s3-BLb" secondAttribute="trailing" id="yrp-iy-3Fk"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="93d-ln-fAP" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="MeC-45-TPb"/>
+                <constraint firstItem="M3Z-HV-Yrb" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="U0r-YE-qqK"/>
+                <constraint firstItem="93d-ln-fAP" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="X5b-ql-wtA"/>
+                <constraint firstAttribute="trailing" secondItem="M3Z-HV-Yrb" secondAttribute="trailing" id="gAi-5q-ajX"/>
+                <constraint firstItem="M3Z-HV-Yrb" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="hd8-Zv-qsK"/>
+            </constraints>
+            <point key="canvasLocation" x="33.5" y="66.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="emptyData" width="123" height="151"/>
+        <image name="pullBlackImage" width="15" height="13"/>
+    </resources>
+</document>

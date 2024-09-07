@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/icon_buy_yes2" android:state_selected="true" />
+    <item android:drawable="@drawable/icon_sell_no" android:state_selected="false" />
+</selector>

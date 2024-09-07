@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.zxing:android-core:3.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.3.0/86ce6f89a1d7944bb9814a2ec5520dccd3ee3dce/android-core-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.3.0/fa42828f105c80eeabe7c12d2548b668d3d2e04b/android-core-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.3.0/ab07c89e46e3c46aae81c30bc0261303550a868/android-core-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

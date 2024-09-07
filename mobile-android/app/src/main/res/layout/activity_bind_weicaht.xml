@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackDark"
+    android:orientation="vertical"
+    tools:context="com.bizzan.ui.edit_login_pwd.EditLoginPwdActivity">
+
+    <!--标题-->
+    <LinearLayout
+        android:id="@+id/llTitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/primaryBackNormal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibBack"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:scaleType="center"
+            android:src="@drawable/icon_back_gray"
+            android:visibility="visible"/>
+
+        <View
+            android:id="@+id/view_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:text="@string/weChat_binding"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/tvConfirm"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="8dp"
+            android:gravity="center"
+            android:minWidth="48dp"
+            android:text="@string/save"
+            android:textColor="@color/text_orange"
+            android:textSize="14sp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/llQRCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/QRcode_for_receivables"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="1dp"></View>
+        <ImageView
+            android:id="@+id/ivIdFace1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="16dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:src="@mipmap/update_qrcode"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="16dp"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/name"
+            android:textColor="@color/primaryText"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:layout_marginLeft="20dp"
+            android:id="@+id/etName"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/name"
+            android:gravity="center|right"
+            android:layout_marginRight="20dp"
+            android:text=""
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:id="@+id/llBank"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="16dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/bank"
+            android:textColor="@color/primaryText"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint=""
+            android:inputType="textPassword"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/tvAccount"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/weichat_account"
+            android:textColor="@color/primaryText"/>
+
+        <EditText
+            android:layout_marginLeft="20dp"
+            android:id="@+id/etAccount"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:layout_marginRight="20dp"
+            android:background="@null"
+            android:hint="@string/input_wechat_account"
+            android:text=""
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/capital_password"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/etNewPwd"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/input_fund_pwd"
+            android:gravity="center|right"
+            android:layout_marginRight="20dp"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivIdFace"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="16dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/update_qrcode"
+        android:visibility="invisible" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="48dp"/>
+
+
+
+</LinearLayout>

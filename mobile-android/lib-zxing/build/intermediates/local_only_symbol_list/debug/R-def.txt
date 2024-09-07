@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+attr? inner_corner_color
+attr? inner_corner_length
+attr? inner_corner_width
+attr? inner_height
+attr? inner_margintop
+attr? inner_scan_bitmap
+attr? inner_scan_iscircle
+attr? inner_scan_speed
+attr? inner_width
+color bg_color
+color cc
+color grgray
+color possible_result_points
+color result_view
+color transparent
+color viewfinder_mask
+drawable scan_light
+id auto_focus
+id decode
+id decode_failed
+id decode_succeeded
+id fl_zxing_container
+id launch_product_query
+id preview_view
+id quit
+id restart_preview
+id return_scan_result
+id viewfinder_view
+layout camera
+layout fragment_capture
+raw beep
+string app_name
+style AppTheme
+styleable ViewfinderView inner_width inner_height inner_margintop inner_corner_color inner_corner_length inner_corner_width inner_scan_bitmap inner_scan_speed inner_scan_iscircle

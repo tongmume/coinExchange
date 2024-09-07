@@ -1,0 +1,118 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.bizzan.app"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0.9"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    signingConfigs {
+        debug {
+            storeFile file('./bizzan.keystore')
+            storePassword "bizzan"
+            keyAlias "bizzan"
+            keyPassword "bizzan"
+
+        }
+
+        release {
+            storeFile file('./bizzan.keystore')
+            storePassword "bizzan"
+            keyAlias "bizzan"
+            keyPassword "bizzan"
+
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/androidx.vectordrawable_vectordrawable.version'
+    }
+
+    buildTypes {
+        release {
+            debuggable true
+            minifyEnabled false//开启混淆
+            zipAlignEnabled true  //压缩优化
+//            signingConfig signingConfigs.rccx
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false   //开启混淆
+//            zipAlignEnabled true  //压缩优化
+//            signingConfig signingConfigs.rccx
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    api fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:support-v4:28.0.0'
+//    implementation 'com.android.support:support-v4:26.1.0'
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    api project(':lib-zxing')
+    api project(':MPChartLib')
+    api 'com.android.support:appcompat-v7:28.+'
+
+    api 'com.android.support:recyclerview-v7:28.+'
+    api 'com.android.support:cardview-v7:28.+'
+    api 'com.android.support:design:28.0.0'
+    api 'com.android.support.constraint:constraint-layout:2.0.4'
+    api 'com.jakewharton:butterknife:8.8.1'
+    api 'com.yanzhenjie:permission:1.1.0'
+    api 'com.google.code.gson:gson:2.8.2'
+    api 'com.squareup.okhttp3:okhttp:3.9.0'
+    api 'com.github.bumptech.glide:glide:3.7.0'
+    api 'com.youth.banner:banner:1.4.10'
+    api 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.34'
+    api 'com.gyf.barlibrary:barlibrary:2.3.0'
+    api 'com.lcodecorex:tkrefreshlayout:1.0.7'
+    api 'com.github.arcadefire:nice-spinner:1.3.1'
+    testImplementation 'junit:junit:4.12'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    api 'com.kyleduo.switchbutton:library:2.0.0'
+//    api(name: 'geetest_testbutton_android_v3.5.3', ext: 'aar')
+//    api(name: 'geetest_sensebot_android_v4.2.9_20210104.aar', ext: 'aar')
+    api 'com.geetest.sensebot:sensebot:4.2.4'
+    api(name: 'captchasdk-release-1.0.2', ext: 'aar')
+    api 'org.xutils:xutils:3.5.0'
+    api 'org.greenrobot:eventbus:3.1.1'
+    api 'com.yanzhenjie:recyclerview-swipe:1.1.4'
+    api 'com.sunfusheng:marqueeview:1.3.3'
+    api 'com.xw.repo:bubbleseekbar:3.20'
+    implementation 'com.xw.repo:bubbleseekbar:3.20'
+    api 'pl.droidsonroids.gif:android-gif-drawable:1.2.2'
+    api 'com.contrarywind:Android-PickerView:4.1.4'
+    api 'com.android.support:multidex:1.0.1'
+    api 'com.umeng.sdk:common:latest.integration'
+    api 'com.umeng.sdk:analytics:latest.integration'
+    api 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0'
+    api 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.0'
+    // 注意：分包之后不会有默认的Header和Footer需要手动添加！还是原来的三种方法！
+    implementation 'com.scwang.smart:refresh-layout-kernel:2.0.1'      //核心必须依赖
+    implementation 'com.scwang.smart:refresh-header-classics:2.0.1'    //经典刷新头
+    implementation 'com.scwang.smart:refresh-footer-classics:2.0.1'    //经典加载
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.9.1'
+
+}
+

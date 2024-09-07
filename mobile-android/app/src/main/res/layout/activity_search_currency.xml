@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/primaryBackNormal"
+    tools:context=".ui.home.SearchCurrencyActivity">
+    <!--标题-->
+    <LinearLayout
+        android:id="@+id/llTitle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <com.bizzan.widget.ClearableEditTextWithIcon
+            android:id="@+id/inputview"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:imeOptions="actionDone"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:layout_marginVertical="7dp"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_weight="1"
+            android:background="@drawable/shape_search"
+            android:drawableLeft="@mipmap/icon_search"
+            android:drawablePadding="@dimen/dp_10"
+            android:paddingLeft="10dp"
+            android:hint="@string/search"
+            android:textColorHint="@color/colorTextNormal"
+            android:textColor="@color/primaryText"
+            android:textSize="@dimen/sp_14" />
+
+        <TextView
+            android:id="@+id/ibBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/comm_foreground"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/dp_10"
+            android:text="@string/cancle"
+            android:textStyle="bold"
+            android:textColor="@color/yellowDark"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

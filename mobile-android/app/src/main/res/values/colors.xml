@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#20232C</color>
+    <color name="colorAccent">#e15414</color>
+    <color name="colorTextNormal">#999999</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="primaryBackLight">#1F2833</color>
+    <color name="primaryBackNormal">#1A212A</color>
+    <color name="primaryBackDark">#13161d</color>
+    <color name="primaryText">#e5e5e5</color>
+    <color name="primaryTextGray">#999999</color>
+    <color name="primaryTextDeepGray">#565656</color>
+    <color name="transparent">#00000000</color>
+
+    <!--<color name="text_1b9c42">#1b9c42</color>
+    <color name="text_e22220">#e22220</color>
+    <color name="text_4ba64a">#03c087</color>-->
+
+    <!--<color name="red_f4333c">#F4333C</color>
+    <color name="text_03c087">#03c087</color>-->
+    <color name="typeGreen">#00B275</color>
+    <color name="typeRed">#f15057</color>
+    <color name="typeGray">#c5c8ce</color>
+    <color name="typeDefault">#a3a3a3</color>
+
+    <!--<color name="typeGreen">#4BA64A</color>
+    <color name="typeRed">#E22220</color>-->
+
+    <color name="bgBlue">#EFF1F5</color>
+    <color name="baseBlue">#4462A5</color>
+    <color name="yellowDark">#f0a70a</color>
+    <color name="yellowDark_sell">#d0b387</color>
+
+    <color name="color_gray">#E6E6E6</color>
+    <color name="color_green">#0F9E3B</color>
+    <color name="color_green1">#00b275</color>
+    <color name="color_green2">#00b275</color>
+    <color name="color_green3">#cccccc</color>
+    <color name="color_green4">#5ccea7</color>
+    <color name="color_green5">#5ccea7</color>
+
+
+    <color name="color_font_kline">#A2A2A2</color>
+    <color name="bg_kline_bottom">#13151C</color>
+    <color name="heise">#ffffff</color>
+    <color name="home_ziti">#999999</color>
+    <color name="home_ziti1">#666666</color>
+    <color name="text_orange">#F0A70A</color>
+    <color name="text_black_light">#424950</color>
+    <color name="green_back">#2035DF7E</color>
+    <color name="red_back">#20DF3536</color>
+    <color name="bg_color">#EDEDED</color>
+
+    <color name="six_text_color">#b9babe</color>
+    <color name="item_text_color">#5e616f</color>
+
+</resources>

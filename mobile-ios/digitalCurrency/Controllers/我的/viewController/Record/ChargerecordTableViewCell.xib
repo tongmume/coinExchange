@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="138" id="KGk-i7-Jjw" customClass="ChargerecordTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="369" height="138"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="369" height="137.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BHB" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q3L-8a-VM8">
+                        <rect key="frame" x="15" y="20" width="35.5" height="21"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                        <color key="textColor" red="0.90196078431372551" green="0.90196078431372551" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="充币地址" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6MU-4G-g9F">
+                        <rect key="frame" x="15" y="75.5" width="92.5" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="充值数量" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dWh-IM-340">
+                        <rect key="frame" x="15" y="100" width="49.5" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2018-08-02 18:00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YK9-Lz-ERe">
+                        <rect key="frame" x="249" y="51" width="105" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="jsahduqhasbhhbxaoAHSDGSA" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ygk-q6-C87">
+                        <rect key="frame" x="117.5" y="75.5" width="236.5" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0.082" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K9E-CK-XKH">
+                        <rect key="frame" x="321" y="100" width="33" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="到账时间" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FuQ-eQ-yz0">
+                        <rect key="frame" x="15" y="51" width="49.5" height="14.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ieX-T4-dpZ">
+                        <rect key="frame" x="15" y="136.5" width="339" height="1"/>
+                        <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="4WE-W3-P5e"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.94117647059999998" green="0.94117647059999998" blue="0.94117647059999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="FuQ-eQ-yz0" firstAttribute="leading" secondItem="Q3L-8a-VM8" secondAttribute="leading" id="0bN-62-KwV"/>
+                    <constraint firstItem="Ygk-q6-C87" firstAttribute="leading" secondItem="6MU-4G-g9F" secondAttribute="trailing" constant="10" id="0wE-1U-Qyc"/>
+                    <constraint firstItem="dWh-IM-340" firstAttribute="top" secondItem="6MU-4G-g9F" secondAttribute="bottom" constant="10" id="3Ui-l2-eGM"/>
+                    <constraint firstItem="YK9-Lz-ERe" firstAttribute="trailing" secondItem="Ygk-q6-C87" secondAttribute="trailing" id="4KI-P4-zNs"/>
+                    <constraint firstItem="Ygk-q6-C87" firstAttribute="centerY" secondItem="6MU-4G-g9F" secondAttribute="centerY" id="4kG-bM-hcm"/>
+                    <constraint firstItem="K9E-CK-XKH" firstAttribute="centerY" secondItem="dWh-IM-340" secondAttribute="centerY" id="Bhx-gp-LkD"/>
+                    <constraint firstItem="YK9-Lz-ERe" firstAttribute="centerY" secondItem="FuQ-eQ-yz0" secondAttribute="centerY" id="M4U-E0-Wvr"/>
+                    <constraint firstItem="Q3L-8a-VM8" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="OKg-6q-JsG"/>
+                    <constraint firstAttribute="trailing" secondItem="YK9-Lz-ERe" secondAttribute="trailing" constant="15" id="Vco-1T-VbN"/>
+                    <constraint firstItem="6MU-4G-g9F" firstAttribute="width" secondItem="H2p-sc-9uM" secondAttribute="width" multiplier="0.25" id="XfU-ff-ndy"/>
+                    <constraint firstAttribute="bottom" secondItem="ieX-T4-dpZ" secondAttribute="bottom" id="Ybq-xV-6Wc"/>
+                    <constraint firstItem="6MU-4G-g9F" firstAttribute="top" secondItem="FuQ-eQ-yz0" secondAttribute="bottom" constant="10" id="dZg-b5-Z1u"/>
+                    <constraint firstItem="K9E-CK-XKH" firstAttribute="trailing" secondItem="Ygk-q6-C87" secondAttribute="trailing" id="eXu-2C-rEJ"/>
+                    <constraint firstItem="dWh-IM-340" firstAttribute="leading" secondItem="Q3L-8a-VM8" secondAttribute="leading" id="hPe-NA-7mv"/>
+                    <constraint firstItem="FuQ-eQ-yz0" firstAttribute="top" secondItem="Q3L-8a-VM8" secondAttribute="bottom" constant="10" id="hUl-sO-6Fm"/>
+                    <constraint firstItem="ieX-T4-dpZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="nk5-0r-gOg"/>
+                    <constraint firstItem="6MU-4G-g9F" firstAttribute="leading" secondItem="Q3L-8a-VM8" secondAttribute="leading" id="sr0-Dc-vmY"/>
+                    <constraint firstAttribute="trailing" secondItem="ieX-T4-dpZ" secondAttribute="trailing" constant="15" id="vAP-FX-xvl"/>
+                    <constraint firstItem="Q3L-8a-VM8" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="20" id="x4J-lx-C9D"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="Amountrecharge" destination="dWh-IM-340" id="z4T-d4-mkw"/>
+                <outlet property="Chargeaddress" destination="6MU-4G-g9F" id="GBH-TM-59t"/>
+                <outlet property="Paymentdate" destination="FuQ-eQ-yz0" id="Rzu-Vq-6GM"/>
+                <outlet property="addresslabel" destination="Ygk-q6-C87" id="N4L-eE-d90"/>
+                <outlet property="numlabel" destination="K9E-CK-XKH" id="Jn9-9y-tzq"/>
+                <outlet property="timelabel" destination="YK9-Lz-ERe" id="XMt-cT-OOc"/>
+                <outlet property="typelabel" destination="Q3L-8a-VM8" id="rUm-5L-kYg"/>
+            </connections>
+            <point key="canvasLocation" x="49.5" y="99"/>
+        </tableViewCell>
+    </objects>
+</document>

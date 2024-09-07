@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackDark"
+    android:orientation="vertical">
+    <!--标题-->
+    <LinearLayout
+        android:id="@+id/llTitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/primaryBackLight"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibBack"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:scaleType="center"
+            android:src="@drawable/icon_back_gray"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/view_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="-50dp"
+            android:text="@string/ctc_title"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_weight="1"
+            android:background="@color/primaryBackDark" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/text_to_all"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/primaryBackLight"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/tabBuy"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_buy_tab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/buy_usdt"
+                    android:textColor="@drawable/selector_text_color_orange"
+                    android:textSize="16sp" />
+
+                <View
+                    android:id="@+id/buy_tab_underline"
+                    android:layout_width="80dp"
+                    android:layout_height="2dp"
+                    android:background="@color/text_orange" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tabSell"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_sell_tab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/sell_usdt"
+                    android:textColor="@drawable/selector_text_color_orange"
+                    android:textSize="16sp" />
+
+                <View
+                    android:id="@+id/sell_tab_underline"
+                    android:layout_width="80dp"
+                    android:layout_height="2dp"
+                    android:background="@color/text_orange"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/primaryBackDark"
+            android:visibility="gone" />
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/llBuy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/primaryBackNormal"
+                    android:orientation="vertical"
+                    android:paddingTop="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@color/primaryBackNormal"
+                        android:gravity="center"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="100dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/buy_price"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/buyPrice"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center|right"
+                            android:paddingRight="10dp"
+                            android:text="7.00"
+                            android:textColor="@color/color_green"
+                            android:textColorHint="@color/primaryTextGray"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="C N Y"
+                            android:textColor="@color/color_green"
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@color/primaryBackNormal"
+                        android:gravity="center"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/buy_number"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <EditText
+                            android:id="@+id/buyAmount"
+                            android:layout_width="0dp"
+                            android:layout_height="31dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="1"
+                            android:background="#00000000"
+                            android:clickable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center|right"
+                            android:hint="@string/ctc_amount_tips"
+                            android:inputType="number"
+                            android:paddingRight="10dp"
+                            android:text=""
+                            android:textColor="@color/primaryText"
+                            android:textColorHint="@color/primaryTextGray"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="USDT"
+                            android:textColor="@color/colorPrimary"
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/llPayTypeBuy"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="1dp"
+                        android:background="@color/primaryBackNormal"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/buy_type"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvPayTypeBuy"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:text="@string/text_ad_fu_kuan"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="15dp"
+                            android:src="@mipmap/icon_into" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="1dp"
+                        android:background="@color/primaryBackNormal"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/buy_money"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvBuyTotal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:paddingRight="10dp"
+                            android:text="0.00"
+                            android:textColor="@color/color_green"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="C N Y"
+                            android:textColor="@color/color_green"
+                            android:textSize="15sp" />
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btnBuy"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:background="@color/typeGreen"
+                        android:gravity="center"
+                        android:text="@string/buy_usdt"
+                        android:textColor="#FFF"
+                        android:textSize="13sp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:text="@string/already_buy"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorTextNormal"
+                        android:textSize="11sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llSell"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/primaryBackNormal"
+                    android:orientation="vertical"
+                    android:paddingTop="10dp"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@color/primaryBackNormal"
+                        android:gravity="center"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="110dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/sell_price"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/sellPrice"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center|right"
+                            android:paddingRight="10dp"
+                            android:text="7.00"
+                            android:textColor="@color/typeRed"
+                            android:textColorHint="@color/primaryTextGray"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="C N Y"
+                            android:textColor="@color/typeRed"
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@color/primaryBackNormal"
+                        android:gravity="center"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/sell_number"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <EditText
+                            android:id="@+id/sellAmount"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center|right"
+                            android:hint="@string/ctc_amount_tips"
+                            android:inputType="number"
+                            android:paddingRight="10dp"
+                            android:text=""
+                            android:textColor="@color/primaryText"
+                            android:textColorHint="@color/primaryTextGray"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="USDT"
+                            android:textColor="@color/primaryText"
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/llPayTypeSell"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="1dp"
+                        android:background="@color/primaryBackNormal"
+                        android:paddingLeft="16dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/sell_type"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvPayTypeSell"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:text="@string/text_clear_fu_kuan"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="15dp"
+                            android:src="@mipmap/icon_into" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="1dp"
+                        android:background="@color/primaryBackNormal"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="88dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center|left"
+                            android:text="@string/buy_money"
+                            android:textColor="@color/primaryText"
+                            android:textSize="14sp" />
+
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvSellTotal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="right"
+                            android:paddingRight="10dp"
+                            android:text="0.00"
+                            android:textColor="@color/typeRed"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="C N Y"
+                            android:textColor="@color/typeRed"
+                            android:textSize="15sp" />
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btnSell"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginBottom="15dp"
+                        android:background="@color/typeRed"
+                        android:gravity="center"
+                        android:text="@string/sell_usdt"
+                        android:textColor="#FFF"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/primaryBackLight"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="10dp">
+
+                    <TextView
+                        android:layout_width="88dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center|left"
+                        android:text="@string/my_order"
+                        android:textColor="@color/primaryText"
+                        android:textSize="16sp" />
+
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:id="@+id/tvTradeKnow"
+                        android:layout_width="88dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center|right"
+                        android:text="@string/deal_notice"
+                        android:textColor="@color/text_orange"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/primaryBackDark"
+                    android:visibility="gone" />
+
+                <android.support.v4.widget.SwipeRefreshLayout
+                    android:id="@+id/refreshLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/primaryBackNormal"
+                    android:minHeight="200dp">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/rvDetail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                </android.support.v4.widget.SwipeRefreshLayout>
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackDark"
+    android:orientation="vertical"
+    tools:context="com.bizzan.ui.edit_login_pwd.EditLoginPwdActivity">
+
+    <!--标题-->
+    <LinearLayout
+        android:id="@+id/llTitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/primaryBackNormal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibBack"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:scaleType="center"
+            android:src="@drawable/icon_back_gray"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/view_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:text="@string/bank_card_binding"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvConfirm"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="8dp"
+            android:gravity="center"
+            android:minWidth="48dp"
+            android:text="@string/save"
+            android:textColor="@color/text_orange"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp"
+        android:paddingRight="20dp"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/name"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="right|center"
+            android:hint="@string/name"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llBank"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/bank"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tvBank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:text="@string/text_ad_select"
+            android:textColor="@color/primaryText"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/icon_into" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llBranch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/account_opening_branch"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etBranch"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center|right"
+            android:hint="@string/account_opening_branchTip"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/tvAccount"
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/unionpay_account"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etAccount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center|right"
+            android:hint="@string/unionpay_accountTip"
+            android:inputType="number"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llConfirmAccount"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/confirm_cardnumber"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etConfirmAccount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center|right"
+            android:hint="@string/unionpay_accountTip2"
+            android:inputType="number"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textColorHint="@color/primaryTextGray"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/capital_password"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etNewPwd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center|right"
+            android:hint="@string/capital_passwordTip"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColorHint="@color/primaryTextGray"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+
+</LinearLayout>

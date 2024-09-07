@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_homeadapter_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:background="@color/primaryBackNormal"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/item_home_position"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/typeGreen"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="#fff"
+        android:textSize="9sp" />
+
+    <TextView
+        android:id="@+id/item_home_chg"
+        android:layout_width="75dp"
+        android:layout_height="25dp"
+        android:layout_gravity="end"
+        android:background="@drawable/selector_market_up_down"
+        android:gravity="center"
+        android:text="+15.00%"
+        android:textColor="#ffffff"
+        android:textSize="13sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="75dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.45"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/item_home_symbol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LTC/USDT"
+                android:textColor="@color/primaryText"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/item_home_change"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/primaryTextGray"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.44"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/item_home_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/primaryText"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/item_home_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:ellipsize="end"
+                android:maxLength="16"
+                android:maxLines="1"
+                android:text="759.14"
+                android:textColor="@color/primaryTextGray"
+                android:textSize="12sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

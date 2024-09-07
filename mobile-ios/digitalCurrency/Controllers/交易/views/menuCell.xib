@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="44" id="KGk-i7-Jjw" customClass="menuCell">
+            <rect key="frame" x="0.0" y="0.0" width="520" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="520" height="49.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xw5-BY-c6L">
+                        <rect key="frame" x="90" y="16" width="330" height="18"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <attributedString key="attributedText">
+                            <fragment content="$3000.00">
+                                <attributes>
+                                    <color key="NSColor" red="0.66666668650000005" green="0.1025921214" blue="0.074079424970000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <font key="NSFont" size="15" name="HelveticaNeue-Bold"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZTa-bn-AeO">
+                        <rect key="frame" x="430" y="9" width="80" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="80" id="f9q-bM-QQP"/>
+                            <constraint firstAttribute="height" constant="30" id="vad-Ai-jaU"/>
+                        </constraints>
+                        <attributedString key="attributedText">
+                            <fragment content="-13.00%">
+                                <attributes>
+                                    <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <font key="NSFont" size="13" name="HelveticaNeue-Bold"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                        <nil key="highlightedColor"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <integer key="value" value="15"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="USDT" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zoG-hh-GNG">
+                        <rect key="frame" x="15" y="9" width="70" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="5wm-Wk-dZk"/>
+                            <constraint firstAttribute="width" constant="70" id="gSN-73-Gsg"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="AndaleMono" family="Andale Mono" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="ZTa-bn-AeO" secondAttribute="trailing" constant="10" id="8RG-OI-dgg"/>
+                    <constraint firstItem="Xw5-BY-c6L" firstAttribute="leading" secondItem="zoG-hh-GNG" secondAttribute="trailing" constant="5" id="EQj-Yc-cSF"/>
+                    <constraint firstItem="zoG-hh-GNG" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="Sh8-RT-rcV"/>
+                    <constraint firstItem="ZTa-bn-AeO" firstAttribute="leading" secondItem="Xw5-BY-c6L" secondAttribute="trailing" constant="10" id="Yyh-Jk-lPM"/>
+                    <constraint firstItem="ZTa-bn-AeO" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="bCf-Ug-38S"/>
+                    <constraint firstItem="zoG-hh-GNG" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="fUo-dj-2NL"/>
+                    <constraint firstItem="Xw5-BY-c6L" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="ri7-Se-C1v"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="changeLabel" destination="ZTa-bn-AeO" id="729-HP-tPD"/>
+                <outlet property="moneyLabel" destination="Xw5-BY-c6L" id="umZ-XM-Oho"/>
+                <outlet property="nameLabel" destination="zoG-hh-GNG" id="L8R-V8-UrT"/>
+                <outlet property="rateWidth" destination="f9q-bM-QQP" id="poo-d6-xZl"/>
+                <outlet property="widthconstant" destination="gSN-73-Gsg" id="u4f-3F-UrE"/>
+            </connections>
+            <point key="canvasLocation" x="134" y="54"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="myImage" path="bizzantempimages" />
+
+    <root-path name="root" path="/" />
+
+    <files-path name="files" path="bizzantempfiles" />
+
+    <cache-path name="cache" path="bizzantempcache" />
+
+    <external-path name="external" path="bizzanexternal" />
+
+    <external-files-path name="external_file_path" path="bizzanexternalfiles" />
+
+    <external-cache-path name="external_cache_path" path="bizzanexternalcache" />
+
+</paths>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackDark"
+    android:orientation="vertical"
+    tools:context="com.bizzan.ui.account_pwd.EditAccountPwdActivity">
+
+    <!--标题-->
+    <LinearLayout
+        android:id="@+id/llTitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/primaryBackNormal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibBack"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:scaleType="center"
+            android:src="@drawable/icon_back_gray"
+            android:visibility="visible"/>
+
+        <View
+            android:id="@+id/view_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:text="@string/changeMoneyPassword"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/tvEdit"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="8dp"
+            android:gravity="center"
+            android:minWidth="48dp"
+            android:text="@string/save"
+            android:textColor="@color/text_orange"
+            android:textSize="14sp"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:text="@string/setMoneyPasswordTip"
+        android:textColor="@color/primaryText"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="16dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/login_password"
+            android:textColor="@color/primaryText"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:id="@+id/etLoginPwd"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#fff"
+            android:hint="@string/login_password"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/primaryBackNormal"
+        android:gravity="center"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/oldMoneyPassword"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/etOld"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/oldMoneyPassword"
+            android:gravity="center|right"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColorHint="@color/primaryTextGray"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+        <ImageView
+            android:id="@+id/yan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/yan_yes"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="16dp"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/primaryBackNormal"
+        android:gravity="center"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/newMoneyPassword"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/sellPrice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/newMoneyPassword"
+            android:gravity="center|right"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColorHint="@color/primaryTextGray"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+        <ImageView
+            android:id="@+id/yan1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/yan_yes"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="16dp"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/primaryBackNormal"
+        android:gravity="center"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:text="@string/certainMoneyPassword"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/etRepeate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/certainMoneyPassword"
+            android:gravity="center|right"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColorHint="@color/primaryTextGray"
+            android:textColor="@color/primaryText"
+            android:textSize="15sp"/>
+        <ImageView
+            android:id="@+id/yan2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/yan_yes"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="16dp"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="40dp"
+ >
+        <TextView
+            android:id="@+id/tvForgot"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/forgot_password"
+            android:textColor="@color/text_orange"/>
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

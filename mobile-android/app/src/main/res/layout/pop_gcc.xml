@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="18sp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/matchMoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="300dp"
+            android:layout_height="50dp">
+
+            <TextView
+                android:text="@string/MaxMatchAmount"
+                android:layout_gravity="center_vertical"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvMaxMatcchAmount"
+                android:layout_marginLeft="10dp"
+                android:textSize="15sp"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="GCC"
+                android:singleLine="true"
+                android:textSize="15sp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="80dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="300dp"
+            android:layout_height="50dp">
+
+            <TextView
+                android:text="@string/MatchAmount"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/evMatcchAmount"
+                android:layout_marginLeft="10dp"
+                android:hint="@string/MatchAmount"
+                android:textSize="15sp"
+                android:singleLine="true"
+                android:inputType="numberDecimal"
+                android:layout_gravity="center_vertical"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="GCC"
+                android:textSize="15sp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/tvGccConfirm"
+            android:background="@color/baseBlue"
+            android:text="@string/submit"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_width="180dp"
+            android:layout_height="30dp"
+            />
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

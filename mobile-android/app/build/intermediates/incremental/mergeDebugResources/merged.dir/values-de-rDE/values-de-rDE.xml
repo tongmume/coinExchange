@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_name">
+
+        <item>ICBC</item>
+        <item>Chinesische Landwirtschaftsbank</item>
+        <item>China Construction Bank</item>
+        <item>China Postsparkasse</item>
+        <item>China Merchants Bank</item>
+        <item>Bank von China</item>
+        <item>Bank of Communications</item>
+        <item>CITIC Bank</item>
+        <item>HSBC Bank</item>
+        <item>China Minsheng Bank</item>
+        <item>China Guangfa Bank</item>
+        <item>Ping eine Bank</item>
+        <item>Industriebank</item>
+        <item>Shanghai Pudong Entwicklungsbank</item>
+        <item>Zheshang Bank</item>
+        <item>Bohai Bank</item>
+        <item>Immer größer werdende Bank</item>
+        <item>Citibank</item>
+        <item>Standard Chartered Bank</item>
+        <item>HSBC Bank</item>
+        <item>China Everbright Bank</item>
+        <item>Shanghai Bank</item>
+        <item>Bank of Jiangsu</item>
+        <item>Bank of Chongqing</item>
+        <item>Bank of Tianjin</item>
+        <item>Bank of Xiamen</item>
+        <item>Stadt Commercial Bank</item>
+        <item>Ländliche Geschäftsbank</item>
+        <item>Huishang Bank</item>
+    </string-array>
+    <string-array name="ctc_payType">
+        <item>Bankkarte</item>
+        <item>Alipay</item>
+        <item>WeChat Pay</item>
+    </string-array>
+    <string-array name="ctc_payTypeBank">
+        <item>Bankkarte</item>
+    </string-array>
+    <string-array name="exchange_type">
+        <item name="no_select">Auswahl abbrechen</item>
+        <item name="top_up">Aufladen</item>
+        <item name="withdrawal">abheben</item>
+        <item name="transfer">Transfer</item>
+        <item name="coinCurrencyTrading">Währungstransaktion</item>
+        <item name="FiatMoneyBuy">OTC kaufen</item>
+        <item name="FiatMoneySell">OTC verkaufen</item>
+        <item name="activitiesReward">Aktivitätspreis</item>
+        <item name="promotionRewards">Promotion Belohnung</item>
+        <item name="shareOutBonus">Dividenden</item>
+        <item name="vote">Abstimmung</item>
+        <item name="ArtificialTop_up">Manuelles Aufladen</item>
+        <item name="match">Lufttropfen</item>
+        <item name="Activity_buy">Aktivitätsaustausch</item>
+        <item name="ctc_buy">CTC kaufen</item>
+        <item name="ctc_sell">CTC verkaufen</item>
+
+        <item name="red_out">roter Umschlag</item>
+        <item name="red_in">Rote Umschlagsammlung</item>
+        <item name="withdrawcode_out">Auszahlungscode</item>
+        <item name="withdrawcode_in">Aufladecode aufladen</item>
+        <item name="contract_fee">Unbefristete Vertragsgebühr</item>
+        <item name="contract_proit">Ewiger Vertragsgewinn</item>
+        <item name="contract_loss">Unbefristete Vertragsverluste</item>
+        <item name="option_fail">Vertragsversagen vorhersagen</item>
+        <item name="option_fee">Prognosevertragsgebühren</item>
+        <item name="option_reward">Prognosevertragsbonus</item>
+
+    </string-array>
+    <string-array name="home_seven_top_tab">
+        <item>Vergangene Ergebnisse</item>
+        <item>Echtzeitmarkt</item>
+    </string-array>
+    <string-array name="home_six_top_tab">
+        <item>Öffnen Sie eine Position</item>
+        <item>Liquidation</item>
+    </string-array>
+    <string-array name="home_two_top_tab">
+        <item>Optional</item>
+        <item>USDT</item>
+        <item>BTC</item>
+        <item>ETH</item>
+    </string-array>
+    <string-array name="k_line_data">
+        <item>Zeit</item>
+        <item>öffnen</item>
+        <item>hoch</item>
+        <item>niedrig</item>
+        <item>Erhalten</item>
+        <item>Höhen und Tiefen</item>
+        <item>Änderung ändern</item>
+        <item>Volumen</item>
+    </string-array>
+    <string-array name="k_line_depth">
+        <item name="depth">Tiefe</item>
+        <item name="font_kline_volume">Deal</item>
+    </string-array>
+    <string-array name="k_line_tab">
+        <item>Zeitteilung</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>30 Minuten</item>
+        <item>1 Woche</item>
+        <item>Januar</item>
+    </string-array>
+    <string-array name="k_line_tab_option">
+        <item>Zeitteilung</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+    </string-array>
+    <string-array name="order_status">
+        <item>Unbezahlt</item>
+        <item>Bereits bezahlt</item>
+        <item>abgeschlossen</item>
+        <item>Abgesagt</item>
+        <item>Reizvoll</item>
+    </string-array>
+    <string-array name="text_direction">
+        <item>Auswahl abbrechen</item>
+        <item>Kaufen</item>
+        <item>Verkaufen</item>
+    </string-array>
+    <string-array name="text_type">
+        <item>Bestellung begrenzen</item>
+        <item>Marktordnung</item>
+    </string-array>
+    <string-array name="text_type_array">
+        <item>Auswahl abbrechen</item>
+        <item>Bestellung begrenzen</item>
+        <item>Marktordnung</item>
+    </string-array>
+    <string-array name="text_type_param">
+        <item>Auswahl abbrechen</item>
+        <item>LIMIT_PRICE</item>
+        <item>MARKTPREIS</item>
+    </string-array>
+    <string-array name="timeLimit">
+
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>45 Minuten</item>
+        <item>60 Minuten</item>
+
+    </string-array>
+    <string name="Abolish_success">Erfolg abbrechen</string>
+    <string name="Account_rights">Eigenkapital</string>
+    <string name="Alipay">Alipay</string>
+    <string name="ArtificialTop_up">Manuelles Aufladen</string>
+    <string name="Cancel_order">Bestellung stornieren</string>
+    <string name="China">Abkürzung</string>
+    <string name="Currency_deposit">Margin-Währung</string>
+    <string name="Download_failed">Herunterladen fehlgeschlagen</string>
+    <string name="English">Englisch</string>
+    <string name="FiatMoney">Fiat Währung</string>
+    <string name="FiatMoneyBuy">Fiat Währung kaufen</string>
+    <string name="FiatMoneySell">Fiat Währung verkaufen</string>
+    <string name="French">Französisch</string>
+    <string name="German">Das ist Deutsch</string>
+    <string name="IdCardNumber">Identifikationsnummer</string>
+    <string name="Incomplete_information">Unvollständige Information</string>
+    <string name="Indonesian">Indonesisch</string>
+    <string name="Italian">Sag es auf russisch</string>
+    <string name="Japanese">japanisch</string>
+    <string name="Korean">Koreanisch</string>
+    <string name="MatchAmount">Anzahl der Paare</string>
+    <string name="MaxMatchAmount">Maximale Anzahl von Paaren</string>
+    <string name="No_ads">Fehler beim Abrufen von Werbeinformationen, erneutes Abrufen!</string>
+    <string name="No_qrcode">QR-Code-Adresse ist nicht eingestellt</string>
+    <string name="Openmore">Kann mehr öffnen:</string>
+    <string name="Opennull">Kann geöffnet werden:</string>
+    <string name="Option_contract">Optionsvertrag</string>
+    <string name="Order_number">Bestellnummer</string>
+    <string name="Parse_error">Analysefehler</string>
+    <string name="Password_error">falsches Passwort</string>
+    <string name="Payment_countdown">Zahlungs-Countdown</string>
+    <string name="Payment_done">Zahlung abgeschlossen</string>
+    <string name="Payment_receipt_account">Zahlungs- / Empfangskonto</string>
+    <string name="Permission_not_open">Berechtigung nicht aktiviert</string>
+    <string name="Permission_ok">Ermöglichen Sie LIFE den Zugriff auf die Adressbuchberechtigungen für eine bessere Erfahrung.</string>
+    <string name="Portuguese">Portugiesisch</string>
+    <string name="Professional_contract">Berufsvertrag</string>
+    <string name="QRcode_for_receivables">QR-Code empfangen</string>
+    <string name="Spanish">Spanisch. Danke</string>
+    <string name="Start_downloading">Download starten ... bitte warten</string>
+    <string name="Trading_time">Transaktionsstunde</string>
+    <string name="TraditionalChinese">Sehr reich. Chinesisch</string>
+    <string name="Transaction_amount">Der Transaktionsbetrag</string>
+    <string name="Transaction_object">Handelspartner</string>
+    <string name="Turkish">Türkisch</string>
+    <string name="Upload_success">Erfolgreich hochladen</string>
+    <string name="Waiting_money">Warten auf Münzfreigabe</string>
+    <string name="Wallet_Overturn">Vermögensübertragung</string>
+    <string name="Warm_prompt">Tipps</string>
+    <string name="about_1">Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von BIZZAN ist eine umfassende Plattform für den Handel mit digitalen Vermögenswerten. Wir verfügen über führende technische Stärke, einen qualitativ hochwertigen Kundenservice und eine gute Benutzererfahrung und bieten eine kostenlose Online-Austauschplattform für die Mehrheit der Liebhaber digitaler Währungen. \n \n Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von BIZZAN bietet außerdem Blockchain-Services aus einer Hand für die Planung von Whitepaper für digitale Währungen, die Anpassung von Verschlüsselungsalgorithmen, die Erforschung und Entwicklung digitaler Währungen sowie den Start der Handelsplattform. \n \n Die Übersee-Betriebszentren der internationalen Handelsplattform für digital verschlüsselte Vermögenswerte von BIZZAN sind in Singapur, Kambodscha und BIZZANhall eingerichtet. Es gibt drei inländische Büros in Peking, Zhengzhou und Shenzhen. Der chinesische Hauptsitz befindet sich im Hainan Lingshui Qingshuiwan International Information Industry Park. \n</string>
+    <string name="about_2">Die Entwicklung digitaler Assets ist in vollem Gange, mit einer Mischung aus Gut und Böse. BIZZAN wird hochwertige digitale Assets prüfen, auf die Transparenz und Governance-Struktur des Projekts achten, basierend auf den Auswahlkriterien, die durch sein eigenes Ratingsystem gebildet werden, und auf die Entscheidungen von Marktinvestoren verweisen, den Wert hochwertiger digitaler Assets gemeinsam zu untersuchen. \nUnsere Philosophie lautet: Mit jedem Mitglied, das sich hier frei versammelt, einen hochwertigen ökologischen Boden für die Wertzirkulation und den gemeinsamen Anbau zu schaffen. \n</string>
+    <string name="about_3">Ziel von BIZZAN ist es, eine relativ dezentrale Handelsplattform aufzubauen. Das Betriebsumfeld der Plattform entwickelt sich auf sichere, faire und solide Weise, innovativ und iterierbar und im Einklang mit dem Trend des sozialen Fortschritts und der Entwicklung.</string>
+    <string name="about_email">E-Mail: service@BIZZANex.com</string>
+    <string name="about_gang">BIZZAN offizielle Community</string>
+    <string name="about_title1">\nÜber BIZZAN \n</string>
+    <string name="about_title2">\nBIZZAN-Konzept \n</string>
+    <string name="about_title3">\nBIZZAN-Ziel \n</string>
+    <string name="about_title4">\nKontaktieren Sie uns \n</string>
+    <string name="about_us">Über uns</string>
+    <string name="acceptcoin">Akzeptierte Währung</string>
+    <string name="account">Bergwerk</string>
+    <string name="accountNum">Ankunftsmenge</string>
+    <string name="account_opening_branch">Kontoeröffnungsfiliale</string>
+    <string name="account_opening_branchTip">Bitte geben Sie die Kontoeröffnungsfiliale ein</string>
+    <string name="account_paid_tab">Mark hat bezahlt</string>
+    <string name="account_settings">Account Einstellungen</string>
+    <string name="activitiesReward">Aktivitätspreis</string>
+    <string name="activitycoin">Aktivitätswährung</string>
+    <string name="activityexchange">Aktivitätsaustausch</string>
+    <string name="activitytype">Abonnementtyp</string>
+    <string name="activitytype0">Unbekannt</string>
+    <string name="activitytype1">Zuerst online (Eile zu kaufen)</string>
+    <string name="activitytype2">Erstmals online (Bewertungen)</string>
+    <string name="activitytype3">Positionsanteil</string>
+    <string name="activitytype4">Kostenloses Abonnement</string>
+    <string name="activitytype5">Abonnement für Cloud-Mining-Maschinen</string>
+    <string name="activitytype6">Lock Release</string>
+    <string name="addMoneyTip">Die Bearbeitungsgebühr sollte bei liegen</string>
+    <string name="addMoneyTip2">Mindestauszahlungsbetrag</string>
+    <string name="affirm_submit">Übermittlung bestätigen</string>
+    <string name="ali_account">Alipay-Konto</string>
+    <string name="alipay_binding">Alipay-Bindung</string>
+    <string name="all">Alle</string>
+    <string name="already_buy">Bitte schließen Sie die Zahlung innerhalb von 30 Minuten nach der Bestellung ab und markieren Sie die Bestellung als "bezahlt".</string>
+    <string name="alreadyamount">Gekaufte Menge</string>
+    <string name="alreadyholdamount">Gesamtposition der Aktivitätsteilnahme</string>
+    <string name="amount">Menge</string>
+    <string name="announcement_center">Ankündigung</string>
+    <string name="app_name">BIZZAN</string>
+    <string name="appealTip">Wir werden Ihre Beschwerde so schnell wie möglich bearbeiten. Bitte haben Sie etwas Geduld</string>
+    <string name="appealTip2">Bitte beschreiben Sie kurz den Grund für Ihre Berufung (innerhalb von 300 Wörtern).</string>
+    <string name="apply_immediately">sofort anwenden</string>
+    <string name="apply_merchant">Bewerben Sie sich, um ein Unternehmen zu werden</string>
+    <string name="attend">Jetzt teilnehmen</string>
+    <string name="attention">Beachtung</string>
+    <string name="attention1">1. Nach dem Einreichen der Teilnahme an Aktivitäten der Typen [Positionsfreigabe], [Kostenloses Abonnement], [Abonnement für Cloud Mining-Maschinen], [Position sperren] werden Assets eingefroren und nach Beendigung der Aktivität eingefroren oder entsperrt</string>
+    <string name="attention2">2. Nach der Teilnahme an den Aktivitäten [Halten von Anteilen], [Kostenloses Abonnement], [Abonnement für Cloud Mining-Maschinen], [Position sperren] kann der Benutzer den Antrag auf Teilnahme nicht kündigen</string>
+    <string name="attention3">3. Wenn die Veranstaltung aufgrund der Projektpartei und anderer Faktoren höherer Gewalt abgesagt wird, wird die ursprüngliche Route an die eingefrorenen Vermögenswerte zurückgegeben.</string>
+    <string name="attention4">* Die abschließende Interpretation dieser Aktivität unterliegt dem offiziellen Eigentum von (WWW.BIZZAN.VIP).</string>
+    <string name="autonym1">Bitte warten Sie auf die Überprüfung!</string>
+    <string name="autonym2">Die Identität des echten Namens wurde überprüft!</string>
+    <string name="autonym3">Benutzer abgelaufen, bitte erneut anmelden</string>
+    <string name="availableCoin">Verfügbar</string>
+    <string name="back">Rückkehr</string>
+    <string name="balance">Bilanzsumme (USDT)</string>
+    <string name="balance_1">Anlagenmanagement</string>
+    <string name="balance_2">Mein Vermögen</string>
+    <string name="balance_3">Vermögensumschlag</string>
+    <string name="balancenotenough">Mangelhaftes Gleichgewicht!</string>
+    <string name="bank">Bankkonto</string>
+    <string name="bank_card_binding">Bankkartenbindung</string>
+    <string name="bank_card_name">Name der Bankkarte</string>
+    <string name="bank_card_phone">Bankkartennummer</string>
+    <string name="bhb_deduct">Verwenden Sie BHB, um Bearbeitungsgebühren abzuziehen</string>
+    <string name="bid">Kaufen</string>
+    <string name="binding">Binden</string>
+    <string name="binding_account">Accounts erhaltbar</string>
+    <string name="binding_email">Mailbox binden</string>
+    <string name="binding_phone">Handynummer binden</string>
+    <string name="binding_phone_first">Bitte binden Sie zuerst Ihre Telefonnummer</string>
+    <string name="bound">ändern</string>
+    <string name="bound2">Wurde gesetzt</string>
+    <string name="buyOpenmore">Kaufen Sie lange offen</string>
+    <string name="buy_money">Abrechnungsbetrag:</string>
+    <string name="buy_number">Kaufmenge:</string>
+    <string name="buy_price">Kaufpreis:</string>
+    <string name="buy_type">Bezahlverfahren:</string>
+    <string name="buy_usdt">Kaufen Sie USDT</string>
+    <string name="buyflatnull">Kaufen Sie kurz</string>
+    <string name="camera_permission">Die Berechtigung ist nicht verfügbar. Bitte aktivieren Sie die Kameraerlaubnis</string>
+    <string name="cancle">stornieren</string>
+    <string name="capital_password">Fonds-Passwort</string>
+    <string name="capital_passwordTip">Bitte geben Sie das Passwort des Fonds ein</string>
+    <string name="cause">der Grund</string>
+    <string name="certainMoneyPassword">Bestätigen Sie das Passwort des Fonds</string>
+    <string name="certainPassword">Kennwort bestätigen</string>
+    <string name="changeBindPhoneNum">Ändern Sie die gebundene Handynummer</string>
+    <string name="changeBindPhoneNumTip">Wenn Sie die an Ihr Konto gebundene Mobiltelefonnummer ändern, führen Sie bitte eine Identitätsprüfung durch</string>
+    <string name="changeLoginPassword">Ändern Sie das Login-Passwort</string>
+    <string name="changeLoginPasswordTip1">Sie haben Ihre Telefonnummer gebunden</string>
+    <string name="changeLoginPasswordTip2">Bitte melden Sie sich nach erfolgreicher Änderung erneut an</string>
+    <string name="changeMoneyPassword">Ändern Sie das Passwort des Fonds</string>
+    <string name="change_phone_num">Handynummer ändern</string>
+    <string name="chargeMoney">Aufladen</string>
+    <string name="charge_money_attention">Bitte geben Sie beim Aufladen die Anmerkungen (Memo) ein</string>
+    <string name="charge_money_notification">• Laden Sie keine nicht währungsbezogenen Vermögenswerte an die oben angegebene Adresse auf, da die Vermögenswerte sonst nicht abgerufen werden. \n • Nachdem Sie die oben genannte Adresse aufgeladen haben, müssen Sie den gesamten Blockchain-Netzwerkknoten bestätigen. Im Allgemeinen kommt das Blockchain-Hauptnetzwerk nach 3 Netzwerkbestätigungen an. \n • Ihre Ladeadresse ändert sich nicht häufig, Sie können sie aufladen. Wenn sich etwas ändert, werden wir unser Bestes tun, um Sie durch Website-Ankündigungen oder E-Mails zu benachrichtigen. \n • Stellen Sie sicher, dass die Betriebsumgebung sicher ist, um zu verhindern, dass Informationen manipuliert werden oder durchgesickert sind.</string>
+    <string name="charge_record">Einzahlungsdatensatz</string>
+    <string name="chat">Chatten</string>
+    <string name="child">Seitenbild</string>
+    <string name="china">China</string>
+    <string name="clause_protocol">Bedingungen Vereinbarung</string>
+    <string name="code">Verifizierungs-Schlüssel</string>
+    <string name="code1_shuru">Bitte geben Sie den Einladungscode ein</string>
+    <string name="code_shuru">Bitte geben Sie den Telefonbestätigungscode ein</string>
+    <string name="code_shuru_email">Bitte geben Sie den E-Mail-Bestätigungscode ein</string>
+    <string name="coinCurrencyTrading">Währungstransaktion</string>
+    <string name="column2">Arten von</string>
+    <string name="column3">Bestätigte Menge</string>
+    <string name="column4">Teilnahmegewährung</string>
+    <string name="column5">Akkreditierende Einheit</string>
+    <string name="column6">Aktueller Status</string>
+    <string name="column7">Erstellte Zeit</string>
+    <string name="column8">Abgerechnet.</string>
+    <string name="commission_revenue">Provisionserträge</string>
+    <string name="commitfailed">Teilnahme fehlgeschlagen!</string>
+    <string name="confirm">bestimmen</string>
+    <string name="confirm_cardnumber">Kartennummer bestätigen</string>
+    <string name="constract">Nachhaltig</string>
+    <string name="contact_with_me">Kontaktiere mich</string>
+    <string name="contract">Vertrag</string>
+    <string name="contract_fee">Unbefristete Vertragsgebühr</string>
+    <string name="contract_loss">Unbefristete Vertragsverluste</string>
+    <string name="contract_proit">Ewiger Vertragsgewinn</string>
+    <string name="copyAddress">Adresse kopieren</string>
+    <string name="copy_success">In die Zwischenablage kopieren!</string>
+    <string name="copylink">Link kopieren</string>
+    <string name="create_rush">Die Blockchain generiert Adressen. Bitte beenden Sie die Benutzeroberfläche "Meine Assets" und geben Sie sie später erneut ein.</string>
+    <string name="creditfail">Audit-Fehler</string>
+    <string name="creditting">im Rückblick</string>
+    <string name="ctc_amount_tips">Bitte geben Sie eine Zahl zwischen 50 und 50000 ein</string>
+    <string name="ctc_buy_amount_tips">Bitte geben Sie die Kaufmenge ein</string>
+    <string name="ctc_sell_amount_tips">Bitte geben Sie die verkaufte Menge ein</string>
+    <string name="ctc_title">Fiat-Währungstransaktion</string>
+    <string name="ctcbuy">C2C kaufen</string>
+    <string name="ctcsell">C2C verkaufen</string>
+    <string name="currency_data">Währungsinformationen</string>
+    <string name="current_trust">Aktuelle Provision</string>
+    <string name="currentdivided">Derzeit kann meine Position aufgeteilt werden</string>
+    <string name="deal_guide">Handelsführer</string>
+    <string name="deal_notice">Transaktionsbenachrichtigung</string>
+    <string name="default_market">Der Standardprovisionspreis ist der Marktpreis</string>
+    <string name="delete">löschen</string>
+    <string name="deposit_number">Margin-Betrag</string>
+    <string name="detail">Detail</string>
+    <string name="detailTableViewTip">Keine Transaktionshistorie</string>
+    <string name="details">Einzelheiten</string>
+    <string name="dialog_cancel">Verwende nicht</string>
+    <string name="dialog_confirm">verwenden</string>
+    <string name="dialog_msg_four">Kategorie:</string>
+    <string name="dialog_msg_one">Provisionspreis:</string>
+    <string name="dialog_msg_three">Bestellbetrag:</string>
+    <string name="dialog_msg_two">Gesamtprovision:</string>
+    <string name="dialog_one_cancel">stornieren</string>
+    <string name="dialog_one_one">Bestätigen Sie die Stornierung der Bestellung?</string>
+    <string name="dialog_one_title">Bestätigung der Stornierung der Bestellung</string>
+    <string name="dialog_one_two">Bestellung stornieren</string>
+    <string name="dialog_sure">bestimmen</string>
+    <string name="dialog_three_msg">Erinnerung: Bitte bestätigen Sie den Preis, bevor Sie eine Bestellung aufgeben. Das Geld für diese Transaktion wird nach der Bestellung in Verwahrung genommen. Bitte seien Sie versichert, dass Sie kaufen müssen.</string>
+    <string name="dialog_three_one">Preis</string>
+    <string name="dialog_three_ones">Verkaufspreis</string>
+    <string name="dialog_three_three">Gesamtkauf</string>
+    <string name="dialog_three_threes">Gesamtumsatz</string>
+    <string name="dialog_three_title">Bestellbestätigung</string>
+    <string name="dialog_three_two">Kaufmenge</string>
+    <string name="dialog_three_twos">Menge verkauft</string>
+    <string name="dialog_two_title_buy">Provision kaufen</string>
+    <string name="dialog_two_title_sell">Konsignationsverkauf</string>
+    <string name="diff_cardnumber">Inkonsistente Bankkartennummern</string>
+    <string name="direction">Richtung</string>
+    <string name="discharged">Freisetzung</string>
+    <string name="discountfee">Abzug der Bearbeitungsgebühr</string>
+    <string name="down_announcement">Abnehmende Liste</string>
+    <string name="down_shelf">Von der Stange</string>
+    <string name="dz_time">Ankunftszeit</string>
+    <string name="egional_selection">Regionsauswahl</string>
+    <string name="email">Briefkasten</string>
+    <string name="email_code">E-Mail-Bestätigungscode</string>
+    <string name="email_diff">Das E-Mail-Format ist falsch</string>
+    <string name="email_retrieve">E-Mail-Verifizierung</string>
+    <string name="email_shuru">Bitte geben Sie Ihre E-Mail-Adresse ein</string>
+    <string name="email_sign_up">E-Mail Registrierung</string>
+    <string name="empty_address">Die Daten sind falsch, die Adresse ist leer</string>
+    <string name="end_time">Endzeit</string>
+    <string name="endtime">Endzeit:</string>
+    <string name="ent_status1">Inbetriebnahme</string>
+    <string name="ent_status2">Widerrufen</string>
+    <string name="ent_status3">Delegierung fehlgeschlagen</string>
+    <string name="ent_status4">Erfolgreich in Betrieb genommen</string>
+    <string name="ent_statusblast">Liquidation</string>
+    <string name="entrust_money">Provisionsbetrag</string>
+    <string name="entrust_num_btc">Sendung (BTC)</string>
+    <string name="entrust_ok_btc">Lautstärke (BTC)</string>
+    <string name="entrust_price">Provisionspreis:</string>
+    <string name="exit_again">Zum Beenden erneut drücken</string>
+    <string name="expect">Zeitraum</string>
+    <string name="fabi2">Fiat-Währungstransaktion</string>
+    <string name="fail">Fehler</string>
+    <string name="feed_back">Feedback</string>
+    <string name="feed_et_hint">Hinterlassen Sie Ihre wertvollen Kommentare, damit wir es besser machen können!</string>
+    <string name="feed_et_number_email">Handynummer / E-Mail (nicht erforderlich)</string>
+    <string name="feed_message">Ihre Meinung ist uns sehr wichtig!</string>
+    <string name="fen">Minute</string>
+    <string name="find_error">Ein abnormaler Fehler ist aufgetreten!</string>
+    <string name="flatmore">Long-Positionen können geschlossen werden:</string>
+    <string name="flatnull">Short-Positionen können geschlossen werden:</string>
+    <string name="forecast_cycle">Prognosezeitraum dieses Zeitraums:</string>
+    <string name="forget_gesture_pwd">Passwort vergessen?</string>
+    <string name="forget_pwd">Haben Sie das Gestenpasswort vergessen, müssen Sie sich erneut anmelden!</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="four_danjia">Stückpreis</string>
+    <string name="freezeCoin">einfrieren</string>
+    <string name="freeze_money">Rand einfrieren</string>
+    <string name="gather_code">Sammlungscode</string>
+    <string name="gesturesPassThirdPartTip6">Mindestens vier Punkte sind verbunden, bitte erneut eingeben</string>
+    <string name="gesturesPassThirdPartTip7">Bitte zeichnen Sie das Gestenpasswort erneut</string>
+    <string name="gesturesPassword">Gestenpasswort</string>
+    <string name="go_login">Gehen Sie zum Login</string>
+    <string name="gongsijianjie">Firmenprofil</string>
+    <string name="goto_login">Melden Sie sich sofort an</string>
+    <string name="goto_regist">Jetzt registrieren</string>
+    <string name="grounding">Jetzt im Regal</string>
+    <string name="had_set">ändern</string>
+    <string name="handsetTailNumber">Telefonnummer</string>
+    <string name="has_new_version">Neue Version gefunden</string>
+    <string name="hello_blank_fragment">Du bist so hohl.</string>
+    <string name="help">Hilfe</string>
+    <string name="help_centre">Hilfe</string>
+    <string name="hidden0Currency">Münzen als 0 versteckt</string>
+    <string name="hide">ausblenden</string>
+    <string name="high">hoch</string>
+    <string name="hint">prompt</string>
+    <string name="history_trust">Historischer Auftrag</string>
+    <string name="holdcoin">Erforderliche Währung für das Halten von Positionen</string>
+    <string name="holdtips">Die Teilnahme an Aktivitäten vom Typ [Holding Share] muss bis zum Ende der Aktivität gesperrt sein</string>
+    <string name="home">Zuhause</string>
+    <string name="id_credit">Verifiziert</string>
+    <string name="index">Index</string>
+    <string name="innovation_lab">Innovation Lab</string>
+    <string name="innovation_lab_mine">Innovationsmanagement</string>
+    <string name="inputAddAdress">Bitte geben Sie die Adresse ein oder wählen Sie sie aus</string>
+    <string name="input_Alipay">Bitte geben Sie die Alipay-Nummer ein</string>
+    <string name="input_account_password">Bitte geben Sie Ihr Kontopasswort ein!</string>
+    <string name="input_big_buy">Die eingegebene Menge ist größer als die zum Kauf verfügbare Menge!</string>
+    <string name="input_code">Bitte geben Sie den Bestätigungscode ein</string>
+    <string name="input_coin">Bitte geben Sie die Währung ein</string>
+    <string name="input_direction">Bitte geben Sie die Richtung ein</string>
+    <string name="input_entrust_price_number">Bitte geben Sie den Provisionspreis und die Provisionsmenge ein</string>
+    <string name="input_fund_pwd">Bitte geben Sie das richtige Fondspasswort ein</string>
+    <string name="input_gesture_pwd">Bitte geben Sie das Gestenpasswort ein</string>
+    <string name="input_number">Bitte geben Sie die Menge ein</string>
+    <string name="input_ok_buy_number">Bitte geben Sie die richtige Kaufmenge ein</string>
+    <string name="input_ok_buy_price">Bitte geben Sie den korrekten Kaufpreis ein</string>
+    <string name="input_ok_buy_sum">Bitte geben Sie den korrekten Gesamtkaufbetrag ein</string>
+    <string name="input_ok_entrust_price">Bitte geben Sie den korrekten Provisionspreis ein</string>
+    <string name="input_ok_sell_number">Bitte geben Sie die richtige Verkaufsmenge ein</string>
+    <string name="input_ok_sell_price">Bitte geben Sie den korrekten Verkaufspreis ein</string>
+    <string name="input_phone">Bitte geben Sie die Telefonnummer ein</string>
+    <string name="input_price_number">Bitte geben Sie Preis und Menge ein</string>
+    <string name="input_qq_account">Bitte geben Sie Ihr QQ-Konto ein</string>
+    <string name="input_remark">Bitte geben Sie die Widerrufserklärungen / Memo ein</string>
+    <string name="input_trading">Bitte geben Sie das Handelspaar ein</string>
+    <string name="input_type">Bitte geben Sie den Typ ein</string>
+    <string name="input_wechat_account">Bitte geben Sie ein WeChat-Konto ein</string>
+    <string name="inputamount">Umtauschbetrag eingeben</string>
+    <string name="inputholdamount">Geben Sie den Betrag der gesperrten Position ein</string>
+    <string name="inputminingamount">Geben Sie den Betrag der gesperrten Position ein</string>
+    <string name="invite">Einladung</string>
+    <string name="invitetip1">Die Produktionskapazität dieser Bergbaumaschine kann durch Einladung von Freunden erhöht werden. Jedes Mal, wenn jemand zum Austausch gegen die Bergbaumaschine eingeladen wird, erhöht sich die Produktionskapazität</string>
+    <string name="invitetip2">%, die Obergrenze der Kapazitätserhöhung</string>
+    <string name="item_buy">Kaufen</string>
+    <string name="item_charge">Bearbeitungsgebühr</string>
+    <string name="item_cost">Endgültiger Preis</string>
+    <string name="item_number">Kommission</string>
+    <string name="item_sell">Verkaufen</string>
+    <string name="item_time">Zeit</string>
+    <string name="jiaoyi_dui">Handelspaar</string>
+    <string name="jiaoyi_fangxiang">Richtung</string>
+    <string name="jiaoyi_shouxufei">Bearbeitungsgebühr</string>
+    <string name="jiaoyi_weituoliang">Kommission</string>
+    <string name="jiaoyi_yichengjiao">Geschäft abgeschlossen</string>
+    <string name="kefu">Kundenservice</string>
+    <string name="language">Spracheinstellungen</string>
+    <string name="least_four_dot">Mindestens 4 Punkte sind verbunden, bitte erneut eingeben</string>
+    <string name="leftamount">Verbleibende Menge</string>
+    <string name="legal_agreement1">Ich habe gelesen und stimme zu</string>
+    <string name="legal_agreement2">"Certified Merchant Agreement"</string>
+    <string name="legal_agreement3">Nutzungsbedingungen</string>
+    <string name="legal_coin_money">Fiat Währung Einzahlung</string>
+    <string name="leveloneCount">Brauche Freunde der ersten Ebene</string>
+    <string name="library_file_exception">Die Galeriedatei wird abnormal zurückgegeben</string>
+    <string name="limit">Grenze</string>
+    <string name="limitamount">Persönliches Kauflimit</string>
+    <string name="limittimes">Persönliches Kauflimit</string>
+    <string name="limittimesfailed">Die Häufigkeit, mit der Sie teilgenommen haben, überschreitet die maximale Anzahl persönlicher Kauflimits!</string>
+    <string name="lishi">Geschichte</string>
+    <string name="loading_bottom">Ich habe ein Endergebnis</string>
+    <string name="lock">Freigabezeitraum</string>
+    <string name="lockFee">Sperrschwelle</string>
+    <string name="lockday">Tag</string>
+    <string name="lockmonth">Monat</string>
+    <string name="lockstatus0">Freigegeben werden</string>
+    <string name="lockstatus1">Freisetzung</string>
+    <string name="lockstatus2">Über</string>
+    <string name="lockweek">Woche</string>
+    <string name="lockyear">Jahr</string>
+    <string name="login">Einloggen</string>
+    <string name="login_assets">Bilanzsumme (entspricht USDT)</string>
+    <string name="login_entity">Bitte melden Sie sich zuerst an</string>
+    <string name="login_invalid">Login ungültig, bitte erneut anmelden!</string>
+    <string name="login_password">Passwort</string>
+    <string name="login_register">Anmeldung Registrieren</string>
+    <string name="login_view">Kann nach dem Login anzeigen</string>
+    <string name="logout_confirm">Möchten Sie sich abmelden?</string>
+    <string name="logout_current_account">Melden Sie sich vom Girokonto ab</string>
+    <string name="look_sample_graph">Klicken Sie hier, um das Beispielbild anzuzeigen</string>
+    <string name="look_setting">Sehen Sie, wie Sie es einrichten</string>
+    <string name="low">niedrig</string>
+    <string name="main">Hauptbild</string>
+    <string name="market">Zitate</string>
+    <string name="marketPrice">Marktpreis</string>
+    <string name="market_technology">Markttechnologie</string>
+    <string name="matchMoney">Paar</string>
+    <string name="maxLimitTip">Der Höchstbetrag darf nicht höher sein als</string>
+    <string name="maxlimitamountfailed">Der Umtauschbetrag darf das maximale Kauflimit nicht überschreiten!</string>
+    <string name="may_money">Verfügbare Spanne</string>
+    <string name="mentionMoney">Rückzug</string>
+    <string name="mentionMoneyAddress">Abhebeadresse</string>
+    <string name="mention_money_number">Anzahl der Abhebungen</string>
+    <string name="mention_money_record">Auszahlungsprotokoll</string>
+    <string name="mention_money_time">Abhebungszeit</string>
+    <string name="merchants_certification">Händlerzertifizierung</string>
+    <string name="message_details">Ankündigung</string>
+    <string name="message_list">Nachrichtenliste</string>
+    <string name="miao">zweite</string>
+    <string name="minLimitTip">Der Mindestbetrag darf 100 CNY nicht unterschreiten</string>
+    <string name="miner_status0">Bereitgestellt werden</string>
+    <string name="miner_status1">Bereitgestellt</string>
+    <string name="miner_status2">Über</string>
+    <string name="mining">Bergbau</string>
+    <string name="minlimitamountfailed">Der Umtauschbetrag darf nicht unter dem Mindestumtauschbetrag liegen!</string>
+    <string name="money_in_out">RMB Ein- / Auszahlung</string>
+    <string name="more">Mehr</string>
+    <string name="more_head">lange</string>
+    <string name="my_ads">Meine Anzeige</string>
+    <string name="my_asset_attest">Persönliche Zertifizierung digitaler Assets</string>
+    <string name="my_credit">Authentifizierung</string>
+    <string name="my_entrust">Meine Provision</string>
+    <string name="my_fabi">Legal Währungsmanagement</string>
+    <string name="my_input_id">Bitte geben Sie die ID-Nummer ein</string>
+    <string name="my_input_name">Bitte geben Sie Ihren richtigen Namen ein</string>
+    <string name="my_invite">Meine Einladung</string>
+    <string name="my_invite_link">Mein Einladungslink</string>
+    <string name="my_lab">Ich nahm teil an</string>
+    <string name="my_language">Sprachwechsel</string>
+    <string name="my_lock">Meine gesperrte Position</string>
+    <string name="my_message">Plattformnachrichten</string>
+    <string name="my_miner">Meine Bergbaumaschine</string>
+    <string name="my_no_pass">Gründe für die Nichtgenehmigung:</string>
+    <string name="my_no_uploading">ID Foto</string>
+    <string name="my_order">Meine Bestellung</string>
+    <string name="my_safety">Um die Sicherheit Ihres Kontos zu gewährleisten, führen Sie bitte vor dem Handel die Echtnamenauthentifizierung durch!</string>
+    <string name="my_setting">Mitte einstellen</string>
+    <string name="my_version">neues Versionsupdate</string>
+    <string name="myalreadyholdamount">Meine teilnehmende Position</string>
+    <string name="mybalance">Mein verfügbares Guthaben</string>
+    <string name="name">Name</string>
+    <string name="nationality">Staatsbürgerschaftsland</string>
+    <string name="newLoginPassword">Neues Login Passwort</string>
+    <string name="newMoneyPassword">Neues Fondspasswort</string>
+    <string name="new_guide">Ratgeber für Anfänger</string>
+    <string name="new_pwd">Neues Passwort</string>
+    <string name="new_pwd2_shuru">Bitte geben Sie das Passwort erneut ein</string>
+    <string name="new_pwd_shuru_signup">Bitte geben Sie ein Passwort ein (eine Kombination aus Zahlen und Buchstaben mit mehr als 6 Ziffern)</string>
+    <string name="news_events_information">Nachrichten / Veranstaltungen / Informationen</string>
+    <string name="no">Nein</string>
+    <string name="noAddAddressTip">Keine Einzahlungsadresse, bitte am Computer hinzufügen</string>
+    <string name="no_choice">Wähle nicht</string>
+    <string name="no_data">Keine Daten</string>
+    <string name="no_free">Nein optional</string>
+    <string name="no_hint">Nicht noch einmal daran erinnern</string>
+    <string name="no_network">Derzeit kein Netzwerk</string>
+    <string name="no_remark">Keine Bemerkungen</string>
+    <string name="no_rush">Es gibt keine Ladeadresse, bitte nicht aufladen!</string>
+    <string name="no_select">Auswahl abbrechen</string>
+    <string name="no_upload">Nicht hochgeladen</string>
+    <string name="no_zhanghao">Sie haben noch kein BIZZAN-Konto?</string>
+    <string name="node">Knoten</string>
+    <string name="nos">Zuerst</string>
+    <string name="notChargeMoneyTip">Die Plattform unterstützt keine Einzahlung</string>
+    <string name="notMentionMoneyTip">Die Plattform unterstützt keine Auszahlung</string>
+    <string name="notRaiseMoneyTip">Die Plattform unterstützt keine Ein- und Auszahlungen</string>
+    <string name="not_logged_in">Nicht eingeloggt</string>
+    <string name="not_set">Nicht eingestellt</string>
+    <string name="now_link">Anschließen</string>
+    <string name="now_loading">Wird geladen...</string>
+    <string name="now_loading_center">Wird geladen</string>
+    <string name="null_head">Kurz</string>
+    <string name="number">Menge</string>
+    <string name="number2">Menge:</string>
+    <string name="number_asset_attest">Transaktionszertifikat für digitale Assets</string>
+    <string name="number_big_zero">Die Bestellmenge muss größer als 0 sein</string>
+    <string name="number_btc">Menge (BTC)</string>
+    <string name="often_issue">häufiges Problem</string>
+    <string name="oldLoginPassword">Altes Login-Passwort</string>
+    <string name="oldMoneyPassword">Altes Fondspasswort</string>
+    <string name="one_friend">Freund der ersten Ebene</string>
+    <string name="one_message">Persönliche Informationen</string>
+    <string name="one_zhang">1 Blatt =</string>
+    <string name="open_access">Anweisungen zum Öffnen der Berechtigung</string>
+    <string name="open_address_access">Wie aktiviere ich die Berechtigung zum Adressbuch von Mobiltelefonen in Kontakten?</string>
+    <string name="open_gesture">Zur Sicherheit Ihres Geldes wird empfohlen, dass Sie zu [Mein] -> [Sicherheitseinstellungen] -> [Gestenkennwort] gehen, um die Gestenkennwortfunktion zu aktivieren!</string>
+    <string name="option">Möglichkeit</string>
+    <string name="option_fail">Vertragsversagen vorhersagen</string>
+    <string name="option_fee">Prognosevertragsgebühren</string>
+    <string name="option_reward">Prognosevertragsbonus</string>
+    <string name="order_appeal">Berufung einlegen</string>
+    <string name="order_details_failed">Fehler beim Abrufen der Bestelldaten und erneutes Anfordern</string>
+    <string name="order_done">abgeschlossen</string>
+    <string name="order_information">Bestellinformationen</string>
+    <string name="order_release">Auftragsfreigabe</string>
+    <string name="order_status">Bestellstatus</string>
+    <string name="order_time">Bestellzeitpunkt</string>
+    <string name="orderdetail">Bestelldetails</string>
+    <string name="parse_error">Ausnahme analysieren</string>
+    <string name="partnership_level">Partnerschaftsebene</string>
+    <string name="password">Passwort</string>
+    <string name="password_realname">Bitte legen Sie zuerst das Passwort des Fonds und die Authentifizierung mit echtem Namen fest</string>
+    <string name="password_shuru">Bitte Passwort eingeben</string>
+    <string name="paymentTip">Der Benutzer hat noch kein Alipay-Konto hinzugefügt</string>
+    <string name="paymentTip10">fortfahren</string>
+    <string name="paymentTip2">Der Benutzer hat noch kein WeChat-Konto hinzugefügt</string>
+    <string name="paymentTip3">Der Benutzer hat noch kein Bankkartenkonto hinzugefügt</string>
+    <string name="paymentTip4">Haben Sie Fragen zu dieser Bestellung?</string>
+    <string name="paymentTip5">Klicken Sie auf mich, um Berufung einzulegen</string>
+    <string name="paymentTip6">Bitte geben Sie das Transaktionspasswort ein</string>
+    <string name="paymentTip7">Sie sind im Begriff, diese Bestellung zu stornieren. Möchten Sie fortfahren?</string>
+    <string name="paymentTip8">Bist du sicher, dass du bezahlt hast?</string>
+    <string name="paymentTip9">Sie sind im Begriff, gegen die Bestellung Berufung einzulegen. Möchten Sie fortfahren?</string>
+    <string name="payment_information">Zahlungsinformationen</string>
+    <string name="phone">Mobiltelefon</string>
+    <string name="phone_code">SMS-Bestätigungscode</string>
+    <string name="phone_not_correct">Die Telefonnummer ist falsch</string>
+    <string name="phone_not_correct_email">Falsche Email</string>
+    <string name="phone_number">Handynummer</string>
+    <string name="phone_retrieve">Passwort vergessen</string>
+    <string name="phone_sign_up">Registrierung der Handynummer</string>
+    <string name="photo">Profilbild</string>
+    <string name="photo_album">Fotoalbum</string>
+    <string name="photograph">Fotos machen</string>
+    <string name="please_select_number">Bitte wählen Sie die Anzahl der Wetten</string>
+    <string name="pleaseinputamount">Bitte geben Sie den Umtauschbetrag ein</string>
+    <string name="pleaseinputholdamount">Bitte geben Sie den Betrag der gesperrten Position ein</string>
+    <string name="posters">Bitte wählen Sie ein Poster</string>
+    <string name="poundage">Bearbeitungsgebühr</string>
+    <string name="price">Preis</string>
+    <string name="price_btc">Preis (BTC)</string>
+    <string name="progress">Fortschritt</string>
+    <string name="promotionRewards">Promotion Belohnung</string>
+    <string name="publish_advertising">eine Anzeige aufgeben</string>
+    <string name="publishprice">Einschreibegebühr</string>
+    <string name="put_list_ok">Ausstehende Bestellung</string>
+    <string name="pwd_diff">Die beiden Passwörter sind inkonsistent!</string>
+    <string name="pwd_ok">Passwort ist korrekt</string>
+    <string name="qr_code">QR-Code</string>
+    <string name="questions_guides_information">Frage / Leitfaden / Informationen</string>
+    <string name="re_send">Erneut erwerben</string>
+    <string name="read_agreement">Bitte lesen Sie zuerst die Vereinbarung und wählen Sie lesen</string>
+    <string name="realfee">Tatsächliche Gebühr</string>
+    <string name="realname">Bitte gehen Sie zur Echtnamenauthentifizierung</string>
+    <string name="receive">Ihre folgenden Konten erhalten Überweisungen von Akzeptoren</string>
+    <string name="receiveMessageCode">SMS-Bestätigungscode empfangen</string>
+    <string name="receivePhoneCode">Das Originaltelefon kann den Bestätigungscode akzeptieren</string>
+    <string name="receiving_set">Sammlungseinstellungen</string>
+    <string name="recently">gerade</string>
+    <string name="recheck">Überprüfung</string>
+    <string name="red_in">Rote Umschlagsammlung</string>
+    <string name="red_out">roter Umschlag</string>
+    <string name="regist">Eingetragen</string>
+    <string name="releaseDetail">Release Details</string>
+    <string name="releasePercent">Release Ratio</string>
+    <string name="releaseTimes">Mehrere freigeben</string>
+    <string name="releaseType">Release Type</string>
+    <string name="releaseType0">Freigabe gleicher Menge</string>
+    <string name="releaseType1">Proportional Release</string>
+    <string name="remark">Memo (Memo)</string>
+    <string name="remove_entrust">Erfolgreicher Widerruf der Provision</string>
+    <string name="remove_order">Bestellung stornieren</string>
+    <string name="repeat_password">Wiederhole das Passwort</string>
+    <string name="replicated">Kopiert</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="rush1">Mindestaufladebetrag</string>
+    <string name="rush2">Aufladungen, die unter dem Mindestbetrag liegen, werden nicht gutgeschrieben.</string>
+    <string name="rush3">Bitte laden Sie keine nicht währungsbezogenen Vermögenswerte an die oben angegebene Adresse auf, da die Vermögenswerte sonst nicht abgerufen werden.</string>
+    <string name="rush4">Nachdem Sie die oben genannte Adresse aufgeladen haben, müssen Sie den gesamten Blockchain-Netzwerkknoten bestätigen. Im Allgemeinen wird das Blockchain-Hauptnetzwerk nach 3 Netzwerkbestätigungen eintreffen.</string>
+    <string name="rush5">Ihre Ladeadresse ändert sich nicht häufig. Sie können sie aufladen. Wenn sich etwas ändert, werden wir unser Bestes tun, um Sie per Website-Ankündigung oder E-Mail zu benachrichtigen.</string>
+    <string name="rush6">Bitte stellen Sie sicher, dass die Betriebsumgebung sicher ist, um zu verhindern, dass Informationen manipuliert werden oder durchgesickert sind.</string>
+    <string name="rush_address">Einzahlungsadresse</string>
+    <string name="rush_number">Menge aufladen</string>
+    <string name="save">sparen</string>
+    <string name="saveImage">Bild speichern</string>
+    <string name="savePhoto">Speichern Sie den QR-Code im Album</string>
+    <string name="save_ok">Erfolgreich gespeichert</string>
+    <string name="save_qr_code">Lang drücken, um den QR-Code direkt im Album zu speichern</string>
+    <string name="savelocally">Vor Ort gespeichert</string>
+    <string name="search">suchen nach</string>
+    <string name="searchAssets">Suche nach Assets</string>
+    <string name="security_settings">Sicherheitseinstellungen</string>
+    <string name="select_currency">Bitte wählen Sie die Währung</string>
+    <string name="select_multiple">Wählen Sie mehrere aus</string>
+    <string name="sellOpennull">Verkaufen Sie kurz</string>
+    <string name="sell_number">Verkaufte Menge:</string>
+    <string name="sell_price">Verkaufspreis:</string>
+    <string name="sell_type">Bezahlverfahren:</string>
+    <string name="sell_usdt">Verkaufe USDT</string>
+    <string name="sellflatmore">Verkaufen Sie mehr</string>
+    <string name="selling">Bestellung verkaufen</string>
+    <string name="send_chat">senden</string>
+    <string name="send_code">Senden Sie den Bestätigungscode</string>
+    <string name="setMoneyPassword">Legen Sie das Passwort für den Fonds fest</string>
+    <string name="setMoneyPasswordTip">Sie ändern das Passwort des Fonds</string>
+    <string name="set_up_success">Erfolgreich einstellen</string>
+    <string name="setting_gather_type">Bitte richten Sie Ihre Zahlungsmethode ein und verwenden Sie Ihr echtes Konto</string>
+    <string name="settlement_amount">Gesamtabrechnung</string>
+    <string name="shangjia">Bitte wenden Sie sich zur Überprüfung an den Händler</string>
+    <string name="shareOutBonus">Dividenden</string>
+    <string name="share_posters">Poster teilen</string>
+    <string name="shelved">Wurde entfernt</string>
+    <string name="shouldfee">Bearbeitungsgebühren zahlbar</string>
+    <string name="simplifiedChinese">Vereinfachtes Chinesisch</string>
+    <string name="star_time">Anfangszeit</string>
+    <string name="start_bind">Starten Sie die Bindung</string>
+    <string name="start_stop_time">Start- und Endzeit</string>
+    <string name="starttime">Anfangszeit:</string>
+    <string name="status">Status</string>
+    <string name="status1">Nicht bereitgestellt</string>
+    <string name="status2">Bereitgestellt</string>
+    <string name="status3">Widerrufen</string>
+    <string name="status4">steht aus</string>
+    <string name="status5">Widerrufen</string>
+    <string name="status6">Widerrufen</string>
+    <string name="status7">vorübergehend</string>
+    <string name="status_1">Warten auf die Annahme der Bestellung durch den Akzeptanten ...</string>
+    <string name="status_2">Der Akzeptant hat die Bestellung angenommen, bitte zahlen Sie so schnell wie möglich</string>
+    <string name="status_3">Warten auf die Freigabe der Währung durch den Akzeptor ...</string>
+    <string name="status_4">Herzliche Glückwünsche! Die Bestellung wurde abgeschlossen!</string>
+    <string name="status_5">Der Akzeptant hat die Bestellung erhalten und zahlt ...</string>
+    <string name="status_6">Der Akzeptor hat bezahlt, bestätigen Sie, dass die Währung freigegeben wird ...</string>
+    <string name="step_all">Alle</string>
+    <string name="step_completed">abgeschlossen</string>
+    <string name="step_distributing">Verteilen</string>
+    <string name="step_ongoing">wird bearbeitet</string>
+    <string name="step_prepare">Kurz vor dem Start</string>
+    <string name="stop_time_create_time">Die Start- und Endzeit ist der Zeitpunkt, zu dem die Provision generiert wird</string>
+    <string name="storage_permission">Die Berechtigung ist nicht verfügbar. Bitte aktivieren Sie die Speicherberechtigung</string>
+    <string name="submit">einreichen</string>
+    <string name="submit_ok">erfolgreich eingereicht</string>
+    <string name="success">Erfolg</string>
+    <string name="suocang">Freigegeben werden</string>
+    <string name="text_24_change">24H Volumen</string>
+    <string name="text_Amount">Kann geebnet werden</string>
+    <string name="text_Current_margin">Aktuelle Marge</string>
+    <string name="text_Market">Marktordnung</string>
+    <string name="text_Market_entrust">Marktordnung</string>
+    <string name="text_actual_deal">Geschäft abgeschlossen</string>
+    <string name="text_ad">Werbebotschaft</string>
+    <string name="text_ad_bi">Währung wählen</string>
+    <string name="text_ad_buy_num">Menge zu kaufen</string>
+    <string name="text_ad_buy_num_msg">Anzahl der Transaktionen</string>
+    <string name="text_ad_change">Anzeigen bearbeiten</string>
+    <string name="text_ad_entity">Unvollständige Werbeinformationen!</string>
+    <string name="text_ad_fu_hint">Bitte Zahlungsfrist auswählen</string>
+    <string name="text_ad_fu_kuan">Bitte Zahlungsart wählen</string>
+    <string name="text_ad_fu_time">Ablauf der Bezahlung</string>
+    <string name="text_ad_guo">Automatische Auswahl nach Land</string>
+    <string name="text_ad_hint">Bitte geben Sie die Werbebotschaft ein</string>
+    <string name="text_ad_hui_fu">Gibt an, ob automatisch geantwortet werden soll</string>
+    <string name="text_ad_jiao_one">Bitte geben Sie den Transaktionspreis ein</string>
+    <string name="text_ad_jiao_two">Automatische Berechnung basierend auf Marktpreis und Prämie</string>
+    <string name="text_ad_jiao_yi">Handelspreis</string>
+    <string name="text_ad_max">Die maximale Menge</string>
+    <string name="text_ad_max_msg">Maximales Limit für jede Transaktion</string>
+    <string name="text_ad_mes">Werbebotschaft:</string>
+    <string name="text_ad_min">Mindestbetrag</string>
+    <string name="text_ad_min_msg">Mindestlimit für jede Transaktion</string>
+    <string name="text_ad_minu">Minute</string>
+    <string name="text_ad_money">Fonds-Passwort</string>
+    <string name="text_ad_money_hint">Bitte geben Sie das Passwort des Fonds ein</string>
+    <string name="text_ad_n">Nein</string>
+    <string name="text_ad_place">Standort</string>
+    <string name="text_ad_price_one">Festpreis</string>
+    <string name="text_ad_price_two">Echtzeitpreis</string>
+    <string name="text_ad_price_type">Preisart</string>
+    <string name="text_ad_select">bitte auswählen</string>
+    <string name="text_ad_sell_num">Menge verkauft</string>
+    <string name="text_ad_shou">Bezahlverfahren</string>
+    <string name="text_ad_title">Werbung nach dem Kauf</string>
+    <string name="text_ad_titles">Zum Verkauf anbieten</string>
+    <string name="text_ad_type">Währungstyp</string>
+    <string name="text_ad_y">Ja</string>
+    <string name="text_ad_yi_jia">Prämie</string>
+    <string name="text_ad_yi_one">Unter dem Festpreis muss keine Prämie eingegeben werden</string>
+    <string name="text_ad_yi_two">Spillover-Verhältnis basierend auf dem Marktpreis</string>
+    <string name="text_ad_zi_dong">Inhalt automatisch antworten</string>
+    <string name="text_ad_zi_dong_hint">Bitte geben Sie den Inhalt der automatischen Antwort ein</string>
+    <string name="text_add_fail">Hinzufügen fehlgeschlagen</string>
+    <string name="text_add_favorite">Optional hinzufügen</string>
+    <string name="text_add_success">Erfolgreich hinzugefügt</string>
+    <string name="text_all_model">Ganzer Lagermodus</string>
+    <string name="text_app_rate">Lobpreis</string>
+    <string name="text_average_open">Durchschnittlicher offener Preis</string>
+    <string name="text_average_price">Durchschnittlicher Transaktionspreis</string>
+    <string name="text_best_price">Kaufen Sie zum besten Preis</string>
+    <string name="text_best_prices">Bestpreis</string>
+    <string name="text_best_sale">Verkaufen Sie zum besten Preis</string>
+    <string name="text_bonuses">Preisbetrag</string>
+    <string name="text_buy">Kaufen Sie ein</string>
+    <string name="text_buy_coin">Kaufen Sie ein</string>
+    <string name="text_buy_down_total">Total Buy-Down</string>
+    <string name="text_buy_one">Kaufen</string>
+    <string name="text_buy_up_total">Gesamtkaufpreis</string>
+    <string name="text_cancel_fail">Abbrechen fehlgeschlagen</string>
+    <string name="text_cancel_success">Erfolg abbrechen</string>
+    <string name="text_change">ändern</string>
+    <string name="text_chase_model">Lager für Lagermodus</string>
+    <string name="text_chu_sho">verkaufen</string>
+    <string name="text_clear">Bestellung stornieren</string>
+    <string name="text_clear_fu_kuan">Bitte wählen Sie die Zahlungsmethode</string>
+    <string name="text_collected">gesammelt</string>
+    <string name="text_compute">Abrechnungsgewinn und -verlust</string>
+    <string name="text_current_delivery">Aktuelle Lieferung</string>
+    <string name="text_current_entrust">Aktuelle Provision</string>
+    <string name="text_deal_his">Historische Transaktionen</string>
+    <string name="text_deal_num">Anzahl der Transaktionen</string>
+    <string name="text_earnings">Einkommen</string>
+    <string name="text_earnings_rate">Rendite</string>
+    <string name="text_enter_price">Bitte geben Sie den Preis ein</string>
+    <string name="text_enter_price_constract">Provisionspreis</string>
+    <string name="text_entity">Keine Daten</string>
+    <string name="text_entrust">Kommission</string>
+    <string name="text_entrust_details">Angaben zur Kommission</string>
+    <string name="text_entrust_num">Kommission</string>
+    <string name="text_entrust_number">Anzahl der Bestellungen</string>
+    <string name="text_entrust_type">Provisionsart</string>
+    <string name="text_fa_bu">Freisetzung</string>
+    <string name="text_flat">Liquidation</string>
+    <string name="text_flatmore">Pindo</string>
+    <string name="text_flatnull">Flache Luft</string>
+    <string name="text_forecast_direction">Prognoserichtung</string>
+    <string name="text_forecast_result">Prognoseergebnis</string>
+    <string name="text_good">Loben</string>
+    <string name="text_gou_mai">Kaufen</string>
+    <string name="text_guarantee_money">Spanne</string>
+    <string name="text_history_delivery">Historische Siedlung</string>
+    <string name="text_history_entrust">Historischer Auftrag</string>
+    <string name="text_hold">Aktuelle Position</string>
+    <string name="text_inventory">Offenes Interesse</string>
+    <string name="text_leverage">Hebelwirkung</string>
+    <string name="text_limit">Bestellung begrenzen</string>
+    <string name="text_limit_entrust">Bestellung begrenzen</string>
+    <string name="text_login_disabled">Anmeldeinformationen sind ungültig, bitte erneut anmelden!</string>
+    <string name="text_look_down">Bärisch</string>
+    <string name="text_look_up">Bullish</string>
+    <string name="text_margin_rate">Margin Rate</string>
+    <string name="text_much_buy">Wie viel muss ich kaufen?</string>
+    <string name="text_much_sale">Wie viel muss ich verkaufen?</string>
+    <string name="text_my_storehouse">Meine offene Position</string>
+    <string name="text_no_order">Keine Daten…</string>
+    <string name="text_now_price">Derzeitiger Preis</string>
+    <string name="text_number">Menge</string>
+    <string name="text_number2">Menge:</string>
+    <string name="text_open">Öffnen Sie eine Position</string>
+    <string name="text_open_fee">Eröffnungsgebühr</string>
+    <string name="text_open_flat">Öffnen schließen</string>
+    <string name="text_open_many">Mehr öffnen</string>
+    <string name="text_open_money">Eröffnungsbetrag</string>
+    <string name="text_open_null">Freifläche</string>
+    <string name="text_open_price">Eröffnungskurs</string>
+    <string name="text_pan">Behinderung</string>
+    <string name="text_plan_entrust">Stop Loss</string>
+    <string name="text_price">Preis</string>
+    <string name="text_quota">Grenze</string>
+    <string name="text_quota2">Grenze:</string>
+    <string name="text_repeal">Widerrufen</string>
+    <string name="text_reward_fee">Pumpen</string>
+    <string name="text_sale">Verkaufen</string>
+    <string name="text_sale_coin">Verkaufen</string>
+    <string name="text_sell_one">verkaufen</string>
+    <string name="text_sell_two">Verkaufen</string>
+    <string name="text_surplus_num">Der verbleibende Betrag</string>
+    <string name="text_to_login">Einloggen</string>
+    <string name="text_total_deal">Gesamtumsatz</string>
+    <string name="text_total_entrust">Gesamtprovision</string>
+    <string name="text_transaction_price">Endgültiger Preis</string>
+    <string name="text_trigger_price_constract">Preis auslösen</string>
+    <string name="text_turnover">Transaktionshöhe</string>
+    <string name="text_use_balance">Verfügbares Guthaben</string>
+    <string name="text_used">Verfügbar</string>
+    <string name="text_volume">Volumen</string>
+    <string name="text_warn">Transaktionserinnerung</string>
+    <string name="text_warn_one">1. Bitte erfahren Sie vor dem Handel mehr über die Transaktionsinformationen des Verkäufers.</string>
+    <string name="text_warn_three">3. Wenn Sie auf Transaktionsstreitigkeiten stoßen, helfen Sie bitte, das Problem in der oberen rechten Ecke der Seite der Plattform zu lösen.</string>
+    <string name="text_warn_two">2. Bitte kommunizieren Sie über die Plattform und führen Sie relevante Chat-Aufzeichnungen.</string>
+    <string name="text_wei_price">Provisionspreis</string>
+    <string name="text_xian_login">Bitte loggen Sie sich zuerst ein</string>
+    <string name="time">Zeit</string>
+    <string name="time_remaining">die verbleibende Zeit</string>
+    <string name="timed_out">Die Bestellung ist abgelaufen</string>
+    <string name="times">Zeiten</string>
+    <string name="tishi">Bitte vervollständigen Sie die Informationen oder wählen Sie das Bild erneut aus</string>
+    <string name="top_up">Aufladen</string>
+    <string name="totalsupply">Gesamtaktivität</string>
+    <string name="traded_trade">Geschäft abgeschlossen</string>
+    <string name="trading">in Transaktion</string>
+    <string name="transaction">Transaktion</string>
+    <string name="transaction_price">Handelspreis</string>
+    <string name="transactions_Number">Anzahl der Transaktionen</string>
+    <string name="transfer">Transfer</string>
+    <string name="transfer_to_account">Bitte überweisen Sie auf das folgende Akzeptorkonto</string>
+    <string name="trust_detail">Transaktionsdetails</string>
+    <string name="tv_affirm">bestätigen</string>
+    <string name="tv_affirm_uploading_picture">Bitte bestätigen Sie, ob alle Bilder hochgeladen wurden</string>
+    <string name="tv_already_order">Bestellung erhalten</string>
+    <string name="tv_balance">Balance</string>
+    <string name="tv_bi">Währung wählen</string>
+    <string name="tv_buy_down_total">Gesamtkäufe und -verluste:</string>
+    <string name="tv_buy_up_total">Gesamtkaufpreis:</string>
+    <string name="tv_cancel">Abgesagt</string>
+    <string name="tv_coins">Währungskonto</string>
+    <string name="tv_constract">Perpetual Account</string>
+    <string name="tv_constract_account">Perpetual Contract Account</string>
+    <string name="tv_currency">Währung</string>
+    <string name="tv_else">andere</string>
+    <string name="tv_examine_network">Bitte überprüfen Sie das Mobilfunknetz</string>
+    <string name="tv_fill_number">Bitte geben Sie die Menge ein</string>
+    <string name="tv_from">Von</string>
+    <string name="tv_input_overturn_number">Bitte geben Sie den Überweisungsbetrag ein</string>
+    <string name="tv_message_deficiency">Die Informationen sind unvollständig!</string>
+    <string name="tv_need_address">Diese Währung muss die Überweisungsadresse Memo eingeben, bitte bestätigen!</string>
+    <string name="tv_no_more">Nicht mehr</string>
+    <string name="tv_no_network">Keine Verbindung zum Mobilfunknetz, bitte überprüfen Sie das Mobilfunknetz oder wechseln Sie das Netz.</string>
+    <string name="tv_now_payment">Sofortige Bezahlung</string>
+    <string name="tv_open_price">Eröffnungskurs:</string>
+    <string name="tv_open_time">Öffnungszeit:</string>
+    <string name="tv_overturn">Transfer</string>
+    <string name="tv_overturn_number">Anzahl der Überweisungen</string>
+    <string name="tv_payment">Bereits bezahlt</string>
+    <string name="tv_quit">aussteigen</string>
+    <string name="tv_receive_price">Schlusskurs:</string>
+    <string name="tv_receive_time">Geschäftsschluss:</string>
+    <string name="tv_record">Aufzeichnung</string>
+    <string name="tv_select_account">Konto auswählen</string>
+    <string name="tv_select_coin">Währung wählen</string>
+    <string name="tv_select_condition">Bitte Filterkriterien auswählen</string>
+    <string name="tv_select_finish_time">Bitte wählen Sie die Endzeit</string>
+    <string name="tv_select_start_time">Bitte Startzeit auswählen</string>
+    <string name="tv_send_fail">Senden fehlgeschlagen</string>
+    <string name="tv_send_ok">Erfolgreich gesendet</string>
+    <string name="tv_succee">abgeschlossen</string>
+    <string name="tv_switch_more">Bitte wechseln Sie das Netzwerk und versuchen Sie es erneut, oder das System wird aktualisiert und gewartet (Informationen zum Aktualisierungsfortschritt finden Sie auf der offiziellen PC-Website).</string>
+    <string name="tv_to">Zu</string>
+    <string name="tv_uploading">hochgeladen</string>
+    <string name="tv_visit1">Ermöglichen Sie LIFE den Zugriff auf die Adressbuchberechtigungen für eine bessere Erfahrung.</string>
+    <string name="tv_visit2">Wenn Sie LIFE erlauben, die Kameraberechtigung zu öffnen, können Sie eine bessere Erfahrung erzielen.</string>
+    <string name="tv_wait_order">Ausstehende Bestellung</string>
+    <string name="two_friend">Freund der zweiten Ebene</string>
+    <string name="type">Arten von</string>
+    <string name="type1">Zuerst online (Eile zu kaufen)</string>
+    <string name="type2">Zuerst online (sogar geteilt)</string>
+    <string name="type3">Positionsanteil</string>
+    <string name="type4">Kostenloses Abonnement</string>
+    <string name="type5">Abonnement für Cloud-Mining-Maschinen</string>
+    <string name="type6">Verriegelungsposition</string>
+    <string name="unChargeMoneyTip1">Keine Einzahlungsadresse</string>
+    <string name="unReceivePhoneCode">Das Originaltelefon kann den Bestätigungscode nicht akzeptieren</string>
+    <string name="unReceivePhoneCodeTip">Die ursprüngliche Mobiltelefonnummer kann den Bestätigungscode nicht erhalten. Wenden Sie sich an den Kundendienst, um die Bindung zu ändern</string>
+    <string name="unbound">Ungebunden</string>
+    <string name="underway">wird bearbeitet</string>
+    <string name="undone">Widerrufen</string>
+    <string name="unionpay">UnionPay</string>
+    <string name="unionpay_account">Bankkartenkonto</string>
+    <string name="unionpay_accountTip">Bitte geben Sie die Bankkartennummer ein</string>
+    <string name="unionpay_accountTip2">Bitte geben Sie die Bankkartennummer erneut ein</string>
+    <string name="unknown_error">unbekannter Fehler</string>
+    <string name="unlimited">Unbegrenzt</string>
+    <string name="unverified">nicht zertifiziert</string>
+    <string name="up_announcement">Liste erhöhen</string>
+    <string name="up_appeal">Bitte legen Sie nach einer halben Stunde Zahlung Beschwerde ein</string>
+    <string name="up_picture">Bitte bestätigen Sie, dass alle Informationen ausgefüllt und alle Bilder hochgeladen wurden</string>
+    <string name="up_shelf">Auf das Regal stellen</string>
+    <string name="up_you_picture">Nehmen Sie Ihr ID-Foto auf und laden Sie es hoch</string>
+    <string name="usable">Verfügbar:</string>
+    <string name="usdt_account">USDT-Konto</string>
+    <string name="use_money">Gebrauchte Marge</string>
+    <string name="use_money_dissatisfy">Nicht genügend Guthaben verfügbar!</string>
+    <string name="username">Kontonummer</string>
+    <string name="username_login">Kontonummer</string>
+    <string name="username_shuru">Bitte geben Sie Ihre Telefonnummer / E-Mail-Adresse ein</string>
+    <string name="username_shuru_login">Bitte geben Sie Ihre Telefonnummer / E-Mail-Adresse ein</string>
+    <string name="username_shuru_regist">Bitte geben Sie die Telefonnummer ein</string>
+    <string name="vendibility">Zum Verkauf:</string>
+    <string name="verification">verifiziert</string>
+    <string name="versionUpdateTip">Keine neueste Version, kein Update erforderlich</string>
+    <string name="versionUpdateTip2">Möchten Sie das Update jetzt starten?</string>
+    <string name="versionUpdateTip3">Die Download-Adresse existiert nicht!</string>
+    <string name="versionUpdateTip4">wird heruntergeladen</string>
+    <string name="versionUpdateTip5">Wird heruntergeladen...</string>
+    <string name="vote">Abstimmung</string>
+    <string name="weChat_binding">WeChat-Bindung</string>
+    <string name="web_share">teilt es</string>
+    <string name="web_tv1">Globale Bitcoin-Handelsplattform</string>
+    <string name="web_tv2">Globale Handelsplattform für digitale Vermögenswerte</string>
+    <string name="web_url">BIZZAN6.COM</string>
+    <string name="wechat">WeChat</string>
+    <string name="weichat_account">WeChat-Konto</string>
+    <string name="weixinkefu">WeChat Kundenservice</string>
+    <string name="welcome_to">Willkommen bei BIZZAN</string>
+    <string name="withdrawal">abheben</string>
+    <string name="withdrawcode_in">Aufladecode aufladen</string>
+    <string name="withdrawcode_out">Auszahlungscode</string>
+    <string name="xieyi">Deaktiviert stimmen Sie der Benutzervereinbarung zu</string>
+    <string name="yes">Ja</string>
+    <string name="yes_zhanghao">Haben Sie bereits ein BIZZAN-Konto</string>
+    <string name="zhang">Zhang</string>
+</resources>

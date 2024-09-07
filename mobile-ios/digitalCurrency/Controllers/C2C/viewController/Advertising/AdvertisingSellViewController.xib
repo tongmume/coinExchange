@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AdvertisingSellViewController">
+            <connections>
+                <outlet property="bottomViewHeight" destination="rqP-LA-ObC" id="dug-bE-od7"/>
+                <outlet property="certainButton" destination="qtI-dM-fBZ" id="kxX-Hf-gPh"/>
+                <outlet property="mainTableView" destination="d31-ih-ra4" id="Peq-SN-yhf"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qtI-dM-fBZ">
+                    <rect key="frame" x="20" y="612" width="335" height="45"/>
+                    <color key="backgroundColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="45" id="cnp-jc-Qat"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <state key="normal" title="发布">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="22.5"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="submitBtnClick:" destination="-1" eventType="touchUpInside" id="rEB-XA-MNw"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="d31-ih-ra4">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="602"/>
+                    <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="qtI-dM-fBZ" secondAttribute="trailing" constant="20" id="CUG-Pa-LkI"/>
+                <constraint firstAttribute="trailing" secondItem="d31-ih-ra4" secondAttribute="trailing" id="GEl-OF-zi2"/>
+                <constraint firstItem="d31-ih-ra4" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="SVJ-GN-bp0"/>
+                <constraint firstItem="qtI-dM-fBZ" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="Why-OV-gim"/>
+                <constraint firstItem="qtI-dM-fBZ" firstAttribute="top" secondItem="d31-ih-ra4" secondAttribute="bottom" constant="10" id="eHw-zz-i1A"/>
+                <constraint firstItem="d31-ih-ra4" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="esK-7M-aZt"/>
+                <constraint firstAttribute="bottom" secondItem="qtI-dM-fBZ" secondAttribute="bottom" constant="10" id="rqP-LA-ObC"/>
+            </constraints>
+        </view>
+    </objects>
+</document>

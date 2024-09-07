@@ -1,0 +1,1 @@
+../../../YBImageBrowser/YBImageBrowser/Utilities/YBImageBrowserScreenOrientationProtocol.h

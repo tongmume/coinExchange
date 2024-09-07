@@ -1,0 +1,41 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 14
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    api fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    api 'com.android.support:appcompat-v7:25.1.1'
+    api 'com.android.support:support-v4:25.1.1'
+    api 'com.google.zxing:core:3.3.0'
+    api 'com.google.zxing:android-core:3.3.0'
+    testImplementation 'junit:junit:4.12'
+}
+
+ext {
+    PUBLISH_GROUP_ID = 'cn.yipianfengye.android'
+    PUBLISH_ARTIFACT_ID = 'zxing-library'
+    PUBLISH_VERSION = '2.2'
+}
+
+//apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'

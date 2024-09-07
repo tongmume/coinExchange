@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="20dp"
+    android:background="@color/primaryBackDark"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/llContent"
+        android:background="@color/primaryBackNormal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/llTakePhoto"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvTakePhone"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:minWidth="90dp"
+                android:text="@string/photograph"
+                android:textColor="@color/primaryText"
+                android:textSize="18sp"/>
+        </LinearLayout>
+
+        <!--<View
+            android:layout_below="@id/llContent"
+            android:background="@color/bgBlue"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"/>
+
+        <LinearLayout
+            android:id="@+id/llChoseAlbum"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvAlbum"
+                android:drawableLeft="@mipmap/icon_header_album"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:minWidth="90dp"
+                android:text="@string/album"
+                android:textSize="18sp"/>
+
+        </LinearLayout>-->
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:layout_below="@id/llContent"
+        android:id="@+id/llChoseAlbum"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/tvAlbum"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minWidth="90dp"
+            android:text="@string/photo_album"
+            android:textColor="@color/primaryText"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryBackNormal"
+        android:id="@+id/line_quxiao"
+        android:layout_below="@id/llChoseAlbum"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minWidth="90dp"
+            android:text="@string/dialog_one_cancel"
+            android:textColor="@color/primaryText"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="AdvertisingBGView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GVR-bG-852">
+                    <rect key="frame" x="0.0" y="617" width="375" height="50"/>
+                    <subviews>
+                        <button opaque="NO" alpha="0.80000000000000004" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zgF-pY-YcE">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                            <state key="normal">
+                                <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.086274509803921567" green="0.086274509799999996" blue="0.086274509803921567" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="zgF-pY-YcE" secondAttribute="bottom" id="5tR-H1-ibs"/>
+                        <constraint firstItem="zgF-pY-YcE" firstAttribute="leading" secondItem="GVR-bG-852" secondAttribute="leading" id="ALY-Ze-SQ1"/>
+                        <constraint firstAttribute="trailing" secondItem="zgF-pY-YcE" secondAttribute="trailing" id="MxN-91-c9O"/>
+                        <constraint firstItem="zgF-pY-YcE" firstAttribute="top" secondItem="GVR-bG-852" secondAttribute="top" id="o5a-Vj-zle"/>
+                        <constraint firstAttribute="height" constant="50" id="roA-N7-zqm"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0rf-ks-Q8r">
+                    <rect key="frame" x="62.5" y="456" width="110" height="110"/>
+                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="110" id="UT7-X3-OiK"/>
+                        <constraint firstAttribute="height" constant="110" id="Zjc-Yc-Wm8"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                    <state key="normal" title="购买"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="55"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wE3-up-kDx">
+                    <rect key="frame" x="0.0" y="616" width="375" height="1"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="sbB-2A-CDO"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UG0-nr-iut">
+                    <rect key="frame" x="202.5" y="456" width="110" height="110"/>
+                    <color key="backgroundColor" red="0.23543294270833334" green="0.77913411458333337" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="110" id="BZ7-GI-XHH"/>
+                        <constraint firstAttribute="height" constant="110" id="Tj0-Bf-5dY"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                    <state key="normal" title="出售"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="55"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="wE3-up-kDx" firstAttribute="top" secondItem="0rf-ks-Q8r" secondAttribute="bottom" constant="50" id="ALJ-Z7-fBW"/>
+                <constraint firstAttribute="trailing" secondItem="wE3-up-kDx" secondAttribute="trailing" id="Dsp-jw-dE5"/>
+                <constraint firstItem="GVR-bG-852" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="GG2-uT-GVE"/>
+                <constraint firstItem="GVR-bG-852" firstAttribute="top" secondItem="wE3-up-kDx" secondAttribute="bottom" id="P3r-LU-He1"/>
+                <constraint firstItem="UG0-nr-iut" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" constant="70" id="TKQ-Mx-QId"/>
+                <constraint firstItem="UG0-nr-iut" firstAttribute="centerY" secondItem="0rf-ks-Q8r" secondAttribute="centerY" id="VBE-d1-vYc"/>
+                <constraint firstAttribute="trailing" secondItem="GVR-bG-852" secondAttribute="trailing" id="aIY-u0-1rH"/>
+                <constraint firstAttribute="bottom" secondItem="GVR-bG-852" secondAttribute="bottom" id="fqC-bz-Pz4"/>
+                <constraint firstItem="wE3-up-kDx" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="hWv-Ex-D1T"/>
+                <constraint firstItem="0rf-ks-Q8r" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" constant="-70" id="sA9-sf-LHv"/>
+            </constraints>
+            <connections>
+                <outlet property="bottomViewHeight" destination="fqC-bz-Pz4" id="pQT-dB-EjE"/>
+                <outlet property="buyButton" destination="0rf-ks-Q8r" id="OkJ-5M-xcd"/>
+                <outlet property="cancelButton" destination="zgF-pY-YcE" id="fKp-yK-GRC"/>
+                <outlet property="sellButton" destination="UG0-nr-iut" id="Ijh-16-Bo3"/>
+            </connections>
+            <point key="canvasLocation" x="33.5" y="60.5"/>
+        </view>
+    </objects>
+</document>

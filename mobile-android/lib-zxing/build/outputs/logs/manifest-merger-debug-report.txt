@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:4:5-15:19
+	android:allowBackup
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:5:9-35
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:8:9-14:25
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:11:13-49
+	android:windowSoftInputMode
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:12:13-60
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:9:13-63
+	android:theme
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:13:13-63
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml:10:13-74
+uses-sdk
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\lib-zxing\src\main\AndroidManifest.xml

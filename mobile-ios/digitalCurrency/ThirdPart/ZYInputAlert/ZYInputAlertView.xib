@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="DOs-xv-1KV" customClass="ZYInputAlertView">
+            <rect key="frame" x="0.0" y="0.0" width="280" height="200"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" reversesTitleShadowWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GXs-D8-47q">
+                    <rect key="frame" x="250" y="0.0" width="30" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="uk2-wj-cHp"/>
+                        <constraint firstAttribute="width" constant="30" id="ukz-7Z-4rf"/>
+                    </constraints>
+                    <state key="normal" image="closeImage"/>
+                    <connections>
+                        <action selector="closeAlertView:" destination="DOs-xv-1KV" eventType="touchUpInside" id="x61-5e-M9l"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WZe-oh-mWc">
+                    <rect key="frame" x="10" y="150" width="260" height="40"/>
+                    <color key="backgroundColor" red="0.80485660169999995" green="0.5553927099" blue="0.15946184059999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="lZM-dG-27i"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <state key="normal" title="确认">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="confirmBtnClick:" destination="DOs-xv-1KV" eventType="touchUpInside" id="yeT-sl-Wga"/>
+                    </connections>
+                </button>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="R1y-Kr-pZt">
+                    <rect key="frame" x="10" y="30" width="260" height="110"/>
+                    <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="GXs-D8-47q" secondAttribute="trailing" id="2b6-GH-yft"/>
+                <constraint firstAttribute="trailing" secondItem="R1y-Kr-pZt" secondAttribute="trailing" constant="10" id="2zs-h2-h7s"/>
+                <constraint firstItem="GXs-D8-47q" firstAttribute="top" secondItem="DOs-xv-1KV" secondAttribute="top" id="4hm-we-mAJ"/>
+                <constraint firstAttribute="bottom" secondItem="WZe-oh-mWc" secondAttribute="bottom" constant="10" id="JtB-cO-Giy"/>
+                <constraint firstItem="WZe-oh-mWc" firstAttribute="leading" secondItem="DOs-xv-1KV" secondAttribute="leading" constant="10" id="Ov4-50-RTR"/>
+                <constraint firstItem="R1y-Kr-pZt" firstAttribute="leading" secondItem="DOs-xv-1KV" secondAttribute="leading" constant="10" id="Pbq-h5-2lp"/>
+                <constraint firstItem="WZe-oh-mWc" firstAttribute="top" secondItem="R1y-Kr-pZt" secondAttribute="bottom" constant="10" id="Vef-c6-I3c"/>
+                <constraint firstItem="R1y-Kr-pZt" firstAttribute="top" secondItem="GXs-D8-47q" secondAttribute="bottom" id="qU9-l0-PBO"/>
+                <constraint firstAttribute="trailing" secondItem="WZe-oh-mWc" secondAttribute="trailing" constant="10" id="ynq-xb-IKe"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="confirmBtn" destination="WZe-oh-mWc" id="90g-uU-B8Y"/>
+                <outlet property="inputTextView" destination="R1y-Kr-pZt" id="dVL-cO-SN0"/>
+            </connections>
+            <point key="canvasLocation" x="-123" y="84"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="closeImage" width="25" height="25"/>
+    </resources>
+</document>

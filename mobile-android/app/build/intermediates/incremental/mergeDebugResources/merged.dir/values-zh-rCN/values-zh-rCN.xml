@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="bank_name">
+
+        <item>中国工商银行</item>
+        <item>中国农业银行</item>
+        <item>中国建设银行</item>
+        <item>中国邮政储蓄银行</item>
+        <item>招商银行</item>
+        <item>中国银行</item>
+        <item>交通银行</item>
+        <item>中信银行</item>
+        <item>华夏银行</item>
+        <item>中国民生银行</item>
+        <item>广发银行</item>
+        <item>平安银行</item>
+        <item>兴业银行</item>
+        <item>上海浦东发展银行</item>
+        <item>浙商银行</item>
+        <item>渤海银行</item>
+        <item>恒丰银行</item>
+        <item>花旗银行</item>
+        <item>渣打银行</item>
+        <item>汇丰银行</item>
+        <item>中国光大银行</item>
+        <item>上海银行</item>
+        <item>江苏银行</item>
+        <item>重庆银行</item>
+        <item>天津银行</item>
+        <item>厦门银行</item>
+        <item>城市商业银行</item>
+        <item>农村商业银行</item>
+        <item>徽商银行</item>
+    </string-array>
+    <string-array name="ctc_payType">
+        <item>银行卡</item>
+        <item>支付宝</item>
+        <item>微信支付</item>
+    </string-array>
+    <string-array name="ctc_payTypeBank">
+        <item>银行卡</item>
+    </string-array>
+    <string-array name="exchange_type">
+        <item name="no_select">取消选择</item>
+        <item name="top_up">充值</item>
+        <item name="withdrawal">提现</item>
+        <item name="transfer">转账</item>
+        <item name="coinCurrencyTrading">币币交易</item>
+        <item name="FiatMoneyBuy">OTC买入</item>
+        <item name="FiatMoneySell">OTC卖出</item>
+        <item name="activitiesReward">活动奖励</item>
+        <item name="promotionRewards">推广奖励</item>
+        <item name="shareOutBonus">分红</item>
+        <item name="vote">投票</item>
+        <item name="ArtificialTop_up">人工充值</item>
+        <item name="match">空投</item>
+        <item name="Activity_buy">活动兑换</item>
+        <item name="ctc_buy">CTC买入</item>
+        <item name="ctc_sell">CTC卖出</item>
+
+        <item name="red_out">红包发出</item>
+        <item name="red_in">红包领取</item>
+        <item name="withdrawcode_out">提现码提现</item>
+        <item name="withdrawcode_in">提现码充值</item>
+        <item name="contract_fee">永续合约手续费</item>
+        <item name="contract_proit">永续合约盈利</item>
+        <item name="contract_loss">永续合约亏损</item>
+        <item name="option_fail">预测合约失败</item>
+        <item name="option_fee">预测合约手续费</item>
+        <item name="option_reward">预测合约奖金</item>
+
+    </string-array>
+    <string-array name="home_seven_top_tab">
+        <item>往期结果</item>
+        <item>实时行情</item>
+    </string-array>
+    <string-array name="home_six_top_tab">
+        <item>开仓</item>
+        <item>平仓</item>
+    </string-array>
+    <string-array name="home_two_top_tab">
+        <item>自选</item>
+        <item>USDT</item>
+        <item>BTC</item>
+        <item>ETH</item>
+    </string-array>
+    <string-array name="k_line_data">
+        <item>时间</item>
+        <item>开</item>
+        <item>高</item>
+        <item>低</item>
+        <item>收</item>
+        <item>涨跌额</item>
+        <item>涨跌幅</item>
+        <item>成交量</item>
+    </string-array>
+    <string-array name="k_line_depth">
+        <item name="depth">深度</item>
+        <item name="font_kline_volume">成交</item>
+    </string-array>
+    <string-array name="k_line_tab">
+        <item>分时</item>
+        <item>1分钟</item>
+        <item>5分钟</item>
+        <item>1小时</item>
+        <item>1天</item>
+        <item>30分钟</item>
+        <item>1周</item>
+        <item>1月</item>
+    </string-array>
+    <string-array name="k_line_tab_option">
+        <item>分时</item>
+        <item>1分钟</item>
+        <item>5分钟</item>
+        <item>30分钟</item>
+        <item>1小时</item>
+        <item>1天</item>
+    </string-array>
+    <string-array name="order_status">
+        <item>未付款</item>
+        <item>已付款</item>
+        <item>已完成</item>
+        <item>已取消</item>
+        <item>申诉中</item>
+    </string-array>
+    <string-array name="text_direction">
+        <item>取消选择</item>
+        <item>买</item>
+        <item>卖</item>
+    </string-array>
+    <string-array name="text_type">
+        <item>限价委托</item>
+        <item>市价委托</item>
+    </string-array>
+    <string-array name="text_type_array">
+        <item>取消选择</item>
+        <item>限价委托</item>
+        <item>市价委托</item>
+    </string-array>
+    <string-array name="text_type_param">
+        <item>取消选择</item>
+        <item>LIMIT_PRICE</item>
+        <item>MARKET_PRICE</item>
+    </string-array>
+    <string-array name="timeLimit">
+
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>45 分钟</item>
+        <item>60 分钟</item>
+
+    </string-array>
+    <string name="Abolish_success">取消成功</string>
+    <string name="Account_rights">账户权益</string>
+    <string name="Alipay">支付宝</string>
+    <string name="ArtificialTop_up">人工充值</string>
+    <string name="Cancel_order">取消订单</string>
+    <string name="China">简体中文</string>
+    <string name="Currency_deposit">保证金币种</string>
+    <string name="Download_failed">下载失败</string>
+    <string name="English">英语</string>
+    <string name="FiatMoney">法币</string>
+    <string name="FiatMoneyBuy">法币买入</string>
+    <string name="FiatMoneySell">法币卖出</string>
+    <string name="French">法语</string>
+    <string name="German">德语</string>
+    <string name="IdCardNumber">身份证号码</string>
+    <string name="Incomplete_information">填写信息不完整</string>
+    <string name="Indonesian">印尼语</string>
+    <string name="Italian">意大利语</string>
+    <string name="Japanese">日语</string>
+    <string name="Korean">韩语</string>
+    <string name="MatchAmount">配对数量</string>
+    <string name="MaxMatchAmount">最大配对数量</string>
+    <string name="No_ads">广告信息获取失败，正在重新获取！</string>
+    <string name="No_qrcode">未设置二维码地址</string>
+    <string name="Openmore">可开多:</string>
+    <string name="Opennull">可开空:</string>
+    <string name="Option_contract">期权合约</string>
+    <string name="Order_number">订单编号</string>
+    <string name="Parse_error">解析出错</string>
+    <string name="Password_error">密码错误</string>
+    <string name="Payment_countdown">付款倒计时</string>
+    <string name="Payment_done">付款完成</string>
+    <string name="Payment_receipt_account">付款/收款账号</string>
+    <string name="Permission_not_open">权限未开启</string>
+    <string name="Permission_ok">允许LIFE访问通讯录权限，可以获得更好的体验哦。</string>
+    <string name="Portuguese">葡萄牙语</string>
+    <string name="Professional_contract">专业合约</string>
+    <string name="QRcode_for_receivables">收款二维码</string>
+    <string name="Spanish">西班牙语</string>
+    <string name="Start_downloading">开始下载...请稍候</string>
+    <string name="Trading_time">交易时间</string>
+    <string name="TraditionalChinese">繁体中文</string>
+    <string name="Transaction_amount">交易金额</string>
+    <string name="Transaction_object">交易对象</string>
+    <string name="Turkish">土耳其语</string>
+    <string name="Upload_success">上传成功</string>
+    <string name="Waiting_money">等待放币</string>
+    <string name="Wallet_Overturn">资产划转</string>
+    <string name="Warm_prompt">温馨提示</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 键"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 键"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格键"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about_1">
+BIZZAN国际数字加密资产交易平台是一个综合数字资产交易平台,我们拥有领先的技术实力、优质的客户服务和良好的用户体验,为广大数字货币爱好者提供一个自由的网上交换的平台。\n\n
+BIZZAN国际数字加密资产交易平台同时还提供数字货币白皮书规划、加密算法调整、数字货币研发、交易平台上架一条龙的区块链服务。\n\n
+BIZZAN国际数字加密资产交易平台海外运营中心分别设立在新加坡、柬埔寨、马绍尔。国内北京、正州、深圳三大办事处；中国总部设立在海南陵水清水湾国际信息产业园。\n</string>
+    <string name="about_2">当下数字资产发展如火如荼，良莠不齐。BIZZAN会筛选优质数字资产，重视项目的透明度和治理结构，在自有评级体系形成的筛选标准之上，参考市场投资者的决策，共同发掘优质数字资产价值。\n我们的理念是：与每一位自由汇集于此的成员共同塑造一方价值流通、合抱共耕的优质生态土壤。\n</string>
+    <string name="about_3">BIZZAN的目标是建立一个相对去中心化的交易平台。平台的运营环境安全、公平而良性的发展，有创新、可迭代，符合社会进步和发展的趋势。</string>
+    <string name="about_email">邮箱：service@BIZZANex.com</string>
+    <string name="about_gang">BIZZAN官方社群</string>
+    <string name="about_title1">\n关于BIZZAN\n</string>
+    <string name="about_title2">\nBIZZAN理念\n</string>
+    <string name="about_title3">\nBIZZAN目标\n</string>
+    <string name="about_title4">\n联系我们\n</string>
+    <string name="about_us">关于我们</string>
+    <string name="acceptcoin">接受币种</string>
+    <string name="account">我的</string>
+    <string name="accountNum">到账数量</string>
+    <string name="account_opening_branch">开户支行</string>
+    <string name="account_opening_branchTip">请输入开户支行</string>
+    <string name="account_paid_tab">标记已付款</string>
+    <string name="account_settings">账号设置</string>
+    <string name="activitiesReward">活动奖励</string>
+    <string name="activitycoin">活动币种</string>
+    <string name="activityexchange">活动兑换</string>
+    <string name="activitytype">认购类型</string>
+    <string name="activitytype0">未知</string>
+    <string name="activitytype1">首次上线(抢购)</string>
+    <string name="activitytype2">首次上线(评分)</string>
+    <string name="activitytype3">持仓瓜分</string>
+    <string name="activitytype4">自由认购</string>
+    <string name="activitytype5">云矿机认购</string>
+    <string name="activitytype6">锁仓释放</string>
+    <string name="addMoneyTip">手续费应该在</string>
+    <string name="addMoneyTip2">最小提币数量</string>
+    <string name="affirm_submit">确认提交</string>
+    <string name="ali_account">支付宝账号</string>
+    <string name="alipay_binding">支付宝绑定</string>
+    <string name="all">全部</string>
+    <string name="already_buy">下单后请在30分钟内完成付款并标记订单为“已付款”</string>
+    <string name="alreadyamount">已购数量</string>
+    <string name="alreadyholdamount">活动参与总持仓</string>
+    <string name="amount">数量</string>
+    <string name="announcement_center">公告</string>
+    <string name="app_name">BIZZAN</string>
+    <string name="appealTip">我们会尽快处理你的申诉请求，请耐心等待</string>
+    <string name="appealTip2">请简要描述您申诉的原因（300字以内）</string>
+    <string name="apply_immediately">立即申请</string>
+    <string name="apply_merchant">申请成为商家</string>
+    <string name="attend">立即参与</string>
+    <string name="attention">注意</string>
+    <string name="attention1">1、提交参与【持仓瓜分】、【自由认购】、【云矿机认购】、【锁仓】类型活动后将冻结资产，活动结束后解冻或解锁释放</string>
+    <string name="attention2">2、参与【持仓瓜分】、【自由认购】、【云矿机认购】、【锁仓】类型活动后，用户不得撤销参与申请</string>
+    <string name="attention3">3、如因项目方及其他不可抗力因素取消活动，将原路退回冻结资产</string>
+    <string name="attention4">* 本活动最终解释权归币严(WWW.BIZZAN.VIP)官方所有</string>
+    <string name="autonym1">请等待审核！</string>
+    <string name="autonym2">实名身份已验证！</string>
+    <string name="autonym3">用户过期，请重新登录</string>
+    <string name="availableCoin">可用</string>
+    <string name="back">返回</string>
+    <string name="balance">总资产约(合USDT)</string>
+    <string name="balance_1">资产管理</string>
+    <string name="balance_2">我的资产</string>
+    <string name="balance_3">资产流水</string>
+    <string name="balancenotenough">余额不足！</string>
+    <string name="bank">开户银行</string>
+    <string name="bank_card_binding">银行卡绑定</string>
+    <string name="bank_card_name">银行卡姓名</string>
+    <string name="bank_card_phone">银行卡号</string>
+    <string name="bhb_deduct">使用BHB抵扣手续费</string>
+    <string name="bid">买盘</string>
+    <string name="binding">绑定</string>
+    <string name="binding_account">收款账户</string>
+    <string name="binding_email">绑定邮箱</string>
+    <string name="binding_phone">绑定手机号</string>
+    <string name="binding_phone_first">请先绑定手机号</string>
+    <string name="bound">修改</string>
+    <string name="bound2">已设置</string>
+    <string name="buyOpenmore">买入开多</string>
+    <string name="buy_money">结算金额：</string>
+    <string name="buy_number">买入数量：</string>
+    <string name="buy_price">买入价格：</string>
+    <string name="buy_type">付款方式：</string>
+    <string name="buy_usdt">买入USDT</string>
+    <string name="buyflatnull">买入平空</string>
+    <string name="camera_permission">权限不可用，请开启相机权限</string>
+    <string name="cancle">取消</string>
+    <string name="capital_password">资金密码</string>
+    <string name="capital_passwordTip">请输入资金密码</string>
+    <string name="cause">原因</string>
+    <string name="certainMoneyPassword">确认资金密码</string>
+    <string name="certainPassword">确认密码</string>
+    <string name="changeBindPhoneNum">修改绑定手机号</string>
+    <string name="changeBindPhoneNumTip">您正在修改账户绑定的手机号，请进行身份认证</string>
+    <string name="changeLoginPassword">更改登录密码</string>
+    <string name="changeLoginPasswordTip1">您已经绑定手机号</string>
+    <string name="changeLoginPasswordTip2">修改成功请重新登录</string>
+    <string name="changeMoneyPassword">修改资金密码</string>
+    <string name="change_phone_num">修改手机号</string>
+    <string name="chargeMoney">充币</string>
+    <string name="charge_money_attention">充值时请输入备注(Memo)</string>
+    <string name="charge_money_notification">• 请勿向上述地址充值任何非币种资产，否则资产将不可找回。 \n• 您充值至上述地址后，需要整个区块链网络节点的确认，一般区块链主网3次网络确认后到账。 \n• 您的充值地址不会经常改变，可以重复充值；如有更改，我们会尽量通过网站公告或邮件通知您。 \n• 请务必确认操作环境安全，防止信息被篡改或泄露。</string>
+    <string name="charge_record">充币记录</string>
+    <string name="chat">正在聊天</string>
+    <string name="child">副图</string>
+    <string name="china">中国</string>
+    <string name="clause_protocol">条款协议</string>
+    <string name="code">验证码</string>
+    <string name="code1_shuru">请输入邀请码</string>
+    <string name="code_shuru">请输入手机验证码</string>
+    <string name="code_shuru_email">请输入邮箱验证码</string>
+    <string name="coinCurrencyTrading">币币交易</string>
+    <string name="column2">类型</string>
+    <string name="column3">认购数量</string>
+    <string name="column4">参与币种</string>
+    <string name="column5">认购单位</string>
+    <string name="column6">当前状态</string>
+    <string name="column7">创建时间</string>
+    <string name="column8">成交额</string>
+    <string name="commission_revenue">佣金收入</string>
+    <string name="commitfailed">提交参与失败!</string>
+    <string name="confirm">确定</string>
+    <string name="confirm_cardnumber">确认卡号</string>
+    <string name="constract">永续</string>
+    <string name="contact_with_me">跟我联系</string>
+    <string name="contract">合约</string>
+    <string name="contract_fee">永续合约手续费</string>
+    <string name="contract_loss">永续合约亏损</string>
+    <string name="contract_proit">永续合约盈利</string>
+    <string name="copyAddress">复制地址</string>
+    <string name="copy_success">已复制到剪贴板!</string>
+    <string name="copylink">复制链接</string>
+    <string name="create_rush">区块链正在生成地址，请稍候退出我的资产界面重新进入。</string>
+    <string name="creditfail">审核失败</string>
+    <string name="creditting">审核中</string>
+    <string name="ctc_amount_tips">请输入50~50000之间的数字</string>
+    <string name="ctc_buy_amount_tips">请输入买入数量</string>
+    <string name="ctc_sell_amount_tips">请输入卖出数量</string>
+    <string name="ctc_title">法币交易</string>
+    <string name="ctcbuy">C2C买入</string>
+    <string name="ctcsell">C2C卖出</string>
+    <string name="currency_data">币种资料</string>
+    <string name="current_trust">当前委托</string>
+    <string name="currentdivided">当前我的持仓可瓜分约</string>
+    <string name="deal_guide">交易指南</string>
+    <string name="deal_notice">交易须知</string>
+    <string name="default_market">默认委托价为市价</string>
+    <string name="delete">删除</string>
+    <string name="deposit_number">保证金数量</string>
+    <string name="detail">明细</string>
+    <string name="detailTableViewTip">暂无交易历史记录</string>
+    <string name="details">详情</string>
+    <string name="dialog_cancel">不使用</string>
+    <string name="dialog_confirm">使用</string>
+    <string name="dialog_msg_four">类别：</string>
+    <string name="dialog_msg_one">委托价格：</string>
+    <string name="dialog_msg_three">委托量：</string>
+    <string name="dialog_msg_two">委托总额：</string>
+    <string name="dialog_one_cancel">取消</string>
+    <string name="dialog_one_one">您是否确认撤单?</string>
+    <string name="dialog_one_title">委托撤单确认</string>
+    <string name="dialog_one_two">撤单</string>
+    <string name="dialog_sure">确定</string>
+    <string name="dialog_three_msg">提醒：请确认价格再下单，下单后此交易的资金将托管锁定，请放心购买。</string>
+    <string name="dialog_three_one">购买价格</string>
+    <string name="dialog_three_ones">出售价格</string>
+    <string name="dialog_three_three">购买总额</string>
+    <string name="dialog_three_threes">出售总额</string>
+    <string name="dialog_three_title">下单确认</string>
+    <string name="dialog_three_two">购买数量</string>
+    <string name="dialog_three_twos">出售数量</string>
+    <string name="dialog_two_title_buy">委托买入</string>
+    <string name="dialog_two_title_sell">委托卖出</string>
+    <string name="diff_cardnumber">银行卡号不一致</string>
+    <string name="direction">方向</string>
+    <string name="discharged">放行</string>
+    <string name="discountfee">抵扣手续费</string>
+    <string name="down_announcement">跌幅榜</string>
+    <string name="down_shelf">下架</string>
+    <string name="dz_time">到账时间</string>
+    <string name="egional_selection">地区选择</string>
+    <string name="email">邮箱</string>
+    <string name="email_code">邮箱验证码</string>
+    <string name="email_diff">邮箱格式不正确</string>
+    <string name="email_retrieve">邮箱验证</string>
+    <string name="email_shuru">请输入邮箱</string>
+    <string name="email_sign_up">邮箱注册</string>
+    <string name="empty_address">数据有误，地址为空</string>
+    <string name="end_time">结束时间</string>
+    <string name="endtime">结束时间：</string>
+    <string name="ent_status1">委托中</string>
+    <string name="ent_status2">已撤销</string>
+    <string name="ent_status3">委托失败</string>
+    <string name="ent_status4">委托成功</string>
+    <string name="ent_statusblast">爆仓</string>
+    <string name="entrust_money">委托金额</string>
+    <string name="entrust_num_btc">委托量(BTC)</string>
+    <string name="entrust_ok_btc">成交量(BTC)</string>
+    <string name="entrust_price">委托价：</string>
+    <string name="exit_again">再按一次退出</string>
+    <string name="expect">期</string>
+    <string name="fabi2">法币交易</string>
+    <string name="fail">失败</string>
+    <string name="feed_back">意见反馈</string>
+    <string name="feed_et_hint">留下你宝贵的意见，以帮助我们做的更好！</string>
+    <string name="feed_et_number_email">手机号/邮箱（非必填）</string>
+    <string name="feed_message">您的意见对我们来说特别重要！</string>
+    <string name="fen">分</string>
+    <string name="find_error">出现异常错误！</string>
+    <string name="flatmore">多仓可平:</string>
+    <string name="flatnull">空仓可平:</string>
+    <string name="forecast_cycle">本期预测周期：</string>
+    <string name="forget_gesture_pwd">忘记手势密码？</string>
+    <string name="forget_pwd">忘记手势密码，需要您重新登录！</string>
+    <string name="forgot_password">忘记密码？</string>
+    <string name="four_danjia">单价</string>
+    <string name="freezeCoin">冻结</string>
+    <string name="freeze_money">冻结保证金</string>
+    <string name="gather_code">收款码</string>
+    <string name="gesturesPassThirdPartTip6">至少连接四个点，请重新输入</string>
+    <string name="gesturesPassThirdPartTip7">请再次绘制手势密码</string>
+    <string name="gesturesPassword">手势密码</string>
+    <string name="go_login">去登录</string>
+    <string name="gongsijianjie">公司简介</string>
+    <string name="goto_login">立即登录</string>
+    <string name="goto_regist">立即注册</string>
+    <string name="grounding">上架中</string>
+    <string name="gt3_geetest_analyzing">智能分析中...</string>
+    <string name="gt3_geetest_checking">智能验证检测中</string>
+    <string name="gt3_geetest_click">点击按钮进行验证</string>
+    <string name="gt3_geetest_closed"> 验证码已关闭</string>
+    <string name="gt3_geetest_http_error">网络连接失败</string>
+    <string name="gt3_geetest_http_timeout">网络超时</string>
+    <string name="gt3_geetest_pass">验证通过</string>
+    <string name="gt3_geetest_please_verify">请完成上方验证</string>
+    <string name="gt3_geetest_success">验证成功</string>
+    <string name="gt3_geetest_support">极验提供技术支持</string>
+    <string name="gt3_geetest_try_again"> 请点击重试</string>
+    <string name="had_set">修改</string>
+    <string name="handsetTailNumber">手机尾号</string>
+    <string name="has_new_version">发现新版本</string>
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="help">帮助</string>
+    <string name="help_centre">帮助</string>
+    <string name="hidden0Currency">隐藏为0的币种</string>
+    <string name="hide">隐藏</string>
+    <string name="high">高</string>
+    <string name="hint">提示</string>
+    <string name="history_trust">历史委托</string>
+    <string name="holdcoin">持仓要求币种</string>
+    <string name="holdtips">参与【持仓瓜分】类型活动需锁仓至活动结束</string>
+    <string name="home">首页</string>
+    <string name="id_credit">实名认证</string>
+    <string name="index">指标</string>
+    <string name="innovation_lab">创新实验室</string>
+    <string name="innovation_lab_mine">创新管理</string>
+    <string name="inputAddAdress">请输入或选择地址</string>
+    <string name="input_Alipay">请输入支付宝号</string>
+    <string name="input_account_password">请输入账号密码！</string>
+    <string name="input_big_buy">输入数量大于可购买数量！</string>
+    <string name="input_code">请输入验证码</string>
+    <string name="input_coin">请输入币种</string>
+    <string name="input_direction">请输入方向</string>
+    <string name="input_entrust_price_number">请输入委托价和数量</string>
+    <string name="input_fund_pwd">请输入正确的资金密码</string>
+    <string name="input_gesture_pwd">请输入手势密码</string>
+    <string name="input_number">请输入数量</string>
+    <string name="input_ok_buy_number">请输入正确的买入数量</string>
+    <string name="input_ok_buy_price">请输入正确的买入价格</string>
+    <string name="input_ok_buy_sum">请输入正确的买入总额</string>
+    <string name="input_ok_entrust_price">请输入正确的委托价</string>
+    <string name="input_ok_sell_number">请输入正确的卖出数量</string>
+    <string name="input_ok_sell_price">请输入正确的卖出价格</string>
+    <string name="input_phone">请输入手机号码</string>
+    <string name="input_price_number">请输入价格和数量</string>
+    <string name="input_qq_account">请输入QQ账号</string>
+    <string name="input_remark">请输入提币备注/Memo</string>
+    <string name="input_trading">请输入交易对</string>
+    <string name="input_type">请输入类型</string>
+    <string name="input_wechat_account">请输入微信账号</string>
+    <string name="inputamount">输入兑换数量</string>
+    <string name="inputholdamount">输入锁仓数量</string>
+    <string name="inputminingamount">输入购买矿机数</string>
+    <string name="invite">邀请</string>
+    <string name="invitetip1">本矿机产能可通过邀请好友获得提升，每邀请一人兑换矿机，产能提升</string>
+    <string name="invitetip2">%，产能提升上限</string>
+    <string name="item_buy">买</string>
+    <string name="item_charge">手续费</string>
+    <string name="item_cost">成交价</string>
+    <string name="item_number">委托量</string>
+    <string name="item_sell">卖</string>
+    <string name="item_time">时间</string>
+    <string name="jiaoyi_dui">交易对</string>
+    <string name="jiaoyi_fangxiang">方向</string>
+    <string name="jiaoyi_shouxufei">手续费</string>
+    <string name="jiaoyi_weituoliang">委托量</string>
+    <string name="jiaoyi_yichengjiao">已成交</string>
+    <string name="kefu">客服</string>
+    <string name="language">语言设置</string>
+    <string name="least_four_dot">至少连接4个点，请重新输入</string>
+    <string name="leftamount">剩余数量</string>
+    <string name="legal_agreement1">我已阅读并同意</string>
+    <string name="legal_agreement2">《认证商家协议》</string>
+    <string name="legal_agreement3">用户协议</string>
+    <string name="legal_coin_money">法币入金</string>
+    <string name="leveloneCount">需要一级好友数</string>
+    <string name="library_file_exception">图库文件返回异常</string>
+    <string name="limit">限额</string>
+    <string name="limitamount">个人限购数量</string>
+    <string name="limittimes">个人限购次数</string>
+    <string name="limittimesfailed">您参与的次数超过个人最高限购次数！</string>
+    <string name="lishi">历史</string>
+    <string name="loading_bottom">我是有底线的</string>
+    <string name="lock">释放期</string>
+    <string name="lockFee">锁仓门槛</string>
+    <string name="lockday">日</string>
+    <string name="lockmonth">月</string>
+    <string name="lockstatus0">待释放</string>
+    <string name="lockstatus1">释放中</string>
+    <string name="lockstatus2">已结束</string>
+    <string name="lockweek">周</string>
+    <string name="lockyear">年</string>
+    <string name="login">登录</string>
+    <string name="login_assets">总资产约(折合USDT)</string>
+    <string name="login_entity">请先登录/注册</string>
+    <string name="login_invalid">登录失效，请重新登录！</string>
+    <string name="login_password">登录密码</string>
+    <string name="login_register">登录/注册</string>
+    <string name="login_view">登录后可查看</string>
+    <string name="logout_confirm">您确定要退出登录？</string>
+    <string name="logout_current_account">退出当前账号</string>
+    <string name="look_sample_graph">点击查看示例图</string>
+    <string name="look_setting">查看设置方法</string>
+    <string name="low">低</string>
+    <string name="main">主图</string>
+    <string name="market">行情</string>
+    <string name="marketPrice">市价</string>
+    <string name="market_technology">行情技术</string>
+    <string name="matchMoney">配对</string>
+    <string name="maxLimitTip">最大量不得高于</string>
+    <string name="maxlimitamountfailed">兑换数量不能大于最高限购量！</string>
+    <string name="may_money">可用保证金</string>
+    <string name="mentionMoney">提币</string>
+    <string name="mentionMoneyAddress">提币地址</string>
+    <string name="mention_money_number">提现数量</string>
+    <string name="mention_money_record">提币记录</string>
+    <string name="mention_money_time">提现时间</string>
+    <string name="merchants_certification">商家认证</string>
+    <string name="message_details">公告</string>
+    <string name="message_list">消息列表</string>
+    <string name="miao">秒</string>
+    <string name="minLimitTip">最小量不得低于100CNY</string>
+    <string name="miner_status0">待部署</string>
+    <string name="miner_status1">已部署</string>
+    <string name="miner_status2">已结束</string>
+    <string name="mining">挖矿</string>
+    <string name="minlimitamountfailed">兑换数量不能小于最低起兑量！</string>
+    <string name="money_in_out">人民币入金/出金</string>
+    <string name="more">更多</string>
+    <string name="more_head">多头</string>
+    <string name="my_ads">我的广告</string>
+    <string name="my_asset_attest">个人数字资产证明</string>
+    <string name="my_credit">身份认证</string>
+    <string name="my_entrust">我的委托</string>
+    <string name="my_fabi">法币管理</string>
+    <string name="my_input_id">请输入身份证号码</string>
+    <string name="my_input_name">请输入您的真实姓名</string>
+    <string name="my_invite">我的邀请</string>
+    <string name="my_invite_link">我的邀请链接</string>
+    <string name="my_lab">我参与的</string>
+    <string name="my_language">语言切换</string>
+    <string name="my_lock">我的锁仓</string>
+    <string name="my_message">平台消息</string>
+    <string name="my_miner">我的矿机</string>
+    <string name="my_no_pass">未审核通过原因:</string>
+    <string name="my_no_uploading">身份证照片</string>
+    <string name="my_order">我的订单</string>
+    <string name="my_safety">为保障您的账户安全，请完成实名认证后方可交易操作！</string>
+    <string name="my_setting">设置中心</string>
+    <string name="my_version">版本更新</string>
+    <string name="myalreadyholdamount">我的参与持仓</string>
+    <string name="mybalance">我的可用余额</string>
+    <string name="name">姓名</string>
+    <string name="nationality">国籍</string>
+    <string name="newLoginPassword">新登录密码</string>
+    <string name="newMoneyPassword">新资金密码</string>
+    <string name="new_guide">新手指南</string>
+    <string name="new_pwd">新密码</string>
+    <string name="new_pwd2_shuru">请再次输入密码</string>
+    <string name="new_pwd_shuru_signup">请输入密码(大于6位的数字、字母组合)</string>
+    <string name="news_events_information">新闻/活动/资讯</string>
+    <string name="no">否</string>
+    <string name="noAddAddressTip">暂无充币地址，请在电脑端添加</string>
+    <string name="no_choice">暂不选择</string>
+    <string name="no_data">暂无数据</string>
+    <string name="no_free">暂无自选</string>
+    <string name="no_hint">不再提示</string>
+    <string name="no_network">当前无网络</string>
+    <string name="no_remark">无备注</string>
+    <string name="no_rush">暂无充值地址，请不要充值！</string>
+    <string name="no_select">取消选择</string>
+    <string name="no_upload">未上传</string>
+    <string name="no_zhanghao">没有BIZZAN帐号？</string>
+    <string name="node">节点</string>
+    <string name="nos">第</string>
+    <string name="notChargeMoneyTip">平台暂不支持充币</string>
+    <string name="notMentionMoneyTip">平台暂不支持提币</string>
+    <string name="notRaiseMoneyTip">平台暂不支持充币提币</string>
+    <string name="not_logged_in">未登录</string>
+    <string name="not_set">未设置</string>
+    <string name="now_link">正在连接</string>
+    <string name="now_loading">正在加载...</string>
+    <string name="now_loading_center">正在加载中</string>
+    <string name="null_head">空头</string>
+    <string name="number">数量</string>
+    <string name="number2">数量:</string>
+    <string name="number_asset_attest">数字资产交易证明</string>
+    <string name="number_big_zero">下单数量必须大于0</string>
+    <string name="number_btc">数量(BTC)</string>
+    <string name="often_issue">常见问题</string>
+    <string name="oldLoginPassword">旧登录密码</string>
+    <string name="oldMoneyPassword">旧资金密码</string>
+    <string name="one_friend">一级好友</string>
+    <string name="one_message">个人信息</string>
+    <string name="one_zhang">1张 = </string>
+    <string name="open_access">权限开启说明</string>
+    <string name="open_address_access">如何开启联系人中的手机通讯录权限？</string>
+    <string name="open_gesture">为了您的资金安全，建议您到[我的]->[安全设置]->[手势密码]开启手势密码功能！</string>
+    <string name="option">期权</string>
+    <string name="option_fail">预测合约失败</string>
+    <string name="option_fee">预测合约手续费</string>
+    <string name="option_reward">预测合约奖金</string>
+    <string name="order_appeal">订单申诉</string>
+    <string name="order_details_failed">订单详情获取失败,正在重新获取</string>
+    <string name="order_done">已完成</string>
+    <string name="order_information">订单信息</string>
+    <string name="order_release">订单放行</string>
+    <string name="order_status">订单状态</string>
+    <string name="order_time">下单时间</string>
+    <string name="orderdetail">订单详情</string>
+    <string name="parse_error">解析异常</string>
+    <string name="partnership_level">合伙级别</string>
+    <string name="password">密码</string>
+    <string name="password_realname">请先设置资金密码和实名认证</string>
+    <string name="password_shuru">请输入密码</string>
+    <string name="paymentTip">用户暂未添加支付宝账户</string>
+    <string name="paymentTip10">继续</string>
+    <string name="paymentTip2">用户暂未添加微信账户</string>
+    <string name="paymentTip3">用户暂未添加银行卡账户</string>
+    <string name="paymentTip4">对此订单有疑问？</string>
+    <string name="paymentTip5">点我申诉</string>
+    <string name="paymentTip6">请输入交易密码</string>
+    <string name="paymentTip7">您将要取消该订单，是否继续？</string>
+    <string name="paymentTip8">是否确认已经付款？</string>
+    <string name="paymentTip9">您将要申诉该订单，是否继续？</string>
+    <string name="payment_information">支付信息</string>
+    <string name="phone">手机</string>
+    <string name="phone_code">短信验证码</string>
+    <string name="phone_not_correct">手机号码不正确</string>
+    <string name="phone_not_correct_email">邮箱不正确</string>
+    <string name="phone_number">手机号码</string>
+    <string name="phone_retrieve">忘记密码</string>
+    <string name="phone_sign_up">手机号注册</string>
+    <string name="photo">个人头像</string>
+    <string name="photo_album">相册</string>
+    <string name="photograph">拍照</string>
+    <string name="please_select_number">请选择投注数量</string>
+    <string name="pleaseinputamount">请输入兑换数量</string>
+    <string name="pleaseinputholdamount">请输入锁仓数量</string>
+    <string name="posters">请选择一张海报</string>
+    <string name="poundage">手续费</string>
+    <string name="price">价格</string>
+    <string name="price_btc">价格(BTC)</string>
+    <string name="progress">进度</string>
+    <string name="promotionRewards">推广奖励</string>
+    <string name="publish_advertising">发布广告</string>
+    <string name="publishprice">认购价格</string>
+    <string name="put_list_ok">挂单成功</string>
+    <string name="pwd_diff">两次密码不一致！</string>
+    <string name="pwd_ok">密码正确</string>
+    <string name="qr_code">二维码</string>
+    <string name="questions_guides_information">问题/指南/资料</string>
+    <string name="re_send">重新获取</string>
+    <string name="read_agreement">请先阅读协议并选择已读</string>
+    <string name="realfee">实付手续费</string>
+    <string name="realname">请去实名认证</string>
+    <string name="receive">您的以下账户将收到承兑商汇款</string>
+    <string name="receiveMessageCode">接收到的短信验证码</string>
+    <string name="receivePhoneCode">原手机能接受验证码</string>
+    <string name="receiving_set">收款设置</string>
+    <string name="recently">刚刚</string>
+    <string name="recheck">重新审核</string>
+    <string name="red_in">红包领取</string>
+    <string name="red_out">红包发出</string>
+    <string name="regist">注册</string>
+    <string name="releaseDetail">释放详情</string>
+    <string name="releasePercent">释放比例</string>
+    <string name="releaseTimes">释放倍数</string>
+    <string name="releaseType">释放类型</string>
+    <string name="releaseType0">等额释放</string>
+    <string name="releaseType1">等比释放</string>
+    <string name="remark">备注(Memo)</string>
+    <string name="remove_entrust">委托撤销成功</string>
+    <string name="remove_order">撤消订单</string>
+    <string name="repeat_password">重复密码</string>
+    <string name="replicated">已复制</string>
+    <string name="reset">重置</string>
+    <string name="rush1">最小充值金额</string>
+    <string name="rush2">小于最小金额的充值将不会上账。</string>
+    <string name="rush3">请勿向上述地址充值任何非币种资产，否则资产将不可找回。</string>
+    <string name="rush4">您充值至上述地址后，需要整个区块链网络节点的确认，一般区块链主网3次网络确认后到账。</string>
+    <string name="rush5">您的充值地址不会经常改变，可以重复充值；如有更改，我们会尽量通过网站公告或邮件通知您。</string>
+    <string name="rush6">请务必确认操作环境安全，防止信息被篡改或泄露。</string>
+    <string name="rush_address">充币地址</string>
+    <string name="rush_number">充值数量</string>
+    <string name="save">保存</string>
+    <string name="saveImage">保存图片</string>
+    <string name="savePhoto">保存二维码至相册</string>
+    <string name="save_ok">保存成功</string>
+    <string name="save_qr_code">长按可直接保存二维码至相册</string>
+    <string name="savelocally">已保存到本地</string>
+    <string name="search">搜索</string>
+    <string name="searchAssets">搜索资产</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="security_settings">安全设置</string>
+    <string name="select_currency">请选择币种</string>
+    <string name="select_multiple">选择倍数</string>
+    <string name="sellOpennull">卖出开空</string>
+    <string name="sell_number">卖出数量：</string>
+    <string name="sell_price">卖出价格：</string>
+    <string name="sell_type">收款方式：</string>
+    <string name="sell_usdt">卖出USDT</string>
+    <string name="sellflatmore">卖出平多</string>
+    <string name="selling">卖盘</string>
+    <string name="send_chat">发送</string>
+    <string name="send_code">发送验证码</string>
+    <string name="setMoneyPassword">设置资金密码</string>
+    <string name="setMoneyPasswordTip">您正在修改资金密码</string>
+    <string name="set_up_success">设置成功</string>
+    <string name="setting_gather_type">请设置您的收款方式，请务必使用本人的实名帐号</string>
+    <string name="settlement_amount">结算总额</string>
+    <string name="shangjia">请去商家认证</string>
+    <string name="shareOutBonus">分红</string>
+    <string name="share_posters">分享海报</string>
+    <string name="shelved">已下架</string>
+    <string name="shouldfee">应付手续费</string>
+    <string name="simplifiedChinese">简体中文</string>
+    <string name="star_time">开始时间</string>
+    <string name="start_bind">开始绑定</string>
+    <string name="start_stop_time">起止时间</string>
+    <string name="starttime">开始时间：</string>
+    <string name="status">状态</string>
+    <string name="status1">未部署</string>
+    <string name="status2">已部署</string>
+    <string name="status3">已撤销</string>
+    <string name="status4">待成交</string>
+    <string name="status5">已成交</string>
+    <string name="status6">已撤销</string>
+    <string name="status7">临时</string>
+    <string name="status_1">等待承兑商接单中...</string>
+    <string name="status_2">承兑商已接单，请您尽快付款</string>
+    <string name="status_3">等待承兑商放币中...</string>
+    <string name="status_4">恭喜！订单已完成！</string>
+    <string name="status_5">承兑商已接单，正在付款中...</string>
+    <string name="status_6">承兑商已付款，确认放币中...</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_all">全部</string>
+    <string name="step_completed">已完成</string>
+    <string name="step_distributing">派发中</string>
+    <string name="step_ongoing">进行中</string>
+    <string name="step_prepare">即将开始</string>
+    <string name="stop_time_create_time">起止时间为手续费生成时间</string>
+    <string name="storage_permission">权限不可用，请开启存储权限</string>
+    <string name="submit">提交</string>
+    <string name="submit_ok">提交成功</string>
+    <string name="success">成功</string>
+    <string name="suocang">待释放</string>
+    <string name="text_24_change">24H量</string>
+    <string name="text_Amount">可平量</string>
+    <string name="text_Current_margin">当前保证金</string>
+    <string name="text_Market">市价委托</string>
+    <string name="text_Market_entrust">市价委托</string>
+    <string name="text_actual_deal">已成交</string>
+    <string name="text_ad">广告留言</string>
+    <string name="text_ad_bi">选择币种</string>
+    <string name="text_ad_buy_num">买入数量</string>
+    <string name="text_ad_buy_num_msg">交易数量</string>
+    <string name="text_ad_change">修改广告</string>
+    <string name="text_ad_entity">广告信息填写不完整！</string>
+    <string name="text_ad_fu_hint">请选择付款期限</string>
+    <string name="text_ad_fu_kuan">请选择付款方式</string>
+    <string name="text_ad_fu_time">付款期限</string>
+    <string name="text_ad_guo">根据国家自动选择</string>
+    <string name="text_ad_hint">请输入广告留言</string>
+    <string name="text_ad_hui_fu">是否自动回复</string>
+    <string name="text_ad_jiao_one">请输入交易价格</string>
+    <string name="text_ad_jiao_two">根据市场价和溢价自动计算</string>
+    <string name="text_ad_jiao_yi">交易价格</string>
+    <string name="text_ad_max">最大量</string>
+    <string name="text_ad_max_msg">每一笔交易的最大限额</string>
+    <string name="text_ad_mes">广告留言:</string>
+    <string name="text_ad_min">最小量</string>
+    <string name="text_ad_min_msg">每一笔交易的最小限额</string>
+    <string name="text_ad_minu">分钟</string>
+    <string name="text_ad_money">资金密码</string>
+    <string name="text_ad_money_hint">请输入资金密码</string>
+    <string name="text_ad_n">否</string>
+    <string name="text_ad_place">所在地</string>
+    <string name="text_ad_price_one">固定价格</string>
+    <string name="text_ad_price_two">实时价格</string>
+    <string name="text_ad_price_type">价格类型</string>
+    <string name="text_ad_select">请选择</string>
+    <string name="text_ad_sell_num">卖出数量</string>
+    <string name="text_ad_shou">收款方式</string>
+    <string name="text_ad_title">发布购买广告</string>
+    <string name="text_ad_titles">发布出售广告</string>
+    <string name="text_ad_type">货币类型</string>
+    <string name="text_ad_y">是</string>
+    <string name="text_ad_yi_jia">溢价</string>
+    <string name="text_ad_yi_one">固定价格下，无需输入溢价</string>
+    <string name="text_ad_yi_two">根据市场价的溢出比例</string>
+    <string name="text_ad_zi_dong">自动回复内容</string>
+    <string name="text_ad_zi_dong_hint">请输入自动回复内容</string>
+    <string name="text_add_fail">添加失败</string>
+    <string name="text_add_favorite">添加自选</string>
+    <string name="text_add_success">添加成功</string>
+    <string name="text_all_model">全仓模式</string>
+    <string name="text_app_rate">好评率</string>
+    <string name="text_average_open">开仓均价</string>
+    <string name="text_average_price">成交均价</string>
+    <string name="text_best_price">以最优价格买入</string>
+    <string name="text_best_prices">最优价格</string>
+    <string name="text_best_sale">以最优价格卖出</string>
+    <string name="text_bonuses">奖金数量</string>
+    <string name="text_buy">买入</string>
+    <string name="text_buy_coin">买入</string>
+    <string name="text_buy_down_total">买跌总额</string>
+    <string name="text_buy_one">购买</string>
+    <string name="text_buy_up_total">买涨总额</string>
+    <string name="text_cancel_fail">取消失败</string>
+    <string name="text_cancel_success">取消成功</string>
+    <string name="text_change">修改</string>
+    <string name="text_chase_model">逐仓模式</string>
+    <string name="text_chu_sho">出售</string>
+    <string name="text_clear">撤单</string>
+    <string name="text_clear_fu_kuan">请选择收款方式</string>
+    <string name="text_collected">已收藏</string>
+    <string name="text_compute">结算盈亏</string>
+    <string name="text_current_delivery">当前交割</string>
+    <string name="text_current_entrust">当前委托</string>
+    <string name="text_deal_his">历史成交</string>
+    <string name="text_deal_num">交易次数 </string>
+    <string name="text_earnings">收益</string>
+    <string name="text_earnings_rate">收益率</string>
+    <string name="text_enter_price">请输入价格</string>
+    <string name="text_enter_price_constract">委托价</string>
+    <string name="text_entity">暂无数据</string>
+    <string name="text_entrust">委托额</string>
+    <string name="text_entrust_details">委托详情</string>
+    <string name="text_entrust_num">委托量</string>
+    <string name="text_entrust_number">委托数量</string>
+    <string name="text_entrust_type">委托类型</string>
+    <string name="text_fa_bu">发布</string>
+    <string name="text_flat">平仓</string>
+    <string name="text_flatmore">平多</string>
+    <string name="text_flatnull">平空</string>
+    <string name="text_forecast_direction">预测方向</string>
+    <string name="text_forecast_result">预测结果</string>
+    <string name="text_good">好评</string>
+    <string name="text_gou_mai">购买</string>
+    <string name="text_guarantee_money">保证金</string>
+    <string name="text_history_delivery">历史交割</string>
+    <string name="text_history_entrust">历史委托</string>
+    <string name="text_hold">当前持仓</string>
+    <string name="text_inventory">持仓量</string>
+    <string name="text_leverage">杠杆倍数</string>
+    <string name="text_limit">限价委托</string>
+    <string name="text_limit_entrust">限价委托</string>
+    <string name="text_login_disabled">登录信息失效，请重新登录！</string>
+    <string name="text_look_down">看跌</string>
+    <string name="text_look_up">看涨</string>
+    <string name="text_margin_rate">保证金率</string>
+    <string name="text_much_buy">需要购买多少?</string>
+    <string name="text_much_sale">需要出售多少?</string>
+    <string name="text_my_storehouse">我的开仓</string>
+    <string name="text_no_order">暂无数据…</string>
+    <string name="text_now_price">当前价</string>
+    <string name="text_number">数量</string>
+    <string name="text_number2">数量:</string>
+    <string name="text_open">开仓</string>
+    <string name="text_open_fee">开仓手续费</string>
+    <string name="text_open_flat">开仓/平仓</string>
+    <string name="text_open_many">开多</string>
+    <string name="text_open_money">开仓金额</string>
+    <string name="text_open_null">开空</string>
+    <string name="text_open_price">开盘价</string>
+    <string name="text_pan">盘口</string>
+    <string name="text_plan_entrust">止盈止损</string>
+    <string name="text_price">价格</string>
+    <string name="text_quota">限额</string>
+    <string name="text_quota2">限额:</string>
+    <string name="text_repeal">撤销</string>
+    <string name="text_reward_fee">抽水</string>
+    <string name="text_sale">卖出</string>
+    <string name="text_sale_coin">卖出</string>
+    <string name="text_sell_one">出售</string>
+    <string name="text_sell_two">卖出</string>
+    <string name="text_surplus_num">剩余数量 </string>
+    <string name="text_to_login">去登陆</string>
+    <string name="text_total_deal">成交总额</string>
+    <string name="text_total_entrust">委托总额</string>
+    <string name="text_transaction_price">成交价</string>
+    <string name="text_trigger_price_constract">触发价</string>
+    <string name="text_turnover">交易额</string>
+    <string name="text_use_balance">可用余额</string>
+    <string name="text_used">可用</string>
+    <string name="text_volume">成交量</string>
+    <string name="text_warn">交易提醒</string>
+    <string name="text_warn_one">1.交易前请详细了解卖家的交易信息。</string>
+    <string name="text_warn_three">3.如遇到交易纠纷，请通过平台该页面右上角帮助解决问题。</string>
+    <string name="text_warn_two">2.请通过平台进行沟通约定，并保存好相关聊天记录。</string>
+    <string name="text_wei_price">委托价格</string>
+    <string name="text_xian_login">请先登录</string>
+    <string name="time">时间</string>
+    <string name="time_remaining">剩余时间</string>
+    <string name="timed_out">订单已超时</string>
+    <string name="times">倍</string>
+    <string name="tishi">请完善信息或重新选择图片</string>
+    <string name="top_up">充值</string>
+    <string name="totalsupply">活动总量</string>
+    <string name="traded_trade">已成交</string>
+    <string name="trading">交易中</string>
+    <string name="transaction">交易</string>
+    <string name="transaction_price">交易价格</string>
+    <string name="transactions_Number">交易数量</string>
+    <string name="transfer">转账</string>
+    <string name="transfer_to_account">请转账至下列承兑商账户</string>
+    <string name="trust_detail">交易明细</string>
+    <string name="tv_affirm">确认</string>
+    <string name="tv_affirm_uploading_picture">请确认是否已经上传全部图片</string>
+    <string name="tv_already_order">已接单</string>
+    <string name="tv_balance">余额</string>
+    <string name="tv_bi">选择币种</string>
+    <string name="tv_buy_down_total">买跌总额:</string>
+    <string name="tv_buy_up_total">买涨总额:</string>
+    <string name="tv_cancel">已取消</string>
+    <string name="tv_coins">币币账户</string>
+    <string name="tv_constract">永续账户</string>
+    <string name="tv_constract_account">永续合约账户</string>
+    <string name="tv_currency">币种</string>
+    <string name="tv_else">其他</string>
+    <string name="tv_examine_network">请检查手机网络</string>
+    <string name="tv_fill_number">请填写数量</string>
+    <string name="tv_from">从</string>
+    <string name="tv_input_overturn_number">请输入划转数量</string>
+    <string name="tv_message_deficiency">信息填写不完整！</string>
+    <string name="tv_need_address">该币种需要输入转入地址Memo，请确认！</string>
+    <string name="tv_no_more">没有更多了</string>
+    <string name="tv_no_network">手机网络无连接，请检查手机网络或者切换网络。</string>
+    <string name="tv_now_payment">立即付款</string>
+    <string name="tv_open_price">开盘价格:</string>
+    <string name="tv_open_time">开盘时间:</string>
+    <string name="tv_overturn">划转</string>
+    <string name="tv_overturn_number">划转数量</string>
+    <string name="tv_payment">已付款</string>
+    <string name="tv_quit">退出</string>
+    <string name="tv_receive_price">收盘价格:</string>
+    <string name="tv_receive_time">收盘时间:</string>
+    <string name="tv_record">记录</string>
+    <string name="tv_select_account">选择账户</string>
+    <string name="tv_select_coin">选择币种</string>
+    <string name="tv_select_condition">请选择筛选条件</string>
+    <string name="tv_select_finish_time">请选择结束时间</string>
+    <string name="tv_select_start_time">请选择开始时间</string>
+    <string name="tv_send_fail">发送失败</string>
+    <string name="tv_send_ok">发送成功</string>
+    <string name="tv_succee">已完成</string>
+    <string name="tv_switch_more">请切换网络重试或系统升级维护中（升级进度详见PC官网）。</string>
+    <string name="tv_to">到</string>
+    <string name="tv_uploading">已上传</string>
+    <string name="tv_visit1">允许LIFE访问通讯录权限，可以获得更好的体验哦。</string>
+    <string name="tv_visit2">允许LIFE打开相机权限，可以获得更好的体验哦。</string>
+    <string name="tv_wait_order">待接单</string>
+    <string name="two_friend">二级好友</string>
+    <string name="type">类型</string>
+    <string name="type1">首发抢购</string>
+    <string name="type2">首发分摊</string>
+    <string name="type3">持仓瓜分</string>
+    <string name="type4">自由认购</string>
+    <string name="type5">云矿机认购</string>
+    <string name="type6">锁仓</string>
+    <string name="unChargeMoneyTip1">暂无充币地址</string>
+    <string name="unReceivePhoneCode">原手机不能接受验证码</string>
+    <string name="unReceivePhoneCodeTip">原手机号不能接收验证码，请联系客服进行修改绑定</string>
+    <string name="unbound">未绑定</string>
+    <string name="underway">进行中</string>
+    <string name="undone">已撤销</string>
+    <string name="unionpay">银联</string>
+    <string name="unionpay_account">银行卡帐号</string>
+    <string name="unionpay_accountTip">请输入银行卡号</string>
+    <string name="unionpay_accountTip2">请再次输入银行卡号</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="unlimited">不限</string>
+    <string name="unverified">未认证</string>
+    <string name="up_announcement">涨幅榜</string>
+    <string name="up_app">\n哎呦！APP升级啦！\n建议您尽快升级最新版本，不升级将可能会影响您的使用体验以及资金安全！</string>
+    <string name="up_appeal">请在付款半小时后再发起申诉</string>
+    <string name="up_picture">请确认已填写所有信息且已上传所有图片</string>
+    <string name="up_shelf">上架</string>
+    <string name="up_you_picture">拍摄上传您的身份证照片</string>
+    <string name="usable">可用：</string>
+    <string name="usdt_account">USDT账户</string>
+    <string name="use_money">已用保证金</string>
+    <string name="use_money_dissatisfy">可用余额不足！</string>
+    <string name="username">账号</string>
+    <string name="username_login">账号</string>
+    <string name="username_shuru">请输入手机号/邮箱</string>
+    <string name="username_shuru_login">请输入手机号/邮箱</string>
+    <string name="username_shuru_regist">请输入手机号</string>
+    <string name="vendibility">可卖：</string>
+    <string name="verification">已认证</string>
+    <string name="versionUpdateTip">暂无最新版本，无需更新</string>
+    <string name="versionUpdateTip2">是否立即开始更新？</string>
+    <string name="versionUpdateTip3">下载地址不存在!</string>
+    <string name="versionUpdateTip4">正在下载</string>
+    <string name="versionUpdateTip5">玩命下载中...</string>
+    <string name="vote">投票</string>
+    <string name="weChat_binding">微信绑定</string>
+    <string name="web_share">分享</string>
+    <string name="web_tv1">全球比特币交易平台</string>
+    <string name="web_tv2">全球数字资产交易平台</string>
+    <string name="web_url">BIZZAN6.COM</string>
+    <string name="wechat">微信</string>
+    <string name="weichat_account">微信账号</string>
+    <string name="weixinkefu">微信客服</string>
+    <string name="welcome_to">欢迎来到BIZZAN</string>
+    <string name="withdrawal">提现</string>
+    <string name="withdrawcode_in">提现码充值</string>
+    <string name="withdrawcode_out">提现码提现</string>
+    <string name="xieyi">未勾选同意用户协议</string>
+    <string name="yes">是</string>
+    <string name="yes_zhanghao">已有BIZZAN帐号</string>
+    <string name="zhang">张</string>
+</resources>

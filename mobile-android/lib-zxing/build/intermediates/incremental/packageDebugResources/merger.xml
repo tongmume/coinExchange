@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res"/><source path="D:\bizzanExchange\mobile-android\lib-zxing\build\generated\res\rs\debug"/><source path="D:\bizzanExchange\mobile-android\lib-zxing\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res"><file name="scan_light" path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\drawable\scan_light.png" qualifiers="" type="drawable"/><file name="camera" path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\layout\camera.xml" qualifiers="" type="layout"/><file name="fragment_capture" path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\layout\fragment_capture.xml" qualifiers="" type="layout"/><file name="beep" path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ViewfinderView">
+        <attr format="dimension" name="inner_width"/>
+        <attr format="dimension" name="inner_height"/>
+        <attr format="dimension" name="inner_margintop"/>
+        <attr format="color" name="inner_corner_color"/>
+        <attr format="dimension" name="inner_corner_length"/>
+        <attr format="dimension" name="inner_corner_width"/>
+        <attr format="reference" name="inner_scan_bitmap"/>
+        <attr format="integer" name="inner_scan_speed"/>
+        <attr format="boolean" name="inner_scan_iscircle"/>
+    </declare-styleable></file><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values\colors.xml" qualifiers=""><color name="cc">#59A9FF</color><color name="bg_color">#EDEDED</color><color name="possible_result_points">#c0ffff00</color><color name="result_view">#b0000000</color><color name="transparent">#00000000</color><color name="viewfinder_mask">#60000000</color><color name="grgray">#686868</color></file><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values\ids.xml" qualifiers=""><item name="auto_focus" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/></file><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Lib-zxing</string></file><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+    </style></file><file path="D:\bizzanExchange\mobile-android\lib-zxing\src\main\res\values-en\strings.xml" qualifiers="en"><string name="app_name">Lib-zxing</string></file></source><source path="D:\bizzanExchange\mobile-android\lib-zxing\build\generated\res\rs\debug"/><source path="D:\bizzanExchange\mobile-android\lib-zxing\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\bizzanExchange\mobile-android\lib-zxing\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\bizzanExchange\mobile-android\lib-zxing\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ViewfinderView">
+        <attr format="dimension" name="inner_width"/>
+        <attr format="dimension" name="inner_height"/>
+        <attr format="dimension" name="inner_margintop"/>
+        <attr format="color" name="inner_corner_color"/>
+        <attr format="dimension" name="inner_corner_length"/>
+        <attr format="dimension" name="inner_corner_width"/>
+        <attr format="reference" name="inner_scan_bitmap"/>
+        <attr format="integer" name="inner_scan_speed"/>
+        <attr format="boolean" name="inner_scan_iscircle"/>
+    </declare-styleable></configuration></mergedItems></merger>

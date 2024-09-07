@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fgh_mask_bottom">上下滑动控制游戏</string>
+    <string name="fgh_mask_top_pull">下拉开始游戏!</string>
+    <string name="fgh_mask_top_release">释放立刻开始!</string>
+    <string name="fgh_text_game_over">游戏结束</string>
+    <string name="fgh_text_loading">玩个游戏解解闷</string>
+    <string name="fgh_text_loading_failed">刷新失败</string>
+    <string name="fgh_text_loading_finish">刷新完成</string>
+    <string name="loading_default_messsage">请稍等…</string>
+    <string name="permission_cancel">取消</string>
+    <string name="permission_message_permission_failed">我们需要的一些权限被您拒绝或者系统发生错误申请失败，请您到设置页面手动授权，否则功能无法正常使用！</string>
+    <string name="permission_message_permission_rationale">您已经拒绝过我们申请授权，请您同意授权，否则功能无法正常使用！</string>
+    <string name="permission_resume">继续</string>
+    <string name="permission_setting">去设置</string>
+    <string name="permission_title_permission_failed">权限申请失败</string>
+    <string name="permission_title_permission_rationale">权限已被拒绝</string>
+    <string name="recycler_swipe_click_load_more">点击加载更多</string>
+    <string name="recycler_swipe_data_empty">暂时没有数据</string>
+    <string name="recycler_swipe_load_error">加载出错啦，请稍后重试</string>
+    <string name="recycler_swipe_load_more_message">正在加载更多数据，请稍后</string>
+    <string name="recycler_swipe_more_not">没有更多数据啦</string>
+    <string formatted="false" name="srl_component_falsify">%s 虚假区域\n代表运行时拖动的高度【%.1fdp】 \n而不会显示任何东西</string>
+    <string name="srl_content_empty">SmartRefreshLayout中没有找到内容视图。您是否忘记在xml布局文件中添加？</string>
+    <string name="srl_footer_failed">加载失败</string>
+    <string name="srl_footer_finish">加载完成</string>
+    <string name="srl_footer_loading">正在加载…</string>
+    <string name="srl_footer_nothing">没有更多数据了</string>
+    <string name="srl_footer_pulling">上拉加载更多</string>
+    <string name="srl_footer_refreshing">等待头部刷新完成…</string>
+    <string name="srl_footer_release">释放立即加载</string>
+    <string name="srl_header_failed">刷新失败</string>
+    <string name="srl_header_finish">刷新完成</string>
+    <string name="srl_header_loading">等待底部加载完成…</string>
+    <string name="srl_header_pulling">下拉可以刷新</string>
+    <string name="srl_header_refreshing">正在刷新…</string>
+    <string name="srl_header_release">释放立即刷新</string>
+    <string name="srl_header_secondary">释放进入二楼</string>
+    <string name="srl_header_update">上次更新 M-d HH:mm</string>
+</resources>

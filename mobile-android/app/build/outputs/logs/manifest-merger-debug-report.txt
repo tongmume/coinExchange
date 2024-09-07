@@ -1,0 +1,860 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+MERGED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:MPChartLib] D:\bizzanExchange\mobile-android\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7b842e7eb855e107750dbaeaf2359553\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\20a170a2a1992e0c471b0a42b84ff341\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.gyf.barlibrary:barlibrary:2.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\69581a5c787efc6d708d3b52fec0ba0b\barlibrary-2.3.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.arcadefire:nice-spinner:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1e15b5cd9e749a88e8d3f4ebc5ed3029\nice-spinner-1.3.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.sunfusheng:marqueeview:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\324d3175aba7def88ae9dc1554fd012c\marqueeview-1.3.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f36ddbcf41a2680339d53731621a0106\bubbleseekbar-3.20\AndroidManifest.xml:2:1-13:12
+MERGED from [com.yanzhenjie.alertdialog:alertdialog:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\85c99b24880da45924fd5605c4c8a597\alertdialog-1.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51a1613f31dbd4a0aea45c7e9d606df1\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fd47ef068a1d3ab328427df2e8399bb\tkrefreshlayout-1.0.7\AndroidManifest.xml:2:1-17:12
+MERGED from [com.yanzhenjie:recyclerview-swipe:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\719c4447d08c03b5876499d548885665\recyclerview-swipe-1.1.4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3009758e21a6844dfa5c4510cfe038c1\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\557088c2261856844df2ba6e611dbac5\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86aefc45daf6d1a6f0ff650021fe1653\butterknife-8.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.geetest.sensebot:sensebot:4.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a67aab21495bdb91486c9a7c24d7ae7d\sensebot-4.2.4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cac029ed3447b4ae3453f8ffa3b29aa7\banner-1.4.10\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.34] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55d76807345db75fce1af1ec38585179\BaseRecyclerViewAdapterHelper-2.9.34\AndroidManifest.xml:2:1-11:12
+MERGED from [com.kyleduo.switchbutton:library:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b48c3a4c2e5c79571825952afd14604e\library-2.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:2:1-24:12
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ddac46819fd8b46017c55d79b6cf69a\xutils-3.5.0\AndroidManifest.xml:2:1-14:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\388e272747be12d97e910be500a78153\android-gif-drawable-1.2.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.contrarywind:Android-PickerView:4.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cc21f27568643cf2f660a9168cc60086\Android-PickerView-4.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17f2f1c06c0c4d8c71b83c965de3eea6\multidex-1.0.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7e6bd6211abff08fdfc4267ef95106bd\SmartRefreshLayout-1.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cfac42af3acac01efe55ede3399234b\SmartRefreshHeader-1.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6edf94b06c8bc80072a825db04494b66\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.scwang.smart:refresh-layout-kernel:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b9ae8f22a55aecb2485720a34ee676aa\refresh-layout-kernel-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smart:refresh-header-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c09399d6a8f04490db700d158da9146d\refresh-header-classics-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smart:refresh-footer-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\26e19dbd3a7d21e5d01c1233e3a5e494\refresh-footer-classics-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f8e213dc300c56c8aa88bef6b8a0195\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51fc148e9cea6cacb328c2992e951d38\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\337bcbe586b7a755273d16e109e99fc6\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ec250f8c49d030ce1966ce2dfb6f3c5\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5d468c38932705b442c5be63b0b94007\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2629028ecffcefb9e04c69d31e8e1d66\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbd3c7455b3aa54cd0b987220ece041f\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8a4ca24ca71d71a2e012ccc6cf2d3dcf\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b9a25e8f8f561ce2e2e61534609e2da\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de8523927ea8de1c8f81175d0a135fc8\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\83e36bffbe03cec926bd6f4f5be20afb\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65844fc45628f311cf6077c433f6077c\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86afd91c072b3060890cee72416f9f8d\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c9a362122cccd459afbce2aedd56870\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a48b0f68c2d1e38589135f2139a360d7\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\570f380f669baa59f32226e888be52bf\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1a96b9c15381d7035b15616a15d8cdb0\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b311143dc2c62f3cfa82e637e46d679c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89479e1d088e69d2b55ae396773e8d3c\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9acfb15e1e7f8c0bb8de58ed687d3df4\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a849a6b062952ad034a25d10fe4312c7\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eaf6150f79595cb1b380b24e7b7118e1\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de233ea1ae040b9f388d2e46289b6290\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9baf189892bdcd71960ed5fbd866316b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\40227f4ed696287ec96b7c1f9aaf7636\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eef90b9a0443c52f697f2befd53a32d3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yanzhenjie:loading:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22aabf860f6031f6e5064bab74b32418\loading-1.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\245b1cbe478768ce244a6a9fa1b765fe\wheelview-4.0.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smart:refresh-drawable-paint:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\24b68d89f844b7d649ad0a61b32d0aaa\refresh-drawable-paint-2.0.1\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+	package
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:1-232:12
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:11:5-67
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:7:5-76
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:13:5-76
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:12:5-79
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:13:22-80
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:17:22-65
+application
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:20:5-230:19
+MERGED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-16:19
+MERGED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-16:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7b842e7eb855e107750dbaeaf2359553\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7b842e7eb855e107750dbaeaf2359553\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\20a170a2a1992e0c471b0a42b84ff341\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\20a170a2a1992e0c471b0a42b84ff341\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.arcadefire:nice-spinner:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1e15b5cd9e749a88e8d3f4ebc5ed3029\nice-spinner-1.3.1\AndroidManifest.xml:9:5-47
+MERGED from [com.github.arcadefire:nice-spinner:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1e15b5cd9e749a88e8d3f4ebc5ed3029\nice-spinner-1.3.1\AndroidManifest.xml:9:5-47
+MERGED from [com.sunfusheng:marqueeview:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\324d3175aba7def88ae9dc1554fd012c\marqueeview-1.3.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.sunfusheng:marqueeview:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\324d3175aba7def88ae9dc1554fd012c\marqueeview-1.3.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f36ddbcf41a2680339d53731621a0106\bubbleseekbar-3.20\AndroidManifest.xml:11:5-20
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f36ddbcf41a2680339d53731621a0106\bubbleseekbar-3.20\AndroidManifest.xml:11:5-20
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fd47ef068a1d3ab328427df2e8399bb\tkrefreshlayout-1.0.7\AndroidManifest.xml:11:5-15:19
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fd47ef068a1d3ab328427df2e8399bb\tkrefreshlayout-1.0.7\AndroidManifest.xml:11:5-15:19
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:15:5-22:19
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:15:5-22:19
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ddac46819fd8b46017c55d79b6cf69a\xutils-3.5.0\AndroidManifest.xml:12:5-20
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ddac46819fd8b46017c55d79b6cf69a\xutils-3.5.0\AndroidManifest.xml:12:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7e6bd6211abff08fdfc4267ef95106bd\SmartRefreshLayout-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7e6bd6211abff08fdfc4267ef95106bd\SmartRefreshLayout-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cfac42af3acac01efe55ede3399234b\SmartRefreshHeader-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cfac42af3acac01efe55ede3399234b\SmartRefreshHeader-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\570f380f669baa59f32226e888be52bf\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\570f380f669baa59f32226e888be52bf\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\245b1cbe478768ce244a6a9fa1b765fe\wheelview-4.0.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\245b1cbe478768ce244a6a9fa1b765fe\wheelview-4.0.6\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:27:9-47
+	android:largeHeap
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:25:9-33
+	android:icon
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:23:9-42
+	android:allowBackup
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:29:9-60
+	android:networkSecurityConfig
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:21:9-42
+activity#com.bizzan.ui.home.SearchCurrencyActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:30:9-34:58
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:33:13-49
+	android:windowSoftInputMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:34:13-55
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:31:13-59
+activity#com.bizzan.ui.activity.MyAttendActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:35:9-38:58
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:36:13-57
+activity#com.bizzan.ui.activity.DetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:39:9-43:58
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:42:13-49
+	android:windowSoftInputMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:43:13-55
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:41:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:40:13-55
+activity#com.bizzan.ui.activity.ActivityList
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:44:9-47:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:47:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:45:13-53
+activity#com.bizzan.ui.wallet.SelectCoinActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:51:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:50:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:49:13-57
+activity#com.bizzan.ui.wallet.SelectAccountActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:55:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:54:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:53:13-60
+activity#com.bizzan.ui.wallet.WalletListActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:59:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:58:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:57:13-57
+provider#android.support.v4.content.FileProvider
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:61:9-70:20
+	android:grantUriPermissions
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:66:13-47
+	android:enabled
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:64:13-35
+	android:authorities
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:63:13-62
+	android:exported
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:62:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:67:13-69:54
+	android:resource
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:69:17-51
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:68:17-67
+meta-data#UMENG_APPKEY
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:71:9-73:56
+	android:value
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:72:13-40
+activity#com.bizzan.ui.home.MainActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:75:9-79:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:79:13-49
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:78:13-44
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:77:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:76:13-49
+activity#com.bizzan.ui.login.LoginActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:80:9-84:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:84:13-49
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:83:13-44
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:82:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:81:13-51
+activity#com.bizzan.ui.common.LeadActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:88:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:87:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:86:13-51
+activity#com.bizzan.ui.common.PermissionActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:92:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:91:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:90:13-57
+activity#com.bizzan.ui.common.StartActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:93:9-103:20
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:97:13-49
+	android:hardwareAccelerated
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:96:13-47
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:95:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:94:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:98:13-102:29
+action#android.intent.action.MAIN
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:99:17-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:99:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:101:17-77
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:101:27-74
+activity#com.bizzan.ui.kline.KlineActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:104:9-107:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:107:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:106:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:105:13-51
+activity#com.bizzan.ui.signup.SignUpActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:108:9-112:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:112:13-49
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:111:13-44
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:110:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:109:13-53
+activity#com.bizzan.ui.forgot_pwd.ForgotPwdActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:113:9-116:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:116:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:115:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:114:13-60
+activity#com.bizzan.ui.myinfo.MyInfoActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:117:9-121:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:121:13-49
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:120:13-44
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:119:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:118:13-53
+activity#com.bizzan.ui.wallet.WalletActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:122:9-125:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:125:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:124:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:123:13-53
+activity#com.bizzan.ui.wallet_detail.WalletDetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:126:9-129:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:129:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:128:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:127:13-66
+activity#com.bizzan.ui.my_order.MyOrderActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:130:9-133:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:132:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:131:13-56
+activity#com.bizzan.ui.my_ads.AdsActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:134:9-137:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:137:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:136:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:135:13-50
+activity#com.bizzan.ui.message.MessageActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:138:9-141:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:141:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:140:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:139:13-55
+activity#com.bizzan.ui.credit.CreditActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:142:9-145:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:145:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:144:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:143:13-53
+activity#com.bizzan.ui.setting.SettingActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:146:9-149:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:149:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:148:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:147:13-55
+activity#com.bizzan.ui.feed.FeedbackActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:153:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:152:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:151:13-53
+activity#com.bizzan.ui.aboutus.AboutUsActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:154:9-157:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:157:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:156:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:155:13-55
+activity#com.bizzan.ui.releaseAd.ReleaseAdsActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:158:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:158:19-66
+activity#com.bizzan.ui.country.CountryActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:159:9-64
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:159:19-61
+activity#com.bizzan.ui.account_pwd.AccountPwdActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:160:9-71
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:160:19-68
+activity#com.bizzan.ui.buy_or_sell.C2CBuyOrSellActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:161:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:161:19-70
+activity#com.bizzan.ui.recharge.RechargeActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:162:9-66
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:162:19-63
+activity#com.bizzan.ui.extract.ExtractActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:163:9-64
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:163:19-61
+activity#com.bizzan.ui.ctc.CTCActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:164:9-56
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:164:19-53
+activity#com.bizzan.ui.ctc.CTCOrderDetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:165:9-67
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:165:19-64
+activity#com.bizzan.ui.extract.AddressActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:166:9-64
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:166:19-61
+activity#com.bizzan.ui.bind_phone.BindPhoneActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:167:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:167:19-66
+activity#com.bizzan.ui.bind_email.BindEmailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:168:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:168:19-66
+activity#com.bizzan.ui.bind_email.EmailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:169:9-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:169:19-62
+activity#com.bizzan.ui.edit_login_pwd.EditLoginPwdActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:170:9-76
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:170:19-73
+activity#com.bizzan.ui.bind_phone.PhoneActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:171:9-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:171:19-62
+activity#com.bizzan.ui.change_phone.ChangePhoneActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:172:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:172:19-70
+activity#com.bizzan.ui.change_phone.ChangeLeadActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:173:9-72
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:173:19-69
+activity#com.bizzan.ui.message_detail.MessageDetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:174:9-77
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:174:19-74
+activity#com.bizzan.ui.lock.LockActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:175:9-58
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:175:19-55
+activity#com.bizzan.ui.set_lock.SetLockActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:176:9-178:47
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:178:13-44
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:177:13-56
+activity#com.bizzan.ui.order_detail.OrderDetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:179:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:179:19-70
+activity#com.bizzan.ui.appeal.AppealActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:180:9-62
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:180:19-59
+activity#com.bizzan.ui.account_pwd.EditAccountPwdActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:181:9-75
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:181:19-72
+activity#com.bizzan.ui.account_pwd.ResetAccountPwdActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:182:9-76
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:182:19-73
+activity#com.bizzan.ui.chatlist.ChatListActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:183:9-66
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:183:19-63
+activity#com.bizzan.ui.chat.ChatActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:184:9-58
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:184:19-55
+activity#com.bizzan.ui.entrust.TrustListActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:185:9-66
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:185:19-63
+activity#com.bizzan.ui.entrust.TrustListConstractActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:186:9-75
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:186:19-72
+activity#com.bizzan.ui.entrust.TrustlistconstractdataActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:187:9-79
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:187:19-76
+activity#com.bizzan.ui.entrust.TrustDetailActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:188:9-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:188:19-65
+activity#com.bizzan.ui.myEntrust.MyEntrustActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:189:9-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:189:19-65
+activity#com.bizzan.ui.bind_account.BindAccountActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:190:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:190:19-70
+activity#com.bizzan.ui.bind_account.BindAliActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:191:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:191:19-66
+activity#com.bizzan.ui.bind_account.BindBankActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:192:9-70
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:192:19-67
+activity#com.bizzan.ui.bind_account.BindWeiChatActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:193:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:193:19-70
+activity#com.bizzan.ui.aboutus.AboutJianJieActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:194:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:194:19-66
+activity#com.bizzan.ui.aboutus.AboutWeiXinActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:195:9-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:195:19-65
+activity#com.bizzan.ui.wallet.ChongBiJLActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:196:9-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:196:19-62
+activity#com.bizzan.ui.wallet.TiBiJLActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:197:9-62
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:197:19-59
+activity#com.bizzan.ui.setting.GongGaoActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:198:9-64
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:198:19-61
+activity#com.bizzan.ui.setting.HelpActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:199:9-61
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:199:19-58
+activity#com.bizzan.ui.message_detail.MessageHelpActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:200:9-75
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:200:19-72
+activity#com.bizzan.ui.setting.HelpXinShouActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:201:9-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:201:19-65
+activity#com.bizzan.ui.setting.HelpChangjianActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:202:9-70
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:202:19-67
+activity#com.bizzan.ui.setting.HelpJiaoyiActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:203:9-67
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:203:19-64
+activity#com.bizzan.ui.setting.HelpBizhongActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:204:9-68
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:204:19-65
+activity#com.bizzan.ui.setting.HelpHangqingActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:205:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:205:19-66
+activity#com.bizzan.ui.setting.HelpTiaokuanActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:206:9-69
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:206:19-66
+activity#com.bizzan.ui.setting.HelpQitaActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:207:9-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:207:19-62
+activity#com.bizzan.ui.credit.CreditInfoActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:208:9-66
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:208:19-63
+activity#com.bizzan.ui.seller.SellerApplyActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:209:9-67
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:209:19-64
+activity#com.bizzan.ui.seller.SellerApplyCommitActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:210:9-73
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:210:19-70
+activity#com.bizzan.ui.aboutus.AddUrlActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:211:9-63
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:211:19-60
+activity#com.bizzan.ui.common.ActivityShowFragment
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:212:9-215:52
+	android:screenOrientation
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:215:13-49
+	android:configChanges
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:214:13-59
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:213:13-59
+activity#com.bizzan.ui.wallet.OverturnActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:216:9-218:47
+	android:launchMode
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:218:13-44
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:217:13-55
+activity#com.bizzan.ui.setting.LanguageActivity
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:219:9-65
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:219:19-62
+service#com.bizzan.serivce.MyService
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:221:9-54
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:221:18-51
+service#com.bizzan.serivce.MyTextService
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:222:9-58
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:222:18-55
+service#com.bizzan.serivce.MyTextService_contract
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:223:9-67
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:223:18-64
+receiver#com.maiml.updatelibrary.receiver.InstallReceiver
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:225:9-229:20
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:225:19-82
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:226:13-228:29
+	android:priority
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:226:28-49
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:227:17-82
+	android:name
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml:227:25-79
+uses-sdk
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+MERGED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:MPChartLib] D:\bizzanExchange\mobile-android\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-43
+MERGED from [:MPChartLib] D:\bizzanExchange\mobile-android\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7b842e7eb855e107750dbaeaf2359553\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7b842e7eb855e107750dbaeaf2359553\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\20a170a2a1992e0c471b0a42b84ff341\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\20a170a2a1992e0c471b0a42b84ff341\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.gyf.barlibrary:barlibrary:2.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\69581a5c787efc6d708d3b52fec0ba0b\barlibrary-2.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.gyf.barlibrary:barlibrary:2.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\69581a5c787efc6d708d3b52fec0ba0b\barlibrary-2.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1e15b5cd9e749a88e8d3f4ebc5ed3029\nice-spinner-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.arcadefire:nice-spinner:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1e15b5cd9e749a88e8d3f4ebc5ed3029\nice-spinner-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.sunfusheng:marqueeview:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\324d3175aba7def88ae9dc1554fd012c\marqueeview-1.3.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunfusheng:marqueeview:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\324d3175aba7def88ae9dc1554fd012c\marqueeview-1.3.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f36ddbcf41a2680339d53731621a0106\bubbleseekbar-3.20\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f36ddbcf41a2680339d53731621a0106\bubbleseekbar-3.20\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanzhenjie.alertdialog:alertdialog:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\85c99b24880da45924fd5605c4c8a597\alertdialog-1.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.yanzhenjie.alertdialog:alertdialog:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\85c99b24880da45924fd5605c4c8a597\alertdialog-1.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51a1613f31dbd4a0aea45c7e9d606df1\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51a1613f31dbd4a0aea45c7e9d606df1\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fd47ef068a1d3ab328427df2e8399bb\tkrefreshlayout-1.0.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fd47ef068a1d3ab328427df2e8399bb\tkrefreshlayout-1.0.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanzhenjie:recyclerview-swipe:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\719c4447d08c03b5876499d548885665\recyclerview-swipe-1.1.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.yanzhenjie:recyclerview-swipe:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\719c4447d08c03b5876499d548885665\recyclerview-swipe-1.1.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3009758e21a6844dfa5c4510cfe038c1\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3009758e21a6844dfa5c4510cfe038c1\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\557088c2261856844df2ba6e611dbac5\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\557088c2261856844df2ba6e611dbac5\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86aefc45daf6d1a6f0ff650021fe1653\butterknife-8.8.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86aefc45daf6d1a6f0ff650021fe1653\butterknife-8.8.1\AndroidManifest.xml:5:5-43
+MERGED from [com.geetest.sensebot:sensebot:4.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a67aab21495bdb91486c9a7c24d7ae7d\sensebot-4.2.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.geetest.sensebot:sensebot:4.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a67aab21495bdb91486c9a7c24d7ae7d\sensebot-4.2.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cac029ed3447b4ae3453f8ffa3b29aa7\banner-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cac029ed3447b4ae3453f8ffa3b29aa7\banner-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.34] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55d76807345db75fce1af1ec38585179\BaseRecyclerViewAdapterHelper-2.9.34\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.34] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55d76807345db75fce1af1ec38585179\BaseRecyclerViewAdapterHelper-2.9.34\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyleduo.switchbutton:library:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b48c3a4c2e5c79571825952afd14604e\library-2.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kyleduo.switchbutton:library:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b48c3a4c2e5c79571825952afd14604e\library-2.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ddac46819fd8b46017c55d79b6cf69a\xutils-3.5.0\AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1ddac46819fd8b46017c55d79b6cf69a\xutils-3.5.0\AndroidManifest.xml:8:5-10:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\388e272747be12d97e910be500a78153\android-gif-drawable-1.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\388e272747be12d97e910be500a78153\android-gif-drawable-1.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:4.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cc21f27568643cf2f660a9168cc60086\Android-PickerView-4.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:4.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cc21f27568643cf2f660a9168cc60086\Android-PickerView-4.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17f2f1c06c0c4d8c71b83c965de3eea6\multidex-1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17f2f1c06c0c4d8c71b83c965de3eea6\multidex-1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7e6bd6211abff08fdfc4267ef95106bd\SmartRefreshLayout-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7e6bd6211abff08fdfc4267ef95106bd\SmartRefreshLayout-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cfac42af3acac01efe55ede3399234b\SmartRefreshHeader-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cfac42af3acac01efe55ede3399234b\SmartRefreshHeader-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6edf94b06c8bc80072a825db04494b66\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6edf94b06c8bc80072a825db04494b66\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.scwang.smart:refresh-layout-kernel:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b9ae8f22a55aecb2485720a34ee676aa\refresh-layout-kernel-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-layout-kernel:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b9ae8f22a55aecb2485720a34ee676aa\refresh-layout-kernel-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-header-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c09399d6a8f04490db700d158da9146d\refresh-header-classics-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-header-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c09399d6a8f04490db700d158da9146d\refresh-header-classics-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-footer-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\26e19dbd3a7d21e5d01c1233e3a5e494\refresh-footer-classics-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-footer-classics:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\26e19dbd3a7d21e5d01c1233e3a5e494\refresh-footer-classics-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f8e213dc300c56c8aa88bef6b8a0195\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f8e213dc300c56c8aa88bef6b8a0195\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51fc148e9cea6cacb328c2992e951d38\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\51fc148e9cea6cacb328c2992e951d38\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\337bcbe586b7a755273d16e109e99fc6\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\337bcbe586b7a755273d16e109e99fc6\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ec250f8c49d030ce1966ce2dfb6f3c5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ec250f8c49d030ce1966ce2dfb6f3c5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5d468c38932705b442c5be63b0b94007\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5d468c38932705b442c5be63b0b94007\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2629028ecffcefb9e04c69d31e8e1d66\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2629028ecffcefb9e04c69d31e8e1d66\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbd3c7455b3aa54cd0b987220ece041f\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbd3c7455b3aa54cd0b987220ece041f\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8a4ca24ca71d71a2e012ccc6cf2d3dcf\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8a4ca24ca71d71a2e012ccc6cf2d3dcf\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b9a25e8f8f561ce2e2e61534609e2da\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b9a25e8f8f561ce2e2e61534609e2da\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de8523927ea8de1c8f81175d0a135fc8\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de8523927ea8de1c8f81175d0a135fc8\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\83e36bffbe03cec926bd6f4f5be20afb\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\83e36bffbe03cec926bd6f4f5be20afb\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65844fc45628f311cf6077c433f6077c\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65844fc45628f311cf6077c433f6077c\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86afd91c072b3060890cee72416f9f8d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\86afd91c072b3060890cee72416f9f8d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c9a362122cccd459afbce2aedd56870\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c9a362122cccd459afbce2aedd56870\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a48b0f68c2d1e38589135f2139a360d7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a48b0f68c2d1e38589135f2139a360d7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\570f380f669baa59f32226e888be52bf\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\570f380f669baa59f32226e888be52bf\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1a96b9c15381d7035b15616a15d8cdb0\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1a96b9c15381d7035b15616a15d8cdb0\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b311143dc2c62f3cfa82e637e46d679c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b311143dc2c62f3cfa82e637e46d679c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89479e1d088e69d2b55ae396773e8d3c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89479e1d088e69d2b55ae396773e8d3c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9acfb15e1e7f8c0bb8de58ed687d3df4\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9acfb15e1e7f8c0bb8de58ed687d3df4\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a849a6b062952ad034a25d10fe4312c7\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a849a6b062952ad034a25d10fe4312c7\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eaf6150f79595cb1b380b24e7b7118e1\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eaf6150f79595cb1b380b24e7b7118e1\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de233ea1ae040b9f388d2e46289b6290\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\de233ea1ae040b9f388d2e46289b6290\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9baf189892bdcd71960ed5fbd866316b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9baf189892bdcd71960ed5fbd866316b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\40227f4ed696287ec96b7c1f9aaf7636\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\40227f4ed696287ec96b7c1f9aaf7636\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eef90b9a0443c52f697f2befd53a32d3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eef90b9a0443c52f697f2befd53a32d3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.yanzhenjie:loading:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22aabf860f6031f6e5064bab74b32418\loading-1.0.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.yanzhenjie:loading:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22aabf860f6031f6e5064bab74b32418\loading-1.0.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\245b1cbe478768ce244a6a9fa1b765fe\wheelview-4.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\245b1cbe478768ce244a6a9fa1b765fe\wheelview-4.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-drawable-paint:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\24b68d89f844b7d649ad0a61b32d0aaa\refresh-drawable-paint-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smart:refresh-drawable-paint:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\24b68d89f844b7d649ad0a61b32d0aaa\refresh-drawable-paint-2.0.1\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\app\src\main\AndroidManifest.xml
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-15:63
+	android:screenOrientation
+		ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-49
+	android:windowSoftInputMode
+		ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+	android:configChanges
+		ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-63
+	android:theme
+		ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [:lib-zxing] D:\bizzanExchange\mobile-android\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-74
+activity#com.yanzhenjie.permission.PermissionActivity
+ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:25:9-30:75
+	android:launchMode
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:28:13-42
+	android:windowSoftInputMode
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:30:13-72
+	android:configChanges
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f2088a141dda55d95a1f7bcb4b69dedb\permission-1.1.0\AndroidManifest.xml:26:13-72
+activity#com.tencent.captchasdk.TCaptchaPopupActivity
+ADDED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:16:9-21:20
+	android:exported
+		ADDED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:18:13-74
+	android:theme
+		ADDED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from [:captchasdk-release-1.0.2:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\49e7796730dbe014129399071824db27\captchasdk-release-1.0.2\AndroidManifest.xml:17:13-72

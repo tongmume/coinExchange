@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bizzan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".app.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_cm_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network"
+        android:roundIcon="@mipmap/ic_cm_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.StartingWindowTheme">
+        <activity
+            android:name=".ui.home.SearchCurrencyActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".ui.activity.MyAttendActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".ui.activity.DetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".ui.activity.ActivityList"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet.SelectCoinActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet.SelectAccountActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet.WalletListActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.bizzan.app.fileprovider"
+            android:enabled="true"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider> <!-- Umeng -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5d676f05570df3627e00086c" />
+
+        <activity
+            android:name=".ui.home.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:configChanges="orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.common.LeadActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.common.PermissionActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.common.StartActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.kline.KlineActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.signup.SignUpActivity"
+            android:configChanges="orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.forgot_pwd.ForgotPwdActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.myinfo.MyInfoActivity"
+            android:configChanges="orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet.WalletActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet_detail.WalletDetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.my_order.MyOrderActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.my_ads.AdsActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.message.MessageActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.credit.CreditActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.setting.SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.feed.FeedbackActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.aboutus.AboutUsActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.releaseAd.ReleaseAdsActivity" />
+        <activity android:name=".ui.country.CountryActivity" />
+        <activity android:name=".ui.account_pwd.AccountPwdActivity" />
+        <activity android:name=".ui.buy_or_sell.C2CBuyOrSellActivity" />
+        <activity android:name=".ui.recharge.RechargeActivity" />
+        <activity android:name=".ui.extract.ExtractActivity" />
+        <activity android:name=".ui.ctc.CTCActivity" />
+        <activity android:name=".ui.ctc.CTCOrderDetailActivity" />
+        <activity android:name=".ui.extract.AddressActivity" />
+        <activity android:name=".ui.bind_phone.BindPhoneActivity" />
+        <activity android:name=".ui.bind_email.BindEmailActivity" />
+        <activity android:name=".ui.bind_email.EmailActivity" />
+        <activity android:name=".ui.edit_login_pwd.EditLoginPwdActivity" />
+        <activity android:name=".ui.bind_phone.PhoneActivity" />
+        <activity android:name=".ui.change_phone.ChangePhoneActivity" />
+        <activity android:name=".ui.change_phone.ChangeLeadActivity" />
+        <activity android:name=".ui.message_detail.MessageDetailActivity" />
+        <activity android:name=".ui.lock.LockActivity" />
+        <activity
+            android:name=".ui.set_lock.SetLockActivity"
+            android:launchMode="singleTask" />
+        <activity android:name=".ui.order_detail.OrderDetailActivity" />
+        <activity android:name=".ui.appeal.AppealActivity" />
+        <activity android:name=".ui.account_pwd.EditAccountPwdActivity" />
+        <activity android:name=".ui.account_pwd.ResetAccountPwdActivity" />
+        <activity android:name=".ui.chatlist.ChatListActivity" />
+        <activity android:name=".ui.chat.ChatActivity" />
+        <activity android:name=".ui.entrust.TrustListActivity" />
+        <activity android:name=".ui.entrust.TrustListConstractActivity" />
+        <activity android:name=".ui.entrust.TrustlistconstractdataActivity" />
+        <activity android:name=".ui.entrust.TrustDetailActivity" />
+        <activity android:name=".ui.myEntrust.MyEntrustActivity" />
+        <activity android:name=".ui.bind_account.BindAccountActivity" />
+        <activity android:name=".ui.bind_account.BindAliActivity" />
+        <activity android:name=".ui.bind_account.BindBankActivity" />
+        <activity android:name=".ui.bind_account.BindWeiChatActivity" /> <!-- 新加的 -->
+        <activity android:name=".ui.aboutus.AboutJianJieActivity" />
+        <activity android:name=".ui.aboutus.AboutWeiXinActivity" />
+        <activity android:name=".ui.wallet.ChongBiJLActivity" />
+        <activity android:name=".ui.wallet.TiBiJLActivity" />
+        <activity android:name=".ui.setting.GongGaoActivity" />
+        <activity android:name=".ui.setting.HelpActivity" />
+        <activity android:name=".ui.message_detail.MessageHelpActivity" />
+        <activity android:name=".ui.setting.HelpXinShouActivity" />
+        <activity android:name=".ui.setting.HelpChangjianActivity" />
+        <activity android:name=".ui.setting.HelpJiaoyiActivity" />
+        <activity android:name=".ui.setting.HelpBizhongActivity" />
+        <activity android:name=".ui.setting.HelpHangqingActivity" />
+        <activity android:name=".ui.setting.HelpTiaokuanActivity" />
+        <activity android:name=".ui.setting.HelpQitaActivity" />
+        <activity android:name=".ui.credit.CreditInfoActivity" />
+        <activity android:name=".ui.seller.SellerApplyActivity" />
+        <activity android:name=".ui.seller.SellerApplyCommitActivity" />
+        <activity android:name=".ui.aboutus.AddUrlActivity" />
+        <activity
+            android:name=".ui.common.ActivityShowFragment"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.wallet.OverturnActivity"
+            android:launchMode="singleTask" />
+        <activity android:name=".ui.setting.LanguageActivity" />
+
+        <service android:name=".serivce.MyService" />
+        <service android:name=".serivce.MyTextService" />
+        <service android:name=".serivce.MyTextService_contract" />
+
+        <receiver android:name="com.maiml.updatelibrary.receiver.InstallReceiver">
+            <intent-filter android:priority="20">
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

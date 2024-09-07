@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ApplyBusinessViewController">
+            <connections>
+                <outlet property="Applybutton" destination="Kys-Rf-OxQ" id="7JU-US-dqa"/>
+                <outlet property="agreebutton" destination="Rbs-OV-kue" id="lfn-Cj-RHI"/>
+                <outlet property="agreementButton" destination="o3L-zP-UMO" id="Oby-zh-YLt"/>
+                <outlet property="pagecontrol" destination="4wl-bj-rks" id="rrW-7Y-2g1"/>
+                <outlet property="scrollview" destination="xSl-ye-bqV" id="Q3b-HN-DSF"/>
+                <outlet property="titlelabel" destination="u4q-D7-stG" id="TlG-Jd-caO"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="申请成为商家" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="u4q-D7-stG">
+                    <rect key="frame" x="126.5" y="40" width="122.5" height="24"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <color key="textColor" red="0.90196078431372551" green="0.90196078431372551" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xSl-ye-bqV">
+                    <rect key="frame" x="0.0" y="117" width="375" height="300"/>
+                    <color key="backgroundColor" red="0.070588235289999995" green="0.086274509799999996" blue="0.10980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="xSl-ye-bqV" secondAttribute="height" multiplier="1:0.8" id="DOE-OX-5aU"/>
+                    </constraints>
+                </scrollView>
+                <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="4wl-bj-rks">
+                    <rect key="frame" x="168" y="437" width="39" height="37"/>
+                    <color key="pageIndicatorTintColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="currentPageIndicatorTintColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </pageControl>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kys-Rf-OxQ">
+                    <rect key="frame" x="37.5" y="588.5" width="300" height="45"/>
+                    <color key="backgroundColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="45" id="6Gf-T2-OoM"/>
+                    </constraints>
+                    <state key="normal" title="立即申请">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <connections>
+                        <action selector="Applyaction:" destination="-1" eventType="touchUpInside" id="nPp-0H-6LS"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rbs-OV-kue">
+                    <rect key="frame" x="103.5" y="557.5" width="112" height="16"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title=" 我已阅读并同意" image="方框">
+                        <color key="titleColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="方框选择"/>
+                    <connections>
+                        <action selector="agreeaction:" destination="-1" eventType="touchUpInside" id="cD0-F2-z9i"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o3L-zP-UMO">
+                    <rect key="frame" x="215.5" y="551.5" width="54" height="28"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="用户协议">
+                        <color key="titleColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="agreementaction:" destination="-1" eventType="touchUpInside" id="HYK-e5-AyH"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.070588235289999995" green="0.086274509799999996" blue="0.10980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="u4q-D7-stG" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="bottom" multiplier="0.06" id="36K-Df-Kd9"/>
+                <constraint firstItem="Rbs-OV-kue" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" multiplier="0.85" id="53l-5H-zOR"/>
+                <constraint firstItem="4wl-bj-rks" firstAttribute="top" secondItem="xSl-ye-bqV" secondAttribute="bottom" constant="20" id="5Po-uA-M4Z"/>
+                <constraint firstItem="xSl-ye-bqV" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" id="6uz-YX-QWr"/>
+                <constraint firstItem="xSl-ye-bqV" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" multiplier="0.8" id="7QY-5h-CoR"/>
+                <constraint firstItem="u4q-D7-stG" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="GDx-SY-dtQ"/>
+                <constraint firstItem="Kys-Rf-OxQ" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="TtF-2K-B0A"/>
+                <constraint firstItem="Kys-Rf-OxQ" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" multiplier="0.8" id="YI1-Wa-C50"/>
+                <constraint firstItem="Kys-Rf-OxQ" firstAttribute="top" secondItem="Rbs-OV-kue" secondAttribute="bottom" constant="15" id="fjx-19-XQj"/>
+                <constraint firstItem="o3L-zP-UMO" firstAttribute="centerY" secondItem="Rbs-OV-kue" secondAttribute="centerY" id="hne-vV-F9z"/>
+                <constraint firstItem="xSl-ye-bqV" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="jBu-jK-bdb"/>
+                <constraint firstItem="o3L-zP-UMO" firstAttribute="leading" secondItem="Rbs-OV-kue" secondAttribute="trailing" id="mMx-mp-wOn"/>
+                <constraint firstItem="Kys-Rf-OxQ" firstAttribute="bottom" secondItem="i5M-Pr-FkT" secondAttribute="bottom" multiplier="0.95" id="ogJ-ww-sx4"/>
+                <constraint firstItem="4wl-bj-rks" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="sqo-jl-vYw"/>
+            </constraints>
+            <point key="canvasLocation" x="132" y="137"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="方框" width="15" height="15"/>
+        <image name="方框选择" width="15" height="15"/>
+    </resources>
+</document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/primaryBackNormal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvRecharge"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/chargeMoney"
+        android:textColor="@color/typeGreen"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+
+    <TextView
+        android:id="@+id/tvExtract"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/mentionMoney"
+        android:textColor="@color/typeRed"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryBackDark" />
+
+
+    <TextView
+        android:textColor="@color/primaryText"
+        android:id="@+id/tvMatch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/matchMoney"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>

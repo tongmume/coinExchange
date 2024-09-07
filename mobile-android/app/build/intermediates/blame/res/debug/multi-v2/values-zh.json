@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\719c4447d08c03b5876499d548885665\\recyclerview-swipe-1.1.4\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,121,182,248,322",
+                        "endColumns": "65,60,65,73,59",
+                        "endOffsets": "116,177,243,317,377"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1003,1069,1130,1196,1270",
+                        "endColumns": "65,60,65,73,59",
+                        "endOffsets": "1064,1125,1191,1265,1325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\6cfac42af3acac01efe55ede3399234b\\SmartRefreshHeader-1.1.0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,219,271,324,381",
+                        "endColumns": "52,53,56,51,52,56,56",
+                        "endOffsets": "103,157,214,266,319,376,433"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\22aabf860f6031f6e5064bab74b32418\\loading-1.0.2\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endColumns": "57",
+                        "endOffsets": "491"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f2088a141dda55d95a1f7bcb4b69dedb\\permission-1.1.0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,219,319,368,419,489",
+                        "endColumns": "48,114,99,48,50,69,72",
+                        "endOffsets": "99,214,314,363,414,484,557"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "496,545,660,760,809,860,930",
+                        "endColumns": "48,114,99,48,50,69,72",
+                        "endOffsets": "540,655,755,804,855,925,998"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\7e6bd6211abff08fdfc4267ef95106bd\\SmartRefreshLayout-1.1.0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,255,306,357,410,465,519,579,633,684,735,792,846,902,956,1012",
+                        "endColumns": "107,91,50,50,52,54,53,59,53,50,50,56,53,55,53,55,60",
+                        "endOffsets": "158,250,301,352,405,460,514,574,628,679,730,787,841,897,951,1007,1068"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1330,1438,1530,1581,1632,1685,1740,1794,1854,1908,1959,2010,2067,2121,2177,2231,2287",
+                        "endColumns": "107,91,50,50,52,54,53,59,53,50,50,56,53,55,53,55,60",
+                        "endOffsets": "1433,1525,1576,1627,1680,1735,1789,1849,1903,1954,2005,2062,2116,2172,2226,2282,2343"
+                    }
+                }
+            ]
+        }
+    ]
+}

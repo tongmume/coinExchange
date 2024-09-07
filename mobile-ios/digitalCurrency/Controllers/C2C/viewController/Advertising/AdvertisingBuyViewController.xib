@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AdvertisingBuyViewController">
+            <connections>
+                <outlet property="bottomViewHeight" destination="VQ9-hx-jJK" id="zgo-QJ-FGF"/>
+                <outlet property="certainButton" destination="LpX-Yy-Y1a" id="xkS-MS-zLX"/>
+                <outlet property="mainTableView" destination="vLm-km-fA7" id="8dO-u2-IlF"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LpX-Yy-Y1a">
+                    <rect key="frame" x="20" y="612" width="335" height="45"/>
+                    <color key="backgroundColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="45" id="zTY-58-oPY"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <state key="normal" title="发布">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="22.5"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="submitBtnClick:" destination="-1" eventType="touchUpInside" id="U63-SG-RiP"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="vLm-km-fA7">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="602"/>
+                    <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="LpX-Yy-Y1a" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="5ox-kH-tmE"/>
+                <constraint firstItem="vLm-km-fA7" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="A6Y-PM-0nb"/>
+                <constraint firstItem="LpX-Yy-Y1a" firstAttribute="top" secondItem="vLm-km-fA7" secondAttribute="bottom" constant="10" id="Db9-Yh-nX7"/>
+                <constraint firstAttribute="bottom" secondItem="LpX-Yy-Y1a" secondAttribute="bottom" constant="10" id="VQ9-hx-jJK"/>
+                <constraint firstItem="vLm-km-fA7" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="ii1-bd-bXC"/>
+                <constraint firstAttribute="trailing" secondItem="vLm-km-fA7" secondAttribute="trailing" id="twg-sF-iPc"/>
+                <constraint firstAttribute="trailing" secondItem="LpX-Yy-Y1a" secondAttribute="trailing" constant="20" id="vCq-3V-zkJ"/>
+            </constraints>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,9 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/home_ziti" android:state_enabled="false"></item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="30dp" />
+            <solid android:color="@color/text_orange" />
+        </shape>
+    </item>
+</selector>

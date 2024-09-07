@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AccountSettingViewController">
+            <connections>
+                <outlet property="bottomViewHeight" destination="0kh-9o-jhL" id="AAK-Wl-hkb"/>
+                <outlet property="tableView" destination="e8n-TR-or4" id="9aI-5Y-apG"/>
+                <outlet property="topHeight" destination="7bt-Sz-JK5" id="ZIM-sw-Hor"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="e8n-TR-or4">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" red="0.070588235294117646" green="0.086274509803921567" blue="0.10980392156862745" alpha="1" colorSpace="calibratedRGB"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.070588235294117646" green="0.086274509803921567" blue="0.10980392156862745" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="e8n-TR-or4" secondAttribute="bottom" id="0kh-9o-jhL"/>
+                <constraint firstItem="e8n-TR-or4" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="7bt-Sz-JK5"/>
+                <constraint firstAttribute="trailing" secondItem="e8n-TR-or4" secondAttribute="trailing" id="9HJ-4m-kXz"/>
+                <constraint firstItem="e8n-TR-or4" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Fdq-pA-MwW"/>
+            </constraints>
+            <point key="canvasLocation" x="-551" y="115"/>
+        </view>
+    </objects>
+</document>

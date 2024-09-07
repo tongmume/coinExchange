@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:minHeight="32dp"
+
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/item_time_one"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/item_time"
+        android:textColor="@color/colorTextNormal"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/item_time_two"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/item_time"
+        android:textColor="@color/colorTextNormal"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/item_time_three"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/item_time"
+        android:textColor="@color/colorTextNormal"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/item_time_four"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/item_time"
+        android:textColor="@color/colorTextNormal"
+        android:textSize="13sp" />
+</LinearLayout>

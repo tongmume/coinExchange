@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MyEntrustDetailViewController">
+            <connections>
+                <outlet property="bottomViewHeight" destination="lPj-33-sYP" id="dmO-Ck-UOO"/>
+                <outlet property="tableView" destination="oJs-EI-eOM" id="Ayi-Mt-nAY"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="oJs-EI-eOM">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.93725490570000003" green="0.93725490570000003" blue="0.95686274770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="oJs-EI-eOM" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="L1J-X5-h8v"/>
+                <constraint firstAttribute="trailing" secondItem="oJs-EI-eOM" secondAttribute="trailing" id="Rao-3Y-GMh"/>
+                <constraint firstItem="oJs-EI-eOM" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Yfw-ya-syn"/>
+                <constraint firstAttribute="bottom" secondItem="oJs-EI-eOM" secondAttribute="bottom" id="lPj-33-sYP"/>
+            </constraints>
+            <point key="canvasLocation" x="78.5" y="161.5"/>
+        </view>
+    </objects>
+</document>

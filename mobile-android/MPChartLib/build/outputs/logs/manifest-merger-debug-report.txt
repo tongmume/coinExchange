@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:11-49
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+	android:versionCode
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml:2:1-13:12
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+		ADDED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml
+		INJECTED from D:\bizzanExchange\mobile-android\MPChartLib\AndroidManifest.xml

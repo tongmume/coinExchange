@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="230" id="KGk-i7-Jjw" customClass="MyassetsTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="422" height="230"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="422" height="229.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZBu-pF-gCp">
+                        <rect key="frame" x="10.5" y="3" width="401" height="223.5"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="01B-uH-NFg">
+                                <rect key="frame" x="10" y="15" width="3" height="15"/>
+                                <color key="backgroundColor" red="0.94901960780000005" green="0.65098039220000004" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="3" id="N8c-Rb-rjN"/>
+                                    <constraint firstAttribute="height" constant="15" id="VH6-se-aus"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="资产管理" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eS8-GV-61k">
+                                <rect key="frame" x="18" y="14.5" width="53.5" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="10c-kw-qgU">
+                                <rect key="frame" x="10" y="40.5" width="381" height="173"/>
+                                <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="KPe-P3-jjM">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.1215686275" green="0.15686274510000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="01B-uH-NFg" firstAttribute="top" secondItem="ZBu-pF-gCp" secondAttribute="top" constant="15" id="4Lb-km-VeY"/>
+                            <constraint firstAttribute="bottom" secondItem="10c-kw-qgU" secondAttribute="bottom" constant="10" id="6Ek-Qh-voB"/>
+                            <constraint firstItem="10c-kw-qgU" firstAttribute="top" secondItem="eS8-GV-61k" secondAttribute="bottom" constant="10" id="EkW-TP-3eA"/>
+                            <constraint firstItem="eS8-GV-61k" firstAttribute="centerY" secondItem="01B-uH-NFg" secondAttribute="centerY" id="YDU-ow-JES"/>
+                            <constraint firstItem="eS8-GV-61k" firstAttribute="leading" secondItem="01B-uH-NFg" secondAttribute="trailing" constant="5" id="Zxl-Oi-m91"/>
+                            <constraint firstItem="01B-uH-NFg" firstAttribute="leading" secondItem="ZBu-pF-gCp" secondAttribute="leading" constant="10" id="aCr-ay-Bev"/>
+                            <constraint firstItem="10c-kw-qgU" firstAttribute="leading" secondItem="01B-uH-NFg" secondAttribute="leading" id="hMr-6U-lrH"/>
+                            <constraint firstItem="10c-kw-qgU" firstAttribute="centerX" secondItem="ZBu-pF-gCp" secondAttribute="centerX" id="tDs-G1-Z27"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="ZBu-pF-gCp" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="3" id="Dw2-X1-LUR"/>
+                    <constraint firstItem="ZBu-pF-gCp" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="pp4-Ss-462"/>
+                    <constraint firstAttribute="bottom" secondItem="ZBu-pF-gCp" secondAttribute="bottom" constant="3" id="qJs-Bp-zHs"/>
+                    <constraint firstItem="ZBu-pF-gCp" firstAttribute="width" secondItem="H2p-sc-9uM" secondAttribute="width" multiplier="0.95" id="ywJ-AX-UpB"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.97254901959999995" green="0.97254901959999995" blue="0.97254901959999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="backview" destination="ZBu-pF-gCp" id="9UP-qT-jDe"/>
+                <outlet property="collectionview" destination="10c-kw-qgU" id="Sci-L7-jKZ"/>
+                <outlet property="titleview" destination="eS8-GV-61k" id="75N-pa-d2d"/>
+            </connections>
+            <point key="canvasLocation" x="76" y="145"/>
+        </tableViewCell>
+    </objects>
+</document>

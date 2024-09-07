@@ -1,0 +1,1 @@
+../../../YBImageBrowser/YBImageBrowser/CoreStructure/YBImageBrowserViewLayout.h

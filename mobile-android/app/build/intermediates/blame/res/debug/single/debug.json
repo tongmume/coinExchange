@@ -1,0 +1,2050 @@
+[
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_arrow.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zhiding.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\zhiding.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_zhifubao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_zhifubao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_guanggao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_guanggao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_release.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_release.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_collect_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_collect_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_contract.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_contract.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_three_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_three_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_account.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_account.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_text_one.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_text_one.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credit.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_credit.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_activity.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_text_one2.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_text_one2.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_toast.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\my_toast.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gonggao.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_gonggao.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_yinlian.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_yinlian.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_up_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_up_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_seller_apply_1.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_seller_apply_1.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_market.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_chat.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_chat.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_listview_fresh.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\custom_listview_fresh.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zaunshi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\zaunshi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cha.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\cha.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_wallet_flase_line.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_wallet_flase_line.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_six_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_six_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_default_header.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-hdpi\\icon_default_header.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_list.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_chat_list.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_address.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appeal.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_appeal.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_seller_apply_3.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_seller_apply_3.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image_back_coin_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\image_back_coin_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_bank.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_bank.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_bottom_out.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\anim\\dialog_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_people_and_card.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_people_and_card.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_lock.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_lock.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_into.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-hdpi\\icon_into.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_into.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_into.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_order_confirm.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_order_confirm.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kline.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_kline.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_anquan.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_anquan.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_one_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_one_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_market_up_down.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_market_up_down.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_sell_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_sell_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_into_gray.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_into_gray.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout_contract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_layout_contract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_four_banner.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\four_banner.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_five_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_five_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_down_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_down_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_extract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_c2c_ev.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_c2c_ev.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_ads.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_ads.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_toast_bacground.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_toast_bacground.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_country.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_country.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_permission_die.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\permission_die.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_check_box.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_check_box.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iv_save.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\iv_save.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_buy_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_buy_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_seller_apply_1.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_seller_apply_1.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_arrow.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_chat_bg_left.9.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\icon_chat_bg_left.9.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_email.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_email.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hone_left_top.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\hone_left_top.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_current_entrust_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_current_entrust_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_lead.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_change_lead.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cha.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\cha.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_back_gray.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back_gray.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_two_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_two_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_sell_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_sell_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_anquan.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_anquan.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_cm_logo.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cm_logo.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_wechat.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_wechat.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_left_sell_background.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_left_sell_background.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_orange_circle.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_orange_circle.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_pop_five_invite.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\item_pop_five_invite.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comm_foreground.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\comm_foreground.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_text_deep.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_text_deep.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id_person.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\id_person.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_six_entrust.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_six_entrust.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_arrow.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_c2_cbuy.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_c2_cbuy.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_change_show.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_change_show.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cm_three.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_cm_three.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_shaixuan.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_shaixuan.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_status.9.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\ic_status.9.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_delete_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_delete_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_settings.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_up.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_up.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_five_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_five_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_delete_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_delete_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_right_top.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_right_top.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_back_five.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\image_back_five.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_zican.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_zican.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_invite.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_invite.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_circle_corner_rect_orange_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\circle_corner_rect_orange_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_constract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_current_constract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_collect_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_collect_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_phone.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_phone.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_circle_orange_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_circle_orange_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_seller_apply_3.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_seller_apply_3.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_permission.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_six_multiples.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_six_multiples.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_wallet_coerturn_right.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_wallet_coerturn_right.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_eye_open.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_eye_open.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_mylocked_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_mylocked_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_selector.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\dot_selector.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lock_switch_thumn.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_lock_switch_thumn.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_detial.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_order_detial.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credit_info.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_credit_info.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_jianjie.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_about_jianjie.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_trust.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_current_trust.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pay_zfb_default.jpg.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_zfb_default.jpg"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_usdt_market.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_usdt_market.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_input_yellow.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_input_yellow.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_help.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_help.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ing_order.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_ing_order.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_normal.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\dot_normal.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_guanggao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_guanggao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ctc.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_ctc.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_c2c_tv_buy.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_c2c_tv_buy.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_not_login.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\empty_not_login.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_email_sign_up.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_email_sign_up.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_sell_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_sell_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_release.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_release.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_corner_rect_red_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\circle_corner_rect_red_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bt_smal_rad.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_bt_smal_rad.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_select.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_select.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_id_card_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_id_card_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_loading_view.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout-land\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_two.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_order.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_id_card_front.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_id_card_front.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\color_font_index_pop_selector.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\color\\font_index_pop_selector.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_gcc.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_gcc.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_into.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_into.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wallet_detail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_wallet_detail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_c2c_tv_sell.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_c2c_tv_sell.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_contract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_bg_my_center.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_bg_my_center.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_five.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_five.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_help.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_help.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_tiaokuan.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_tiaokuan.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_country.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_country.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_comm_icon_del_grey.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\comm_icon_del_grey.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_wallet.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_wallet.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_three.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_three.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_multiples_circle.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_multiples_circle.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seven.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_seven.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_order_detail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_order_detail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_one.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_one.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_home_viewpage.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_home_viewpage.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_tibi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_tibi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_message.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_message.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_one.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_qita.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_qita.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_account_pwd.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_edit_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_down.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_down.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_four.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_four.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trust_detail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_trust_detail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id_card_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\id_card_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_show_buy_sell.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_bottom_show_buy_sell.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lead.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_lead.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_currency.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_search_currency.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_chattipimage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\chattipimage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_edit_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_select_coins.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_select_coins.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_circle_corner_rect_gray_back1.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\circle_corner_rect_gray_back1.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_volume.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_volume.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_email.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_search.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_two_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_two_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_id_card_front.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_id_card_front.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_trust_history_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_trust_history_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_four_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_four_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_exchange_bb.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_exchange_bb.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cm_one.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cm_one.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_text_two2.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_text_two2.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_horn.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\horn.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_arrow.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-hdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_zichanliushui.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_zichanliushui.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_no_message.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\empty_no_message.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout_two2.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_layout_two2.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_to_qr_reg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_to_qr_reg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_buy_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_buy_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_changjian.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_changjian.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_viewpage_zhishi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\viewpage_zhishi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_to_qr_reg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_to_qr_reg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_feed_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_feed_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_fabi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_fabi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_four_banner.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\four_banner.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_seller_apply_failed.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_seller_apply_failed.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iv_copy.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\iv_copy.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_banner.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_banner.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_activitydetail_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_activitydetail_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_buy_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_buy_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_right_sell_background.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_right_sell_background.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_circle_corner_rect_gray_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\circle_corner_rect_gray_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_permission_die.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_permission_die.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selector_text_color_orange.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\selector_text_color_orange.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_pwd.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_search.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_search.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_gonggao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_gonggao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_calendar.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_mymining_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_mymining_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_weicaht.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_weicaht.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_cm_logo_login.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cm_logo_login.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image_back_five.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\image_back_five.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_right_top.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_right_top.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_no_order.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\empty_no_order.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhishiqi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\zhishiqi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_people_and_card.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_people_and_card.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_address.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_address.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_people_and_card.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_people_and_card.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_delete_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_delete_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_two_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_two_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_six_model.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_six_model.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_ali.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_bind_ali.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_one_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_one_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selector_text_color_blue.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\selector_text_color_blue.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cm_start.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_cm_start.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_jypassword.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_jypassword.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_ctcorder.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_ctcorder.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_dialog_coininfo.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_dialog_coininfo.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_market.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout_option.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_layout_option.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_four_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_four_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_viewpage_zhishi_yes.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\viewpage_zhishi_yes.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_horn.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\horn.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_loading.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_loading.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_bt_login_circle.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_bt_login_circle.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_jypwd.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_jypwd.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_edit_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_edit_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_up_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_up_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_one_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_one_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_buy.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_yinlian.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_yinlian.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_hangqing.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_hangqing.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_seller_apply_3.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_seller_apply_3.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shouye_3.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\btn_shouye_3.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_trust_constract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_trust_constract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_dingdan.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_dingdan.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_add.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_phone.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_change_phone.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_timelimit_view.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_timelimit_view.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_collect.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_collect.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_six_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_six_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_view.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_text_color.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_text_color.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ctc_bg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\ctc_bg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_id_card_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_id_card_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_option_icon_down.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_option_icon_down.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_multiples_item_color_orange.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_multiples_item_color_orange.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_send_bind_phone_code.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_send_bind_phone_code.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pic_login_bg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\pic_login_bg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_wallet_overturn_grame.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_wallet_overturn_grame.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_buy_yes2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_buy_yes2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_sell_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_sell_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_five_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_five_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zhiding.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\zhiding.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_down_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_down_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_help.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_help.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_detail_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_detail_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_addmultiples.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_addmultiples.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_wallet_frame.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_wallet_frame.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_safevalidate.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_safevalidate.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_frgment_text_three.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\frgment_text_three.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_phone_sign_up.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_phone_sign_up.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_shili.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_shili.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_eye_open.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_eye_open.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_background_white.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\dialog_background_white.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_six.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_six.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wallet_list.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_wallet_list.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_ads.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_ads.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_six.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_six.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_biyong_kefu.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\biyong_kefu.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_option_icon.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\item_option_icon.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_account_pwd.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_reset_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_into_btn.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\into_btn.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_down_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_down_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_no_data.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_no_data.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_dingdan.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_dingdan.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_service.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_service.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_apply_seller_process_wait.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_apply_seller_process_wait.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_collect_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_collect_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_notice_gray_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\corner_notice_gray_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start2.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_start2.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_gonggao.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_gonggao.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_seller_apply_2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_seller_apply_2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_entrust_child.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_entrust_child.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ads.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_ads.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_bg_my_center.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_bg_my_center.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_right_buy_background.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_right_buy_background.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_rv_ad.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\empty_rv_ad.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_chat_list.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_chat_list.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recharge.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_recharge.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_transition.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_transition.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_full_screen.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_c2c.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_c2c.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_apply_seller_process_success.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_apply_seller_process_success.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_progress_drawable.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_seven_icon.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_seven_icon.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_four_title.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_four_title.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_circle_indicator.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_circle_indicator.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_filter_orange.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_filter_orange.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_text_two.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_text_two.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_url.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_add_url.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_edit_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_edit_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_activity_step.9.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\ic_activity_step.9.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_release.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_release.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_sell_yes2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_sell_yes2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_phone_forgot.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_phone_forgot.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_back_five.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\image_back_five.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_my_guanggao.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_my_guanggao.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_yellow_round.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_yellow_round.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_text.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_text.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_lock.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_set_lock.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cm_one.jpg.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\ic_cm_one.jpg"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_banner_shiyanshi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\banner_shiyanshi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_left_buy_background.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_left_buy_background.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chongbijilu.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_chongbijilu.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_four_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_four_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_bottom_in.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\anim\\dialog_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id_card_front.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\id_card_front.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_into_gray.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_into_gray.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_option_history_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_option_history_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_collect_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_collect_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_settings.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shouye_5.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\btn_shouye_5.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_coin.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_coin.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_button_back.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\radio_button_back.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_trust_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_trust_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_market.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_market.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_order.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_order.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_seller_apply_2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_seller_apply_2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_apply_seller_process_wait.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_apply_seller_process_wait.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_entrust.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_entrust.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_banner_mine_shiyanshi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\banner_mine_shiyanshi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_apply_commit.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_seller_apply_commit.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_assets_transaction.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_assets_transaction.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_seller_apply_2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_seller_apply_2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_activity_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_activity_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_full_screen.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message_detail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_message_detail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trustlistconstractdata.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_trustlistconstractdata.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_loding_pop.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_loding_pop.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_depth.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\item_depth.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_back_coin_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\image_back_coin_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home_right_top.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\home_right_top.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_selected.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\dot_selected.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_no_order.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_no_order.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_corner_rect_orange_back0.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\circle_corner_rect_orange_back0.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_coin.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_select_coin.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zaunshi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\zaunshi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_coins_view.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_coins_view.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_two_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_two_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cm_one.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_cm_one.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zhifubao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_zhifubao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_side_open.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_side_open.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_five_invite.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_five_invite.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_entrust.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_my_entrust.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_language.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_five_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_five_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_version_update.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_version_update.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_side_close.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_side_close.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_yinhang_shouqi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\yinhang_shouqi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_filter_orange.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_filter_orange.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_btc_market.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_btc_market.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_drop.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_drop.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_info.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_six_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_six_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_email_forgot.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_email_forgot.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_chat_bg_right.9.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\icon_chat_bg_right.9.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_invite3.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\invite3.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_lever_buy_frame.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_lever_buy_frame.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_kline_popwindow.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_kline_popwindow.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_circle_orange_line.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_circle_orange_line.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_fabi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\popupwindow_fabi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_textview_pop.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\textview_pop.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_feed_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_feed_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_to_qr_reg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_to_qr_reg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_one_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_one_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_change_coin.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-hdpi\\icon_change_coin.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_two.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_two.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_depth.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_depth.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_sell_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_sell_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_overturn.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_overturn.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_jiaoyi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_jiaoyi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lock.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_wallet_list.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_wallet_list.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar_refresh.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\progressbar_refresh.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_four.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_four.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image_back_five.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\image_back_five.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shili_sc.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\shili_sc.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_login_pwd.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_edit_login_pwd.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_sell.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_sell.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_shape_c2c_tv_buy_yuan.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\shape_c2c_tv_buy_yuan.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_jypwd.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_jypwd.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_bg.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\my_bg.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_full_screen.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_apply.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_seller_apply.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_header_select.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_header_select.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_ctb.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\popupwindow_ctb.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ad.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_ad.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_load_progress_anim.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\load_progress_anim.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_mining.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_mining.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_common.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_common.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_yan_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\yan_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_fabi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_fabi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_six_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_six_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wechar_kefu.jpg.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\wechar_kefu.jpg"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_zichanliushui.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_zichanliushui.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_filter_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_filter_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_release_ads.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_release_ads.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_back_coin_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\image_back_coin_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_xu.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\check_xu.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab.9.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\tab.9.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_buy_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_buy_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_back_order_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\image_back_order_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\xml_network.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\xml\\network.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_arrow_black.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-hdpi\\icon_arrow_black.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_invite1.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\invite1.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ctcorderdetail.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_ctcorderdetail.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_back_gray.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_back_gray.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_goorder.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_goorder.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_eth_market.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_eth_market.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorite_market.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_favorite_market.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_assetpwd.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_assetpwd.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_update_qrcode.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\update_qrcode.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_notice.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_notice.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_yan_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\yan_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_entrust_constract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\dialog_fragment_entrust_constract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_weixin.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_about_weixin.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_bizhong.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_bizhong.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_home_tab_five.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_home_tab_five.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_chongbi.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_chongbi.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_shoukuanshezhi.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_shoukuanshezhi.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_dotted_line.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_dotted_line.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_three_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\home_three_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_seller_apply_1.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_seller_apply_1.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_fragment.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_show_fragment.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_filter_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_filter_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_trust_new.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_trust_new.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tv_color.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_tv_color.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_left_question_mark.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_left_question_mark.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_attend.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_my_attend.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\color_selector_radiobutton_text.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\color\\selector_radiobutton_text.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_home_layout.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_home_layout.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_wallet_contract.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_wallet_contract.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_trust.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\fragment_trust.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_six_flat.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_six_flat.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_four_title_right.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_four_title_right.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_collect_yes.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_collect_yes.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_take_photo.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\ic_take_photo.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_side_open.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_side_open.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_xinshou.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_help_xinshou.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grey_search.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grey_search.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_up_ads.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_up_ads.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_lever_sell_frame.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_lever_sell_frame.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pay_wechat_default.jpg.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_wechat_default.jpg"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_wallet.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_wallet.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_circle_conner_rect_gray_line.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-nodpi\\circle_conner_rect_gray_line.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_option_icon_up.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_option_icon_up.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_filter_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_filter_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_side_open.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_side_open.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tibijilu.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_tibijilu.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout_two.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\adapter_layout_two.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_wechat.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_wechat.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_collect_no.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_collect_no.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_top_service.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_top_service.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_four_no_color.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_four_no_color.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_invite2.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\invite2.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_volume.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\item_volume.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_myorder_item.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_myorder_item.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_loading.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_entrust_frame.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\shape_six_entrust_frame.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wallet.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_six_multiples2.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\pop_six_multiples2.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_refresh_footer.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\layout_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\color_radiobutton_two_color.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\color\\radiobutton_two_color.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_zican.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\my_zican.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_gonggao.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\home_gonggao.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cm_two.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_cm_two.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_side_close.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_side_close.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_id_card_front.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_id_card_front.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_id_card_back.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\icon_id_card_back.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_yinhang_zhankai.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\yinhang_zhankai.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\color_radiobutton_one_color.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\color\\radiobutton_one_color.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_eye_guan.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxhdpi\\icon_eye_guan.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image_back_coin_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xxxhdpi\\image_back_coin_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_back_ctc_manage.png.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable-xhdpi\\image_back_ctc_manage.png"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_account.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\activity_select_account.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_address.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\layout\\empty_address.xml"
+    },
+    {
+        "merged": "D:\\bizzanExchange\\mobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_send_bind_phone_color.xml.flat",
+        "source": "D:\\bizzanExchange\\mobile-android\\app\\src\\main\\res\\drawable\\selector_send_bind_phone_color.xml"
+    }
+]

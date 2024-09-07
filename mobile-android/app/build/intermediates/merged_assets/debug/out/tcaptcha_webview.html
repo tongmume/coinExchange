@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title></title>
+</head>
+
+<body>
+  <div style="display: none">
+    <iframe id="tcaptcha_callback_iframe"></iframe>
+  </div>
+</body>
+<script>
+  (function () {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.src = "https://ssl.captcha.qq.com/TCaptcha.js?v=" + (new Date()).valueOf() + "_" + Math.round(Math.random() * 1000000000);
+    document.getElementsByTagName("head")[0].appendChild(s);
+
+    function GetQueryString(name) {
+      var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+      if (window.location.search && window.location.search.length >= 1) {
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null && r.length >= 2) return r[2];
+      }
+      return null;
+    }
+
+
+    window.SDKTCaptchaVerifyCallback = function (retJson) {
+      if (retJson) {
+        SDKTCaptchaCommonCallback("tcwebscheme://callback?retJson=" + encodeURIComponent(JSON.stringify(retJson)));
+      }
+    }
+    window.SDKTCaptchaReadyCallback = function (retJson) {
+      if (retJson && retJson.sdkView && retJson.sdkView.width && retJson.sdkView.height
+        && parseInt(retJson.sdkView.width) > 0 && parseInt(retJson.sdkView.height) > 0) {
+        SDKTCaptchaCommonCallback("tcwebscheme://readyCallback?width=" + retJson.sdkView.width + "&height=" + retJson.sdkView.height);
+      }
+    }
+    window.onload = function () {
+
+      try {
+        var map = GetQueryString("map");
+        map = decodeURIComponent(map);
+        var option = {
+          sdkOpts: { width: GetQueryString("width"), height: GetQueryString("height") },
+          ready: SDKTCaptchaReadyCallback
+        }
+        if (map && map.length > 0 && JSON.parse(map)) {
+          SDKextend(option, JSON.parse(map));
+        }
+      } catch (e) {
+
+      }
+
+      new TencentCaptcha(GetQueryString("appid"), SDKTCaptchaVerifyCallback, option).show();
+    }
+
+    window.onerror = function (msg, url, line, col, error) {
+      if (window.TencentCaptcha == null) {
+        SDKTCaptchaCommonCallback("tcwebscheme://jserrorCallback?msg=" + encodeURIComponent(msg));
+      }
+    }
+    var SDKextend = function (a, b, c) { // obj
+      c = c || !1;
+      var d = {};
+      for (var e in b)
+        a[e] = b[e];
+      if (c) {
+        for (var e in a)
+          d[e] = a[e];
+        return d;
+      }
+      return a;
+    }
+    var SDKTCaptchaCommonCallback = function (url) {
+      document.getElementById("tcaptcha_callback_iframe").src = url;
+    };
+  })()
+</script>
+
+</html>
